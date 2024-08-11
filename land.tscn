@@ -1,11 +1,10 @@
 [gd_scene load_steps=4 format=3 uid="uid://bmlboqol0ihqo"]
 
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_tn0vg"]
+[ext_resource type="PackedScene" uid="uid://cdtuspgg0m1pw" path="res://plane.glb" id="2_qvk2o"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_q6k8p"]
 size = Vector3(10, 0.1, 10)
-
-[sub_resource type="PlaneMesh" id="PlaneMesh_c0iav"]
 
 [node name="Land" type="Node3D"]
 
@@ -21,7 +20,5 @@ transform = Transform3D(0.025, 0, 0, 0, 0.025, 0, 0, 0, 0.025, 0, 0.171938, 0)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.05, 0)
 shape = SubResource("BoxShape3D_q6k8p")
 
-[node name="Plane" type="MeshInstance3D" parent="StaticBody3D"]
-transform = Transform3D(5, 0, 0, 0, 1, 0, 0, 0, 5, 0, 0, 0)
-mesh = SubResource("PlaneMesh_c0iav")
-skeleton = NodePath("../..")
+[node name="plane" parent="StaticBody3D" instance=ExtResource("2_qvk2o")]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
