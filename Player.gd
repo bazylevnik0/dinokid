@@ -12,6 +12,10 @@ var target_speed = 0
 func _physics_process(delta):
 	var direction = Vector3.ZERO
 
+	if Input.is_action_just_released("key_a"):
+		$Model/AnimationPlayer.play("Hor")
+	if Input.is_action_just_released("key_b"):
+		$Model/AnimationPlayer.play("Ver")
 	if Input.is_action_just_released("move_right"):
 		rotation.y -= PI/2
 	if Input.is_action_just_released("move_left"):
