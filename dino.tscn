@@ -4,7 +4,7 @@
 [ext_resource type="Script" path="res://Player.gd" id="1_igx1c"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_eftsy"]
-size = Vector3(1, 10, 5)
+size = Vector3(5, 10, 5)
 
 [node name="Dino" type="Node3D"]
 
@@ -15,7 +15,8 @@ script = ExtResource("1_igx1c")
 transform = Transform3D(-3.78552e-08, -0.5, 0.866025, -2.18557e-08, 0.866025, 0.5, -1, 1.95399e-14, -4.37114e-08, 11.6303, 8.95775, 0)
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Player"]
-transform = Transform3D(1, 0, 0, 0, 0.999996, 0.00293215, 0, -0.00293215, 0.999996, 0, 2.75, 0)
+transform = Transform3D(1, 0, 0, 0, 0.999996, 0.00293215, 0, -0.00293215, 0.999996, 0, 5.59439, 0)
 shape = SubResource("BoxShape3D_eftsy")
 
 [node name="Model" parent="Player" instance=ExtResource("1_abwe3")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 8.96022, 0)

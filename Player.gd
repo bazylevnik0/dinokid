@@ -12,7 +12,7 @@ var target_speed = 0
 func _physics_process(delta):
 	var direction = Vector3.ZERO
 
-	if Input.is_action_just_released("key_a"):
+	if Input.is_action_just_released("key_a"):		
 		$Model/AnimationPlayer.play("Hor")
 	if Input.is_action_just_released("key_b"):
 		$Model/AnimationPlayer.play("Ver")
@@ -22,6 +22,7 @@ func _physics_process(delta):
 		rotation.y += PI/2
 	
 	if Input.is_action_pressed("move_backward"):
+		$Model/AnimationPlayer.play("Animation")
 		target_speed -= 0.1;
 		if target_speed <= max_speed_backward :
 			target_speed = max_speed_backward;
@@ -30,6 +31,7 @@ func _physics_process(delta):
 		target_speed = 0
 	
 	if Input.is_action_pressed("move_forward"):
+		$Model/AnimationPlayer.play("Animation")
 		target_speed += 0.1;
 		if target_speed >= max_speed_forward :
 			target_speed = max_speed_forward
