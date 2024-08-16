@@ -22,3 +22,6 @@ shape = SubResource("BoxShape3D_q6k8p")
 
 [node name="plane" parent="StaticBody3D" instance=ExtResource("2_qvk2o")]
 transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-4.3029e-08, 0.176002, -0.98439, 7.69331e-09, 0.98439, 0.176002, 1, 0, -4.37114e-08, -1.93727, 0.332215, 0.0535035)

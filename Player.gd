@@ -23,7 +23,7 @@ func _physics_process(delta):
 		rotation.y += PI/2
 	
 	if Input.is_action_pressed("move_backward"):
-		$Model/AnimationPlayer.play("Animation")
+		$Dino/AnimationPlayer.play("Animation")
 		target_speed -= 0.1;
 		if target_speed <= max_speed_backward :
 			target_speed = max_speed_backward;
@@ -32,7 +32,7 @@ func _physics_process(delta):
 		target_speed = 0
 	
 	if Input.is_action_pressed("move_forward"):
-		$Model/AnimationPlayer.play("Animation")
+		$Dino/AnimationPlayer.play("Animation")
 		target_speed += 0.1;
 		if target_speed >= max_speed_forward :
 			target_speed = max_speed_forward
@@ -59,8 +59,13 @@ func _physics_process(delta):
 	target_velocity.y = direction.y * 1
 
 	# Vertical Velocity
+	if is_on_floor () :
+		$Dino.visible = true
+		$DinoJump.visible = false
 	if not is_on_floor(): # If in the air, fall towards the floor. Literally gravity
 		target_velocity.y = target_velocity.y - (fall_acceleration * delta)
+		$Dino.visible = false
+		$DinoJump.visible = true
 
 	# Moving the Character	
 	velocity = target_velocity
