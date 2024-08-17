@@ -9,6 +9,7 @@ var target_velocity = Vector3.ZERO
 var target_jump_height = 0
 var target_speed = 0
 
+var jump_is_started = false
 
 func _physics_process(delta):
 	var direction = Vector3.ZERO
@@ -47,8 +48,13 @@ func _physics_process(delta):
 			target_jump_height = max_jump_height	
 	if Input.is_action_just_released("jump"):
 		if is_on_floor(): 
-			direction.y += target_jump_height
-		target_jump_height = 0
+			jump_is_started = true
+	if jump_is_started == true :
+		direction.y += 1
+		target_jump_height -= 1
+		if target_jump_height <= 0 :
+			target_jump_height = 0
+			jump_is_started = false
 		
 	if direction != Vector3.ZERO:
 		direction = direction.rotated(Vector3.UP, rotation.y)
@@ -56,7 +62,7 @@ func _physics_process(delta):
 	# Ground Velocity	
 	target_velocity.x = direction.x * abs(target_speed)
 	target_velocity.z = direction.z * abs(target_speed)
-	target_velocity.y = direction.y * 1
+	target_velocity.y = direction.y 
 
 	# Vertical Velocity
 	if is_on_floor () :
