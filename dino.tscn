@@ -10,6 +10,7 @@ size = Vector3(5, 10, 5)
 [node name="Dino" type="Node3D"]
 
 [node name="Player" type="CharacterBody3D" parent="."]
+platform_on_leave = 2
 script = ExtResource("1_igx1c")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Player"]
