@@ -3,13 +3,13 @@ extends CharacterBody3D
 @export var max_speed_forward  = 10
 @export var max_speed_backward = -1
 @export var max_jump_height = 20
-@export var fall_acceleration = 25
+@export var fall_acceleration = 200
 
 var target_velocity = Vector3.ZERO
-var target_jump_height = 0
 var target_speed = 0
 
 var jump_is_started = false
+var target_jump_height = 0
 
 func _physics_process(delta):
 	var direction = Vector3.ZERO
@@ -43,7 +43,7 @@ func _physics_process(delta):
 	
 	
 	if Input.is_action_pressed("jump"):
-		target_jump_height+=1
+		target_jump_height+=5
 		if target_jump_height >= max_jump_height :
 			target_jump_height = max_jump_height	
 	if Input.is_action_just_released("jump"):
@@ -69,7 +69,8 @@ func _physics_process(delta):
 		$Dino.visible = true
 		$DinoJump.visible = false
 	if not is_on_floor(): # If in the air, fall towards the floor. Literally gravity
-		target_velocity.y = target_velocity.y - (fall_acceleration * delta)
+		if jump_is_started == false :
+			target_velocity.y = target_velocity.y - (fall_acceleration * delta)
 		$Dino.visible = false
 		$DinoJump.visible = true
 
