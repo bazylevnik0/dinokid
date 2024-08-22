@@ -18,10 +18,10 @@ func _physics_process(delta):
 		$Model/AnimationPlayer.play("Hor")
 	if Input.is_action_just_released("key_b"):
 		$Model/AnimationPlayer.play("Ver")
-	if Input.is_action_just_released("move_right"):
-		rotation.y -= PI/2
-	if Input.is_action_just_released("move_left"):
-		rotation.y += PI/2
+	if Input.is_action_pressed("move_right"):
+		rotation.y -= PI/180
+	if Input.is_action_pressed("move_left"):
+		rotation.y += PI/180
 	
 	if Input.is_action_pressed("move_backward"):
 		$Dino/AnimationPlayer.play("Animation")
