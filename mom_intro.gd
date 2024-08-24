@@ -7,11 +7,7 @@ func _ready() -> void:
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
-var intro_finished = false
 func _process(delta: float) -> void:
-	if intro_finished == true :
+	if not is_playing() :
 		get_tree().change_scene_to_file('res://homeisland.tscn')
-	else:
-		if not is_playing() :
-			intro_finished = true
 	pass
