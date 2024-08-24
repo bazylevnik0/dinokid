@@ -161,7 +161,7 @@ _data = {
 [node name="Node3D" type="Node3D"]
 
 [node name="Dino" parent="." instance=ExtResource("1_on506")]
-transform = Transform3D(0.0249884, 0, 0.000763027, 0, 0.025, 0, -0.000763027, 0, 0.0249884, -0.0529699, 1.10765, 0.385706)
+transform = Transform3D(0.025, 0, 0, 0, 0.025, 0, 0, 0, 0.025, -0.0529699, 1.10765, 0.385706)
 
 [node name="StaticBody3D" type="StaticBody3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, -0.0844257, 0.99643, 0, -0.99643, -0.0844257, 0, 7.01912, 0)
