@@ -1,11 +1,30 @@
-[gd_scene load_steps=45 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=53 format=3 uid="uid://c4sjk00cblni5"]
 
+[ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
 [ext_resource type="PackedScene" uid="uid://dir872dk02wtc" path="res://homeisland.glb" id="2_jdbx3"]
 [ext_resource type="PackedScene" uid="uid://sh4g6naxwlt0" path="res://homeisland-camp.glb" id="3_x46lr"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_2e7xp"]
 size = Vector3(2.05182, 2.13129, 2.04102)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_am7kk"]
+size = Vector3(0.6875, 1.71045, 1.1543)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ho7xt"]
+size = Vector3(1.09521, 1.21371, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_sd3ly"]
+size = Vector3(0.44043, 1.38953, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_fmwdb"]
+size = Vector3(1, 0.493774, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wp45b"]
+size = Vector3(0.347168, 0.528259, 1.16125)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_g5ven"]
+size = Vector3(1, 1.427, 0.328026)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_fabjt"]
 size = Vector3(0.64563, 0.652893, 0.665077)
@@ -158,7 +177,11 @@ _data = {
 "RESET": SubResource("Animation_r6url")
 }
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_7d24q"]
+size = Vector3(1, 1, 1.14111)
+
 [node name="Node3D" type="Node3D"]
+script = ExtResource("1_le85t")
 
 [node name="Dino" parent="." instance=ExtResource("1_on506")]
 transform = Transform3D(0.025, 0, 0, 0, 0.025, 0, 0, 0, 0.025, -0.0529699, 1.10765, 0.385706)
@@ -169,23 +192,47 @@ transform = Transform3D(1, 0, 0, 0, -0.0844257, 0.99643, 0, -0.99643, -0.0844257
 [node name="homeisland" parent="StaticBody3D" instance=ExtResource("2_jdbx3")]
 transform = Transform3D(1, 0, 0, 0, -0.0830519, -0.996546, 0, 0.996546, -0.0830519, 0, 0.681805, -8.04696)
 
-[node name="Main1" type="CollisionShape3D" parent="StaticBody3D"]
+[node name="Mountain" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830874, 0, 0.0830874, 0.996552, 0.00253336, 0.667316, -8.02558)
 shape = SubResource("BoxShape3D_2e7xp")
 
-[node name="Main1Stairs1" type="CollisionShape3D" parent="StaticBody3D"]
+[node name="MountainInside5" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(0.998646, 0.0467428, 0.0228141, -0.0450382, 0.99652, -0.0702449, -0.026018, 0.0691232, 0.997271, -0.827245, -1.12284, -7.28435)
+shape = SubResource("BoxShape3D_am7kk")
+
+[node name="MountainInside4" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, 0.0896788, -2.23127, -7.32904)
+shape = SubResource("BoxShape3D_ho7xt")
+
+[node name="MountainInside3" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, 0.614329, -1.45076, -7.26277)
+shape = SubResource("BoxShape3D_sd3ly")
+
+[node name="MountainInside2" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, -0.648373, -0.661304, -7.19559)
+shape = SubResource("BoxShape3D_fmwdb")
+
+[node name="MountainInside1" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, 0.334544, -0.644607, -7.1942)
+shape = SubResource("BoxShape3D_wp45b")
+
+[node name="MountainInside" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, 0.00812817, -0.991573, -7.30403)
+shape = SubResource("BoxShape3D_g5ven")
+
+[node name="MountainStairs1" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, 1.30627, -0.0841328, -7.39852)
 shape = SubResource("BoxShape3D_fabjt")
 
-[node name="Main1Stairs2" type="CollisionShape3D" parent="StaticBody3D"]
+[node name="MountainStairs2" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, 1.30627, 0.551044, -7.96444)
 shape = SubResource("BoxShape3D_fabjt")
 
-[node name="Main1Stairs3" type="CollisionShape3D" parent="StaticBody3D"]
+[node name="MountainStairs3" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, 1.30627, 1.19791, -8.50665)
 shape = SubResource("BoxShape3D_fabjt")
 
-[node name="Main1Stairs4" type="CollisionShape3D" parent="StaticBody3D"]
+[node name="MountainStairs4" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830884, 0, 0.0830884, 0.996552, 1.30627, 1.81357, -9.04206)
 shape = SubResource("BoxShape3D_fabjt")
 
@@ -397,3 +444,25 @@ libraries = {
 "": SubResource("AnimationLibrary_lba86")
 }
 autoplay = "Move_cycle"
+
+[node name="Text" type="Label" parent="."]
+visible = false
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -96.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Dino, please go outside and find me..."
+horizontal_alignment = 1
+
+[node name="MountainInsideArea" type="Area3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1.59488)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="MountainInsideArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.0705566)
+shape = SubResource("BoxShape3D_7d24q")
+
+[connection signal="body_entered" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_entered"]
+[connection signal="body_exited" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_exited"]
