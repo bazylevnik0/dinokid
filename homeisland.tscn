@@ -197,7 +197,7 @@ transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830874, 0, 0.0830874, 0.996552
 shape = SubResource("BoxShape3D_2e7xp")
 
 [node name="MountainInside5" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(0.998646, 0.0467428, 0.0228141, -0.0450382, 0.99652, -0.0702449, -0.026018, 0.0691232, 0.997271, -0.827245, -1.12284, -7.28435)
+transform = Transform3D(0.998646, 0.0467428, 0.0228141, -0.0450382, 0.99652, -0.0702448, -0.026018, 0.0691232, 0.997271, -0.827245, -1.12284, -7.28435)
 shape = SubResource("BoxShape3D_am7kk")
 
 [node name="MountainInside4" type="CollisionShape3D" parent="StaticBody3D"]
