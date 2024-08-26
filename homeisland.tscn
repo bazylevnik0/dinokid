@@ -1,4 +1,4 @@
-[gd_scene load_steps=53 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=55 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
@@ -179,6 +179,12 @@ _data = {
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_7d24q"]
 size = Vector3(1, 1, 1.14111)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_deb0t"]
+size = Vector3(1.8972, 0.555176, 0.77832)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6xsvl"]
+size = Vector3(8.72192, 1.03516, 3.99593)
 
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_le85t")
@@ -464,5 +470,19 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1.59488)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.0705566)
 shape = SubResource("BoxShape3D_7d24q")
 
+[node name="MountainDownArea" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="MountainDownArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0144272, -2.31632, -2.81703)
+shape = SubResource("BoxShape3D_deb0t")
+
+[node name="RiverWaterArea" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="RiverWaterArea"]
+transform = Transform3D(0.998942, 0, 0.0459906, 0, 1, 0, -0.0459906, 0, 0.998942, 0.106334, -3.48161, -8.0999)
+shape = SubResource("BoxShape3D_6xsvl")
+
 [connection signal="body_entered" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_entered"]
 [connection signal="body_exited" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_exited"]
+[connection signal="body_entered" from="MountainDownArea" to="." method="_on_mountain_down_area_body_entered"]
+[connection signal="body_entered" from="RiverWaterArea" to="." method="_on_river_water_area_body_entered"]
