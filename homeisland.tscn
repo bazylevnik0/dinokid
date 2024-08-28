@@ -1,9 +1,10 @@
-[gd_scene load_steps=55 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=59 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
 [ext_resource type="PackedScene" uid="uid://dir872dk02wtc" path="res://homeisland.glb" id="2_jdbx3"]
 [ext_resource type="PackedScene" uid="uid://sh4g6naxwlt0" path="res://homeisland-camp.glb" id="3_x46lr"]
+[ext_resource type="PackedScene" uid="uid://belu1sqslnkbu" path="res://river_stone.glb" id="4_4sxba"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_2e7xp"]
 size = Vector3(2.05182, 2.13129, 2.04102)
@@ -36,7 +37,45 @@ size = Vector3(1.84566, 3.20929, 0.762634)
 size = Vector3(6.62627, 5.73376, 0.510864)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_6uo28"]
-size = Vector3(0.52861, 0.640366, 0.83136)
+size = Vector3(0.52861, 0.640366, 0.568192)
+
+[sub_resource type="Animation" id="Animation_pptnf"]
+resource_name = "new_animation"
+length = 6.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(2.95515, 7.68205, -9.29592), Vector3(2.95515, 7.6388, -8.78541)]
+}
+
+[sub_resource type="Animation" id="Animation_1und0"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(2.95515, 7.68205, -9.29592)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_5kl1c"]
+_data = {
+"RESET": SubResource("Animation_1und0"),
+"new_animation": SubResource("Animation_pptnf")
+}
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_w415f"]
 size = Vector3(6.61166, 3.8833, 1)
@@ -251,60 +290,17 @@ transform = Transform3D(1, 0, 0, 0, 0.996502, -0.0837514, 0, 0.0837548, 0.9965, 
 shape = SubResource("BoxShape3D_pconj")
 
 [node name="River1" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 2.95515, 7.65766, -9.06027)
+transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 2.95515, 7.68205, -9.29592)
 shape = SubResource("BoxShape3D_6uo28")
 
-[node name="River2" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 1.77742, 7.65766, -9.06027)
-shape = SubResource("BoxShape3D_6uo28")
+[node name="river_stone" parent="StaticBody3D/River1" instance=ExtResource("4_4sxba")]
+transform = Transform3D(1, 0, 0, 0, -4.28408e-08, 1, 0, -1, -4.28408e-08, 0, -0.0131578, -0.707025)
 
-[node name="River3" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 0.677788, 7.65766, -9.06027)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River4" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, -0.339793, 7.65766, -9.06027)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River5" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, -1.57, 7.65766, -9.06027)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River6" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, -2.57658, 7.65766, -9.06027)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River7" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, -2.57658, 9.12725, -8.93575)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River8" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, -1.52795, 9.12725, -8.93575)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River9" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, -0.356704, 9.12726, -8.93575)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River10" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 0.80243, 9.12726, -8.93575)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River11" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 1.89271, 9.12726, -8.93575)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River12" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 3.04377, 9.12726, -8.93575)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River13" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 3.04377, 10.0399, -8.85843)
-shape = SubResource("BoxShape3D_6uo28")
-
-[node name="River14" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 1.90417, 10.0399, -8.85843)
-shape = SubResource("BoxShape3D_6uo28")
+[node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River1"]
+libraries = {
+"": SubResource("AnimationLibrary_5kl1c")
+}
+autoplay = "new_animation"
 
 [node name="Main4" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.996521, -0.0833475, 0, 0.0833475, 0.996521, 0.221786, 12.633, -8.80891)
