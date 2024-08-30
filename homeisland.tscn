@@ -1,10 +1,10 @@
-[gd_scene load_steps=59 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=79 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
 [ext_resource type="PackedScene" uid="uid://dir872dk02wtc" path="res://homeisland.glb" id="2_jdbx3"]
 [ext_resource type="PackedScene" uid="uid://sh4g6naxwlt0" path="res://homeisland-camp.glb" id="3_x46lr"]
-[ext_resource type="PackedScene" uid="uid://belu1sqslnkbu" path="res://river_stone.glb" id="4_4sxba"]
+[ext_resource type="PackedScene" uid="uid://ob2eaacdfgux" path="res://river_stone.glb" id="4_4sxba"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_2e7xp"]
 size = Vector3(2.05182, 2.13129, 2.04102)
@@ -173,6 +173,211 @@ size = Vector3(5.54242, 1, 2.36401)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_xahhj"]
 size = Vector3(2.16718, 2.39545, 0.934448)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_vk1wi"]
+size = Vector3(0.545471, 0.576782, 0.946167)
+
+[sub_resource type="Animation" id="Animation_4h127"]
+resource_name = "new_animation"
+length = 6.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(1.77487, 7.70079, -9.54801), Vector3(1.77487, 7.67707, -9.26811)]
+}
+
+[sub_resource type="Animation" id="Animation_qfltq"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(1.77487, 7.70079, -9.54801)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_5qjsl"]
+_data = {
+"RESET": SubResource("Animation_qfltq"),
+"new_animation": SubResource("Animation_4h127")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_gfbl1"]
+size = Vector3(0.641968, 0.578857, 1.07568)
+
+[sub_resource type="Animation" id="Animation_i6if1"]
+resource_name = "new_animation"
+length = 6.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0.659664, 7.60984, -9.12177), Vector3(0.659664, 7.6482, -9.57447)]
+}
+
+[sub_resource type="Animation" id="Animation_lwy5w"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0.659664, 7.60984, -9.12177)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_0kkcn"]
+_data = {
+"RESET": SubResource("Animation_lwy5w"),
+"new_animation": SubResource("Animation_i6if1")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_f6aqq"]
+size = Vector3(0.566162, 0.613586, 0.825684)
+
+[sub_resource type="Animation" id="Animation_1t6bc"]
+resource_name = "new_animation"
+length = 6.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(-0.378275, 7.68815, -9.49291), Vector3(-0.378275, 7.62677, -8.7684)]
+}
+
+[sub_resource type="Animation" id="Animation_qd3du"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(-0.378275, 7.68815, -9.49291)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_xesb8"]
+_data = {
+"RESET": SubResource("Animation_qd3du"),
+"new_animation": SubResource("Animation_1t6bc")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ps81l"]
+size = Vector3(0.555283, 0.538994, 0.76532)
+
+[sub_resource type="Animation" id="Animation_3scqn"]
+resource_name = "new_animation"
+length = 6.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(-1.5432, 7.67122, -9.49886), Vector3(-1.5432, 7.63342, -9.05268)]
+}
+
+[sub_resource type="Animation" id="Animation_yqdpa"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(-1.5432, 7.67122, -9.49886)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_t0l7x"]
+_data = {
+"RESET": SubResource("Animation_yqdpa"),
+"new_animation": SubResource("Animation_3scqn")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wpd5b"]
+size = Vector3(0.493179, 0.520569, 0.512421)
+
+[sub_resource type="Animation" id="Animation_ofuse"]
+resource_name = "new_animation"
+length = 6.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(-2.55527, 7.73503, -9.37166), Vector3(-2.55527, 7.70203, -8.98211)]
+}
+
+[sub_resource type="Animation" id="Animation_50yr8"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(-2.55527, 7.73503, -9.37166)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_oi1md"]
+_data = {
+"RESET": SubResource("Animation_50yr8"),
+"new_animation": SubResource("Animation_ofuse")
+}
 
 [sub_resource type="CylinderShape3D" id="CylinderShape3D_cbdnm"]
 height = 0.253271
@@ -429,6 +634,71 @@ shape = SubResource("BoxShape3D_tjj2u")
 [node name="Stairs1" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.849138, 0.528172, 0, -0.528172, 0.849138, -0.112045, 38.2005, -5.85788)
 shape = SubResource("BoxShape3D_xahhj")
+
+[node name="River2" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.996627, -0.0820952, 0, 0.0820952, 0.996627, 1.77487, 7.70079, -9.54801)
+shape = SubResource("BoxShape3D_vk1wi")
+
+[node name="river_stone" parent="StaticBody3D/River2" instance=ExtResource("4_4sxba")]
+transform = Transform3D(1, 0, 0, 0, -4.37722e-08, -1, 0, 1, -4.37722e-08, 0, 0.00128126, -0.547775)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River2"]
+libraries = {
+"": SubResource("AnimationLibrary_5qjsl")
+}
+autoplay = "new_animation"
+
+[node name="River3" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.996519, -0.0834173, 0, 0.0834173, 0.996519, 0.659664, 7.60984, -9.12177)
+shape = SubResource("BoxShape3D_gfbl1")
+
+[node name="river_stone" parent="StaticBody3D/River3" instance=ExtResource("4_4sxba")]
+transform = Transform3D(1, 0, 0, 0, -4.36557e-08, -1, 0, 1, -4.36557e-08, 0, 0.000501633, -0.495408)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River3"]
+libraries = {
+"": SubResource("AnimationLibrary_0kkcn")
+}
+autoplay = "new_animation"
+
+[node name="River4" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.99732, -0.0731687, 0, 0.0731687, 0.99732, -0.378275, 7.68815, -9.49291)
+shape = SubResource("BoxShape3D_f6aqq")
+
+[node name="river_stone" parent="StaticBody3D/River4" instance=ExtResource("4_4sxba")]
+transform = Transform3D(1, 0, 0, 0, -4.47035e-08, -1, 0, 1, -4.47035e-08, 0, 0.00687551, -0.608823)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River4"]
+libraries = {
+"": SubResource("AnimationLibrary_xesb8")
+}
+autoplay = "new_animation"
+
+[node name="River5" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.997794, -0.0664482, 0, 0.0664482, 0.997794, -1.5432, 7.67122, -9.49886)
+shape = SubResource("BoxShape3D_ps81l")
+
+[node name="river_stone" parent="StaticBody3D/River5" instance=ExtResource("4_4sxba")]
+transform = Transform3D(1, 0, 0, 0, -4.47035e-08, -1, 0, 1, -4.47035e-08, 0, 0.0115786, -0.642093)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River5"]
+libraries = {
+"": SubResource("AnimationLibrary_t0l7x")
+}
+autoplay = "new_animation"
+
+[node name="River6" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.996986, -0.0776068, 0, 0.0776068, 0.996986, -2.55527, 7.73503, -9.37166)
+shape = SubResource("BoxShape3D_wpd5b")
+
+[node name="river_stone" parent="StaticBody3D/River6" instance=ExtResource("4_4sxba")]
+transform = Transform3D(1, 0, 0, 0, -4.42378e-08, -1, 0, 1, -4.42378e-08, 0, 0.00509357, -0.744478)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River6"]
+libraries = {
+"": SubResource("AnimationLibrary_oi1md")
+}
+autoplay = "new_animation"
 
 [node name="Light" type="DirectionalLight3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, -0.0844257, 0.99643, 0, -0.99643, -0.0844257, 0, 7.01912, 0)
