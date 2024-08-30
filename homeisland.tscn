@@ -1,4 +1,4 @@
-[gd_scene load_steps=111 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=112 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
@@ -758,6 +758,9 @@ size = Vector3(1.8972, 0.555176, 0.77832)
 [sub_resource type="BoxShape3D" id="BoxShape3D_6xsvl"]
 size = Vector3(8.72192, 1.03516, 3.99593)
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_ab8gv"]
+size = Vector3(3.21185, 1, 1.42136)
+
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_le85t")
 
@@ -768,7 +771,7 @@ transform = Transform3D(0.025, 0, 0, 0, 0.025, 0, 0, 0, 0.025, -0.0529699, 1.107
 transform = Transform3D(1, 0, 0, 0, -0.0844257, 0.99643, 0, -0.99643, -0.0844257, 0, 7.01912, 0)
 
 [node name="homeisland" parent="StaticBody3D" instance=ExtResource("2_jdbx3")]
-transform = Transform3D(1, 0, 0, 0, -0.0830519, -0.996546, 0, 0.996546, -0.0830519, 0, 0.703275, -8.30036)
+transform = Transform3D(1, 0, 0, 0, -0.0830519, -0.996546, 0, 0.996546, -0.0830519, 0, 0.696112, -8.21581)
 
 [node name="Mountain" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830874, 0, 0.0830874, 0.996552, 0.00253336, 0.667316, -8.02558)
@@ -1180,7 +1183,15 @@ shape = SubResource("BoxShape3D_deb0t")
 transform = Transform3D(0.998942, 0, 0.0459906, 0, 1, 0, -0.0459906, 0, 0.998942, 0.106334, -3.48161, -8.0999)
 shape = SubResource("BoxShape3D_6xsvl")
 
+[node name="BeachPlace" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="BeachPlace"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.52208, -2.5881, -4.95699)
+shape = SubResource("BoxShape3D_ab8gv")
+
 [connection signal="body_entered" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_entered"]
 [connection signal="body_exited" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_exited"]
 [connection signal="body_entered" from="MountainDownArea" to="." method="_on_mountain_down_area_body_entered"]
 [connection signal="body_entered" from="RiverWaterArea" to="." method="_on_river_water_area_body_entered"]
+[connection signal="body_entered" from="BeachPlace" to="." method="_on_beach_place_body_entered"]
+[connection signal="body_exited" from="BeachPlace" to="." method="_on_beach_place_body_exited"]
