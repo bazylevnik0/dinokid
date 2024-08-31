@@ -7,6 +7,8 @@ func _ready() -> void:
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
 	$StaticBody3D/homeisland/AnimationPlayer.play("Animation")
+	if not $SoundMusicMain.playing :
+		$SoundMusicMain.play()
 	pass
 
 func _on_mountain_inside_area_body_entered(body: Node3D) -> void:

@@ -14,10 +14,6 @@ var target_jump_height = 0
 func _physics_process(delta):
 	var direction = Vector3.ZERO
 
-	if Input.is_action_just_released("key_a"):		
-		$Model/AnimationPlayer.play("Hor")
-	if Input.is_action_just_released("key_b"):
-		$Model/AnimationPlayer.play("Ver")
 	if Input.is_action_pressed("move_right"):
 		rotation.y -= PI/180
 	if Input.is_action_pressed("move_left"):
@@ -26,8 +22,8 @@ func _physics_process(delta):
 	if Input.is_action_pressed("move_backward"):
 		if is_on_floor():
 			$Dino/AnimationPlayer.play("Animation")
-			if not $AudioStreamPlayer3D.playing :
-				$AudioStreamPlayer3D.play()
+			if not $SoundWalking.playing :
+				$SoundWalking.play()
 		target_speed -= 0.1;
 		if target_speed <= max_speed_backward :
 			target_speed = max_speed_backward;
@@ -38,8 +34,8 @@ func _physics_process(delta):
 	if Input.is_action_pressed("move_forward"):
 		if is_on_floor():
 			$Dino/AnimationPlayer.play("Animation")
-			if not $AudioStreamPlayer3D.playing :
-				$AudioStreamPlayer3D.play()
+			if not $SoundWalking.playing :
+				$SoundWalking.play()
 		target_speed += 0.1;
 		if target_speed >= max_speed_forward :
 			target_speed = max_speed_forward
@@ -55,6 +51,7 @@ func _physics_process(delta):
 	if Input.is_action_just_released("jump"):
 		if is_on_floor(): 
 			jump_is_started = true
+			$SoundJumping.play()
 	if jump_is_started == true :
 		direction.y += 1
 		target_jump_height -= 1

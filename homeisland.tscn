@@ -1,10 +1,11 @@
-[gd_scene load_steps=112 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=113 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
 [ext_resource type="PackedScene" uid="uid://dir872dk02wtc" path="res://homeisland.glb" id="2_jdbx3"]
 [ext_resource type="PackedScene" uid="uid://sh4g6naxwlt0" path="res://homeisland-camp.glb" id="3_x46lr"]
 [ext_resource type="PackedScene" uid="uid://ob2eaacdfgux" path="res://river_stone.glb" id="4_4sxba"]
+[ext_resource type="AudioStream" uid="uid://dlmqpccxd4bc2" path="res://homeisland.wav" id="6_2rpnm"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_2e7xp"]
 size = Vector3(2.05182, 2.13129, 2.04102)
@@ -124,7 +125,7 @@ radius = 4.736
 size = Vector3(5.87061, 2.96301, 0.373535)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_522ht"]
-size = Vector3(1.8437, 6.29956, 0.900177)
+size = Vector3(1.8437, 6.70941, 0.739639)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_o3lke"]
 size = Vector3(1.87018, 1.55212, 0.972168)
@@ -764,6 +765,10 @@ size = Vector3(3.21185, 1, 1.42136)
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_le85t")
 
+[node name="SoundMusicMain" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("6_2rpnm")
+volume_db = -8.0
+
 [node name="Dino" parent="." instance=ExtResource("1_on506")]
 transform = Transform3D(0.025, 0, 0, 0, 0.025, 0, 0, 0, 0.025, -0.0529699, 1.10765, 0.385706)
 
@@ -771,7 +776,7 @@ transform = Transform3D(0.025, 0, 0, 0, 0.025, 0, 0, 0, 0.025, -0.0529699, 1.107
 transform = Transform3D(1, 0, 0, 0, -0.0844257, 0.99643, 0, -0.99643, -0.0844257, 0, 7.01912, 0)
 
 [node name="homeisland" parent="StaticBody3D" instance=ExtResource("2_jdbx3")]
-transform = Transform3D(1, 0, 0, 0, -0.0830519, -0.996546, 0, 0.996546, -0.0830519, 0, 0.696112, -8.21581)
+transform = Transform3D(1, 0, 0, 0, -0.0830519, -0.996547, 0, 0.996547, -0.0830519, 0, 0.68355, -8.06755)
 
 [node name="Mountain" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.996552, -0.0830874, 0, 0.0830874, 0.996552, 0.00253336, 0.667316, -8.02558)
@@ -899,11 +904,11 @@ transform = Transform3D(1, 0, 0, 0, 0.997354, -0.0727686, 0, 0.0727686, 0.997354
 shape = SubResource("BoxShape3D_xl7e6")
 
 [node name="Static17" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(0.999955, -0.00184867, -0.00255221, 0.00166812, 0.997622, -0.0695025, 0.00271507, 0.0694989, 0.997604, 0.265404, 55.5374, -3.19292)
+transform = Transform3D(0.999955, -0.00184867, -0.00255221, 0.00166812, 0.997622, -0.0695025, 0.00271507, 0.0694989, 0.997604, 0.265988, 55.3386, -3.28724)
 shape = SubResource("BoxShape3D_522ht")
 
 [node name="Static16" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(0.999955, -0.00184867, -0.00255221, 0.00166812, 0.997622, -0.0695022, 0.00271507, 0.0694989, 0.9976, 0.099185, 50.4939, -3.45629)
+transform = Transform3D(0.999955, -0.00184867, -0.00255221, 0.00166812, 0.997622, -0.0695022, 0.00271507, 0.0694989, 0.9976, 0.099185, 50.363, -3.49821)
 shape = SubResource("BoxShape3D_o3lke")
 
 [node name="Static15" type="CollisionShape3D" parent="StaticBody3D"]
