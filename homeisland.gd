@@ -65,3 +65,10 @@ func _on_friend_area_body_exited(body: Node3D) -> void:
 		$Text.text = "..."
 		$Text.visible = false
 	pass # Replace with function body.
+
+
+func _on_forrest_trap_area_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$SoundRestart.play()
+		$Dino/Player.position = Vector3(-0.053, 1.108, 0.386)
+	pass # Replace with function body.
