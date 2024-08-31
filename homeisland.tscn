@@ -1,4 +1,4 @@
-[gd_scene load_steps=114 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=115 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
@@ -763,6 +763,9 @@ size = Vector3(8.72192, 1.03516, 3.99593)
 [sub_resource type="BoxShape3D" id="BoxShape3D_ab8gv"]
 size = Vector3(3.21185, 1, 1.42136)
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_kma0k"]
+size = Vector3(1.44678, 1, 1.90735)
+
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_le85t")
 
@@ -1198,9 +1201,17 @@ shape = SubResource("BoxShape3D_ab8gv")
 [node name="SoundRestart" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("7_cigpm")
 
+[node name="FriendArea" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="FriendArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.85056, -2.33634, -11.2271)
+shape = SubResource("BoxShape3D_kma0k")
+
 [connection signal="body_entered" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_entered"]
 [connection signal="body_exited" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_exited"]
 [connection signal="body_entered" from="MountainDownArea" to="." method="_on_mountain_down_area_body_entered"]
 [connection signal="body_entered" from="RiverWaterArea" to="." method="_on_river_water_area_body_entered"]
 [connection signal="body_entered" from="BeachPlace" to="." method="_on_beach_place_body_entered"]
 [connection signal="body_exited" from="BeachPlace" to="." method="_on_beach_place_body_exited"]
+[connection signal="body_entered" from="FriendArea" to="." method="_on_friend_area_body_entered"]
+[connection signal="body_exited" from="FriendArea" to="." method="_on_friend_area_body_exited"]

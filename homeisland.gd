@@ -51,3 +51,17 @@ func _on_beach_place_body_exited(body: Node3D) -> void:
 		$Text.text = "..."
 		$Text.visible = false
 	pass # Replace with function body.
+
+
+func _on_friend_area_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$Text.text = "Friend: You again do not have time for us?"
+		$Text.visible = true
+	pass # Replace with function body.
+
+
+func _on_friend_area_body_exited(body: Node3D) -> void:
+	if body.name == "Player" :
+		$Text.text = "..."
+		$Text.visible = false
+	pass # Replace with function body.
