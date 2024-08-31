@@ -1,4 +1,4 @@
-[gd_scene load_steps=116 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=120 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
@@ -36,7 +36,7 @@ size = Vector3(0.64563, 0.652893, 0.665077)
 size = Vector3(1.84566, 3.20929, 0.762634)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_pconj"]
-size = Vector3(6.62627, 5.73376, 0.510864)
+size = Vector3(8.42805, 5.73376, 0.510864)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_6uo28"]
 size = Vector3(0.52861, 0.640366, 0.568192)
@@ -119,8 +119,8 @@ size = Vector3(1, 0.766602, 1)
 size = Vector3(2.12912, 3.43039, 1)
 
 [sub_resource type="CylinderShape3D" id="CylinderShape3D_wowm3"]
-height = 1.47024
-radius = 4.736
+height = 0.335175
+radius = 4.17585
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_xl7e6"]
 size = Vector3(5.87061, 2.96301, 0.373535)
@@ -709,6 +709,18 @@ _data = {
 "new_animation": SubResource("Animation_tywhq")
 }
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_ncjyp"]
+size = Vector3(2.35075, 3.97479, 6.33154)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_uruvh"]
+size = Vector3(2.36096, 5.68042, 6.72974)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_87vlm"]
+size = Vector3(0.857178, 10.3379, 4.8653)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_sgyjv"]
+size = Vector3(0.978271, 3.82849, 2.43756)
+
 [sub_resource type="CylinderShape3D" id="CylinderShape3D_cbdnm"]
 height = 0.253271
 radius = 1.0
@@ -834,7 +846,7 @@ transform = Transform3D(1, 0, 0, 0, 0.612891, 0.790186, 0, -0.790183, 0.612893, 
 shape = SubResource("BoxShape3D_2wh6w")
 
 [node name="Main3" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.996502, -0.0837514, 0, 0.0837548, 0.9965, 0.0769533, 4.49383, -9.24391)
+transform = Transform3D(1, 0, 0, 0, 0.996502, -0.0837518, 0, 0.0837551, 0.996502, 1.01429, 4.49383, -9.24391)
 shape = SubResource("BoxShape3D_pconj")
 
 [node name="River1" type="CollisionShape3D" parent="StaticBody3D"]
@@ -903,7 +915,7 @@ transform = Transform3D(1, 0, 0, 0, 0.771636, 0.636065, 0, -0.636065, 0.771636, 
 shape = SubResource("BoxShape3D_ny0yw")
 
 [node name="Main6" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, -0.0806686, -0.996741, 0, 0.996741, -0.0806686, 0, 20.5496, -12.9009)
+transform = Transform3D(1, 0, 0, 0, -0.0806686, -0.996741, 0, 0.996741, -0.0806686, 0.234219, 20.5496, -12.9009)
 shape = SubResource("CylinderShape3D_wowm3")
 
 [node name="Main7" type="CollisionShape3D" parent="StaticBody3D"]
@@ -1146,6 +1158,22 @@ libraries = {
 "": SubResource("AnimationLibrary_owu1b")
 }
 autoplay = "new_animation"
+
+[node name="RightWall1" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.997323, -0.0731862, 0, 0.0731862, 0.997323, 2.74093, 1.2856, -8.49576)
+shape = SubResource("BoxShape3D_ncjyp")
+
+[node name="LeftWall1" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.997237, -0.0744401, 0, 0.0744401, 0.997237, -2.18018, 2.04513, -8.86122)
+shape = SubResource("BoxShape3D_uruvh")
+
+[node name="RightWall2" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(0.993001, -0.117688, -0.00997146, 0.117108, 0.992047, -0.0463851, 0.015351, 0.044893, 0.998887, 4.05213, 5.64488, -10.09)
+shape = SubResource("BoxShape3D_87vlm")
+
+[node name="LeftWall2" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.998589, -0.05312, 0, 0.05312, 0.998589, -3.37804, 6.0517, -8.15853)
+shape = SubResource("BoxShape3D_sgyjv")
 
 [node name="Light" type="DirectionalLight3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, -0.0844257, 0.99643, 0, -0.99643, -0.0844257, 0, 7.01912, 0)
