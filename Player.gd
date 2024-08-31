@@ -24,7 +24,10 @@ func _physics_process(delta):
 		rotation.y += PI/180
 	
 	if Input.is_action_pressed("move_backward"):
-		$Dino/AnimationPlayer.play("Animation")
+		if is_on_floor():
+			$Dino/AnimationPlayer.play("Animation")
+			if not $AudioStreamPlayer3D.playing :
+				$AudioStreamPlayer3D.play()
 		target_speed -= 0.1;
 		if target_speed <= max_speed_backward :
 			target_speed = max_speed_backward;
@@ -33,7 +36,10 @@ func _physics_process(delta):
 		target_speed = 0
 	
 	if Input.is_action_pressed("move_forward"):
-		$Dino/AnimationPlayer.play("Animation")
+		if is_on_floor():
+			$Dino/AnimationPlayer.play("Animation")
+			if not $AudioStreamPlayer3D.playing :
+				$AudioStreamPlayer3D.play()
 		target_speed += 0.1;
 		if target_speed >= max_speed_forward :
 			target_speed = max_speed_forward
