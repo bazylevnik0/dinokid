@@ -45,9 +45,10 @@ func _physics_process(delta):
 	
 	
 	if Input.is_action_pressed("jump"):
-		target_jump_height+=5
-		if target_jump_height >= max_jump_height :
-			target_jump_height = max_jump_height	
+		if is_on_floor():
+			target_jump_height+=5
+			if target_jump_height >= max_jump_height :
+				target_jump_height = max_jump_height	
 	if Input.is_action_just_released("jump"):
 		if is_on_floor(): 
 			jump_is_started = true
