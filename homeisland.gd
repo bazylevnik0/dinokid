@@ -27,12 +27,14 @@ func _on_mountain_inside_area_body_exited(body: Node3D) -> void:
 	
 func _on_mountain_down_area_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
+		$SoundRestart.play()
 		$Dino/Player.position = Vector3(-0.053, 1.108, 0.386)
 	pass # Replace with function body.
 
 
 func _on_river_water_area_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
+		$SoundRestart.play()
 		$Dino/Player.position = Vector3(-0.053, 1.108, 0.386)
 	pass # Replace with function body.
 

@@ -1,4 +1,4 @@
-[gd_scene load_steps=113 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=114 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
@@ -6,6 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://sh4g6naxwlt0" path="res://homeisland-camp.glb" id="3_x46lr"]
 [ext_resource type="PackedScene" uid="uid://ob2eaacdfgux" path="res://river_stone.glb" id="4_4sxba"]
 [ext_resource type="AudioStream" uid="uid://dlmqpccxd4bc2" path="res://homeisland.wav" id="6_2rpnm"]
+[ext_resource type="AudioStream" uid="uid://52xlajubc3cd" path="res://restart.wav" id="7_cigpm"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_2e7xp"]
 size = Vector3(2.05182, 2.13129, 2.04102)
@@ -1193,6 +1194,9 @@ shape = SubResource("BoxShape3D_6xsvl")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="BeachPlace"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.52208, -2.5881, -4.95699)
 shape = SubResource("BoxShape3D_ab8gv")
+
+[node name="SoundRestart" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("7_cigpm")
 
 [connection signal="body_entered" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_entered"]
 [connection signal="body_exited" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_exited"]
