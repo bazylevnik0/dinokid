@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://cbmhdr86sjxdf"]
+
+[ext_resource type="PackedScene" uid="uid://bcka7f65ambbb" path="res://shadowland.glb" id="1_addcy"]
+[ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="2_te5uv"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_n40lg"]
+size = Vector3(1.97914, 0.544556, 1.99158)
+
+[node name="Node3D" type="Node3D"]
+
+[node name="StaticBody3D" type="StaticBody3D" parent="."]
+
+[node name="shadowland" parent="StaticBody3D" instance=ExtResource("1_addcy")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00301361, 0.76253, -0.0164185)
+shape = SubResource("BoxShape3D_n40lg")
+
+[node name="Dino" parent="." instance=ExtResource("2_te5uv")]
+transform = Transform3D(0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, -0.0550004, 1.25663, 0.184403)

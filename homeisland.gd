@@ -72,3 +72,9 @@ func _on_forrest_trap_area_body_entered(body: Node3D) -> void:
 		$SoundRestart.play()
 		$Dino/Player.position = Vector3(-0.053, 1.108, 0.386)
 	pass # Replace with function body.
+
+
+func _on_ship_exit_area_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		get_tree().change_scene_to_file('res://ship-intro.tscn')
+	pass # Replace with function body.

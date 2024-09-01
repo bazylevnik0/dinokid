@@ -1,4 +1,4 @@
-[gd_scene load_steps=120 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=121 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
@@ -781,6 +781,9 @@ size = Vector3(1.44678, 1, 1.90735)
 [sub_resource type="BoxShape3D" id="BoxShape3D_o8u1v"]
 size = Vector3(6.44446, 0.473633, 6.84503)
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_cdxnw"]
+size = Vector3(2.2514, 2.42712, 2.25183)
+
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_le85t")
 
@@ -1244,6 +1247,12 @@ shape = SubResource("BoxShape3D_kma0k")
 transform = Transform3D(1, 0, 0, 0, 0.707082, 0.707131, 0, -0.707131, 0.707082, -0.00628662, -5.20223, -15.705)
 shape = SubResource("BoxShape3D_o8u1v")
 
+[node name="ShipExitArea" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="ShipExitArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316559, 0.306335, -57.2765)
+shape = SubResource("BoxShape3D_cdxnw")
+
 [connection signal="body_entered" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_entered"]
 [connection signal="body_exited" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_exited"]
 [connection signal="body_entered" from="MountainDownArea" to="." method="_on_mountain_down_area_body_entered"]
@@ -1253,3 +1262,4 @@ shape = SubResource("BoxShape3D_o8u1v")
 [connection signal="body_entered" from="FriendArea" to="." method="_on_friend_area_body_entered"]
 [connection signal="body_exited" from="FriendArea" to="." method="_on_friend_area_body_exited"]
 [connection signal="body_entered" from="ForrestTrapArea" to="." method="_on_forrest_trap_area_body_entered"]
+[connection signal="body_entered" from="ShipExitArea" to="." method="_on_ship_exit_area_body_entered"]
