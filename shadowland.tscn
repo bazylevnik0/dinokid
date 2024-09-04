@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="2_te5uv"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_n40lg"]
-size = Vector3(1.97914, 0.544556, 1.99158)
+size = Vector3(25.5447, 0.544556, 13.7482)
 
 [node name="Node3D" type="Node3D"]
 
@@ -13,7 +13,7 @@ size = Vector3(1.97914, 0.544556, 1.99158)
 [node name="shadowland" parent="StaticBody3D" instance=ExtResource("1_addcy")]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00301361, 0.76253, -0.0164185)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.542631, 0.76253, -5.89474)
 shape = SubResource("BoxShape3D_n40lg")
 
 [node name="Dino" parent="." instance=ExtResource("2_te5uv")]
