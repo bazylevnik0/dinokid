@@ -24,3 +24,10 @@ func _on_danger_door_3_area_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
 		$Dino/Player.position = Vector3(-0.055, 1.257, 0.184)
 	pass # Replace with function body.
+
+
+func _on_bridge_area_1_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$StaticBody3D/CollisionBridge1/AnimationPlayer.play("new_animation")
+		print("hehe")
+	pass # Replace with function body.
