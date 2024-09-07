@@ -29,5 +29,22 @@ func _on_danger_door_3_area_body_entered(body: Node3D) -> void:
 func _on_bridge_area_1_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
 		$StaticBody3D/CollisionBridge1/AnimationPlayer.play("new_animation")
-		print("hehe")
+	pass # Replace with function body.
+
+
+func _on_bridge_area_2_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$StaticBody3D/CollisionBridge2/AnimationPlayer.play("new_animation")
+	pass # Replace with function body.
+
+
+func _on_bridge_area_3_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$StaticBody3D/CollisionBridge3/AnimationPlayer.play("new_animation")
+	pass # Replace with function body.
+
+
+func _on_bridge_area_4_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$StaticBody3D/CollisionBridge4/AnimationPlayer.play("new_animation")
 	pass # Replace with function body.
