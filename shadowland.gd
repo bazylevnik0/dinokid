@@ -48,3 +48,33 @@ func _on_bridge_area_4_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
 		$StaticBody3D/CollisionBridge4/AnimationPlayer.play("new_animation")
 	pass # Replace with function body.
+
+
+func _on_maze_trap_1_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$Dino/Player.position = Vector3(-0.055, 1.257, 0.184)
+	pass # Replace with function body.
+
+
+func _on_maze_trap_2_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$Dino/Player.position = Vector3(-0.055, 1.257, 0.184)
+	pass # Replace with function body.
+
+
+func _on_maze_trap_3_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$Dino/Player.position = Vector3(-0.055, 1.257, 0.184)
+	pass # Replace with function body.
+
+
+func _on_maze_trap_4_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$Dino/Player.position = Vector3(-0.055, 1.257, 0.184)
+	pass # Replace with function body.
+
+
+func _on_maze_trap_5_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$Dino/Player.position = Vector3(-0.055, 1.257, 0.184)
+	pass # Replace with function body.
