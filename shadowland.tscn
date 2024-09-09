@@ -327,6 +327,21 @@ size = Vector3(1.95517, 1.46395, 0.417114)
 [sub_resource type="BoxShape3D" id="BoxShape3D_qaoy7"]
 size = Vector3(1.84625, 1.84627, 2.15649)
 
+[sub_resource type="Animation" id="Animation_xj7ni"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(2.48206, -1.99912, -85.3942)]
+}
+
 [sub_resource type="Animation" id="Animation_nftkq"]
 resource_name = "new_animation"
 length = 4.0
@@ -344,7 +359,16 @@ tracks/0/keys = {
 "values": [Vector3(2.48206, -1.99912, -85.3942), Vector3(2.48206, -1.99912, -85.3942), Vector3(2.48206, -0.341582, -85.3942), Vector3(2.48206, -2.20883, -85.3942)]
 }
 
-[sub_resource type="Animation" id="Animation_xj7ni"]
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_16gw7"]
+_data = {
+"RESET": SubResource("Animation_xj7ni"),
+"new_animation": SubResource("Animation_nftkq")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0otac"]
+size = Vector3(1.51831, 1.91992, 1.86072)
+
+[sub_resource type="Animation" id="Animation_krx3u"]
 length = 0.001
 tracks/0/type = "value"
 tracks/0/imported = false
@@ -356,17 +380,8 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-"values": [Vector3(2.48206, -1.99912, -85.3942)]
+"values": [Vector3(-2.90456, -0.991022, -84.0418)]
 }
-
-[sub_resource type="AnimationLibrary" id="AnimationLibrary_16gw7"]
-_data = {
-"RESET": SubResource("Animation_xj7ni"),
-"new_animation": SubResource("Animation_nftkq")
-}
-
-[sub_resource type="BoxShape3D" id="BoxShape3D_0otac"]
-size = Vector3(1.51831, 1.91992, 1.86072)
 
 [sub_resource type="Animation" id="Animation_fl6jr"]
 resource_name = "new_animation"
@@ -385,7 +400,16 @@ tracks/0/keys = {
 "values": [Vector3(-2.90456, -0.991022, -84.0418), Vector3(-2.90456, -0.991022, -84.0418), Vector3(-2.90456, 0.406893, -84.0418), Vector3(-2.90456, -1.2241, -84.0418)]
 }
 
-[sub_resource type="Animation" id="Animation_krx3u"]
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_5yusg"]
+_data = {
+"RESET": SubResource("Animation_krx3u"),
+"new_animation": SubResource("Animation_fl6jr")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_w166l"]
+size = Vector3(2.08441, 2.01917, 2.0603)
+
+[sub_resource type="Animation" id="Animation_1dyyp"]
 length = 0.001
 tracks/0/type = "value"
 tracks/0/imported = false
@@ -397,17 +421,8 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-"values": [Vector3(-2.90456, -0.991022, -84.0418)]
+"values": [Vector3(-4.75292, -1.16179, -89.513)]
 }
-
-[sub_resource type="AnimationLibrary" id="AnimationLibrary_5yusg"]
-_data = {
-"RESET": SubResource("Animation_krx3u"),
-"new_animation": SubResource("Animation_fl6jr")
-}
-
-[sub_resource type="BoxShape3D" id="BoxShape3D_w166l"]
-size = Vector3(2.08441, 2.01917, 2.0603)
 
 [sub_resource type="Animation" id="Animation_hq1j7"]
 resource_name = "new_animation"
@@ -426,7 +441,16 @@ tracks/0/keys = {
 "values": [Vector3(-4.75292, -1.16179, -89.513), Vector3(-4.75292, -1.16179, -89.513), Vector3(-4.75292, 0.621137, -89.513), Vector3(-4.75292, -1.11986, -89.513)]
 }
 
-[sub_resource type="Animation" id="Animation_1dyyp"]
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_7pu2g"]
+_data = {
+"RESET": SubResource("Animation_1dyyp"),
+"new_animation": SubResource("Animation_hq1j7")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ofyoc"]
+size = Vector3(1.99127, 2.65747, 1.90808)
+
+[sub_resource type="Animation" id="Animation_qjt7f"]
 length = 0.001
 tracks/0/type = "value"
 tracks/0/imported = false
@@ -438,17 +462,8 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-"values": [Vector3(-4.75292, -1.16179, -89.513)]
+"values": [Vector3(-0.972548, -1.21944, -87.6678)]
 }
-
-[sub_resource type="AnimationLibrary" id="AnimationLibrary_7pu2g"]
-_data = {
-"RESET": SubResource("Animation_1dyyp"),
-"new_animation": SubResource("Animation_hq1j7")
-}
-
-[sub_resource type="BoxShape3D" id="BoxShape3D_ofyoc"]
-size = Vector3(1.99127, 2.65747, 1.90808)
 
 [sub_resource type="Animation" id="Animation_kdr1k"]
 resource_name = "new_animation"
@@ -467,7 +482,16 @@ tracks/0/keys = {
 "values": [Vector3(-0.972548, -1.21944, -87.6678), Vector3(-0.972548, -1.21944, -87.6678), Vector3(-0.972548, 0.560858, -87.6678), Vector3(-0.972548, -1.39447, -87.6678)]
 }
 
-[sub_resource type="Animation" id="Animation_qjt7f"]
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_fae1y"]
+_data = {
+"RESET": SubResource("Animation_qjt7f"),
+"new_animation": SubResource("Animation_kdr1k")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_dgrgt"]
+size = Vector3(1.8952, 2.07129, 1.91333)
+
+[sub_resource type="Animation" id="Animation_e54a8"]
 length = 0.001
 tracks/0/type = "value"
 tracks/0/imported = false
@@ -479,17 +503,8 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-"values": [Vector3(-0.972548, -1.21944, -87.6678)]
+"values": [Vector3(2.06535, -1.89198, -90.067)]
 }
-
-[sub_resource type="AnimationLibrary" id="AnimationLibrary_fae1y"]
-_data = {
-"RESET": SubResource("Animation_qjt7f"),
-"new_animation": SubResource("Animation_kdr1k")
-}
-
-[sub_resource type="BoxShape3D" id="BoxShape3D_dgrgt"]
-size = Vector3(1.8952, 2.07129, 1.91333)
 
 [sub_resource type="Animation" id="Animation_rlsyd"]
 resource_name = "new_animation"
@@ -506,21 +521,6 @@ tracks/0/keys = {
 "transitions": PackedFloat32Array(1, 1, 1, 1),
 "update": 0,
 "values": [Vector3(2.06535, -1.89198, -90.067), Vector3(2.06535, -1.89198, -90.067), Vector3(2.06535, 0.057183, -90.067), Vector3(2.06535, -1.82309, -90.067)]
-}
-
-[sub_resource type="Animation" id="Animation_e54a8"]
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath(".:position")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 0,
-"values": [Vector3(2.06535, -1.89198, -90.067)]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_v1l28"]
@@ -1099,6 +1099,7 @@ autoplay = "new_animation"
 [connection signal="body_entered" from="StaticBody3D/CollisionBridge3/BridgeArea3" to="." method="_on_bridge_area_3_body_entered"]
 [connection signal="body_entered" from="StaticBody3D/CollisionBridge4/BridgeArea4" to="." method="_on_bridge_area_4_body_entered"]
 [connection signal="body_entered" from="MazeTrap2" to="." method="_on_maze_trap_2_body_entered"]
+[connection signal="body_entered" from="MazeTrap1" to="." method="_on_maze_trap_1_body_entered"]
 [connection signal="body_entered" from="MazeTrap3" to="." method="_on_maze_trap_3_body_entered"]
 [connection signal="body_entered" from="MazeTrap4" to="." method="_on_maze_trap_4_body_entered"]
 [connection signal="body_entered" from="MazeTrap5" to="." method="_on_maze_trap_5_body_entered"]
