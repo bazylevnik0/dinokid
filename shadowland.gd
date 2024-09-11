@@ -78,3 +78,9 @@ func _on_maze_trap_5_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
 		$Dino/Player.position = Vector3(-0.055, 1.257, 0.184)
 	pass # Replace with function body.
+
+
+func _on_sun_zone_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		$Dino/Player.position = Vector3(-0.055, 1.257, 0.184)
+	pass # Replace with function body.
