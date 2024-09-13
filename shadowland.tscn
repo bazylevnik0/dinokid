@@ -1,4 +1,4 @@
-[gd_scene load_steps=76 format=3 uid="uid://cbmhdr86sjxdf"]
+[gd_scene load_steps=77 format=3 uid="uid://cbmhdr86sjxdf"]
 
 [ext_resource type="Script" path="res://shadowland.gd" id="1_73r4r"]
 [ext_resource type="PackedScene" uid="uid://bcka7f65ambbb" path="res://shadowland.glb" id="1_addcy"]
@@ -555,6 +555,9 @@ _data = {
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_i4app"]
 size = Vector3(24.3214, 1.67285, 33.5744)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_rxyw8"]
+size = Vector3(10.6176, 3.5528, 4.47412)
 
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_73r4r")
@@ -1160,6 +1163,13 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -117.112)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.267975, 0.336426, 1.48169)
 shape = SubResource("BoxShape3D_i4app")
 
+[node name="MonumentExit" type="Area3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -122.484)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="MonumentExit"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.176117, 1.2764, -0.953369)
+shape = SubResource("BoxShape3D_rxyw8")
+
 [connection signal="body_entered" from="StaticBody3D/DangerDoor1/DangerDoor1Area" to="." method="_on_danger_door_1_area_body_entered"]
 [connection signal="body_entered" from="StaticBody3D/DangerDoor2/DangerDoor2Area" to="." method="_on_danger_door_2_area_body_entered"]
 [connection signal="body_entered" from="StaticBody3D/DangerDoor3/DangerDoor3Area" to="." method="_on_danger_door_3_area_body_entered"]
@@ -1173,3 +1183,4 @@ shape = SubResource("BoxShape3D_i4app")
 [connection signal="body_entered" from="MazeTrap4" to="." method="_on_maze_trap_4_body_entered"]
 [connection signal="body_entered" from="MazeTrap5" to="." method="_on_maze_trap_5_body_entered"]
 [connection signal="body_entered" from="SunZone" to="." method="_on_sun_zone_body_entered"]
+[connection signal="body_entered" from="MonumentExit" to="." method="_on_monument_exit_body_entered"]
