@@ -857,7 +857,7 @@ transform = Transform3D(1, 0, 0, 0, 0.994702, -0.102953, 0, 0.102957, 0.994701, 
 shape = SubResource("BoxShape3D_6uo28")
 
 [node name="river_stone" parent="StaticBody3D/River1" instance=ExtResource("4_4sxba")]
-transform = Transform3D(1, 0, 0, 0, -4.28408e-08, 1, 0, -1, -4.28408e-08, 0, -0.0131578, -0.707025)
+transform = Transform3D(1, 0, 0, 0, 1.30385e-07, -1, 0, 1, 1.30385e-07, 0, -0.0131578, -0.707025)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River1"]
 libraries = {
@@ -1115,7 +1115,7 @@ transform = Transform3D(1, 0, 0, 0, 0.998176, -0.0603691, 0, 0.0603691, 0.998176
 shape = SubResource("BoxShape3D_dw4dm")
 
 [node name="river_stone" parent="StaticBody3D/River11" instance=ExtResource("4_4sxba")]
-transform = Transform3D(1, 0, 0, 0, -4.47035e-08, 1, 0, -1, -4.47035e-08, 0, 0.0404797, -0.509138)
+transform = Transform3D(1, 0, 0, 0, 1.32248e-07, -1, 0, 1, 1.32248e-07, 0, 0.0404806, -0.509138)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River11"]
 libraries = {
@@ -1128,7 +1128,7 @@ transform = Transform3D(1, 0, 0, 0, 0.996955, -0.0781296, 0, 0.0781296, 0.996955
 shape = SubResource("BoxShape3D_xa8hf")
 
 [node name="river_stone" parent="StaticBody3D/River12" instance=ExtResource("4_4sxba")]
-transform = Transform3D(1, 0, 0, 0, -4.28408e-08, 1, 0, -1, -4.28408e-08, 0, 0.00363636, -0.575618)
+transform = Transform3D(1, 0, 0, 0, 1.29919e-07, -1, 0, 1, 1.29919e-07, 0, 0.00363636, -0.575618)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River12"]
 libraries = {
@@ -1141,7 +1141,7 @@ transform = Transform3D(1, 0, 0, 0, 0.995368, -0.0962633, 0, 0.0962633, 0.995368
 shape = SubResource("BoxShape3D_bqr08")
 
 [node name="river_stone" parent="StaticBody3D/River13" instance=ExtResource("4_4sxba")]
-transform = Transform3D(1, 0, 0, 0, -4.37722e-08, 1, 0, -1, -4.37722e-08, 0, -0.00580215, -0.488129)
+transform = Transform3D(1, 0, 0, 0, 1.31316e-07, -1, 0, 1, 1.31316e-07, 0, -0.00580215, -0.488129)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="StaticBody3D/River13"]
 libraries = {
