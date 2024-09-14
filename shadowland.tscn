@@ -601,7 +601,7 @@ libraries = {
 autoplay = "new_animation"
 
 [node name="DangerDoor3" type="Node3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 0.0178554, -0.999841, 0, 0.999841, 0.0178554, -3.08078, 0, -26.0528)
+transform = Transform3D(1, 0, 0, 0, 0.0178554, -0.99984, 0, 0.99984, 0.0178554, -3.08078, 0, -26.0528)
 
 [node name="DangerDoor3Area" type="Area3D" parent="StaticBody3D/DangerDoor3"]
 
@@ -1077,7 +1077,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.68002, 0.829851, -99.8237)
 shape = SubResource("BoxShape3D_7nh7i")
 
 [node name="Dino" parent="." instance=ExtResource("2_te5uv")]
-transform = Transform3D(0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, -0.0550004, 7.29164, -62.8234)
+transform = Transform3D(0.0999999, 0.000136017, 5.69128e-06, -0.000136052, 0.0999975, 0.000685907, -4.75819e-06, -0.000685913, 0.0999976, -0.0550004, 2.56812, -1.79493)
 
 [node name="MazeTrap2" type="Area3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.48206, -1.99912, -85.3942)

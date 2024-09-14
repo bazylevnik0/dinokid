@@ -2,7 +2,7 @@ extends CharacterBody3D
 
 @export var max_speed_forward  = 10
 @export var max_speed_backward = -1
-@export var max_jump_height = 20
+@export var max_jump_height = 30
 @export var fall_acceleration = 200
 
 var target_velocity = Vector3.ZERO
@@ -46,9 +46,7 @@ func _physics_process(delta):
 	
 	if Input.is_action_pressed("jump"):
 		if is_on_floor():
-			target_jump_height+=5
-			if target_jump_height >= max_jump_height :
-				target_jump_height = max_jump_height	
+			target_jump_height=max_jump_height;
 	if Input.is_action_just_released("jump"):
 		if is_on_floor(): 
 			jump_is_started = true
