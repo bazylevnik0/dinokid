@@ -12,6 +12,7 @@ func _ready() -> void:
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
 	$StaticBody3D/homeisland/AnimationPlayer.play("Animation")
+	$"AnimatableBody3D/homeisland-camp/AnimationPlayer".play("Animation")
 	if not $SoundMusicMain.playing :
 		$SoundMusicMain.play()
 	pass
