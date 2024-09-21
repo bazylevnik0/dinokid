@@ -92,8 +92,6 @@ func _on_sun_zone_body_entered(body: Node3D) -> void:
 	pass # Replace with function body.
 
 
-
-
 func _on_monument_exit_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
 		print("hehe")

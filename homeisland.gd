@@ -81,3 +81,26 @@ func _on_ship_exit_area_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
 		get_tree().change_scene_to_file('res://ship-intro.tscn')
 	pass # Replace with function body.
+
+
+func _on_ocean_area_1_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		return_to_start()
+	pass # Replace with function body.
+
+
+func _on_ocean_area_2_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		return_to_start()
+	pass # Replace with function body.
+
+
+func _on_ocean_area_3_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		return_to_start()
+	pass # Replace with function body.
+
+func _on_ocean_area_4_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		return_to_start()
+	pass # Replace with function body.

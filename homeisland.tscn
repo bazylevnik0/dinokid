@@ -1,4 +1,4 @@
-[gd_scene load_steps=121 format=3 uid="uid://c4sjk00cblni5"]
+[gd_scene load_steps=126 format=3 uid="uid://c4sjk00cblni5"]
 
 [ext_resource type="Script" path="res://homeisland.gd" id="1_le85t"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://dino.tscn" id="1_on506"]
@@ -784,12 +784,45 @@ size = Vector3(6.44446, 0.473633, 6.84503)
 [sub_resource type="BoxShape3D" id="BoxShape3D_cdxnw"]
 size = Vector3(2.2514, 2.42712, 2.25183)
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_p3xk4"]
+size = Vector3(11.2812, 1, 27.9678)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_fns48"]
+size = Vector3(14.2136, 1, 31.1797)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_hvaad"]
+size = Vector3(8.71832, 1, 28.5627)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_iau0v"]
+size = Vector3(26.3231, 1, 11.2325)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_vw5l7"]
+size = Vector3(108.502, 1, 144.193)
+
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_le85t")
+
+[node name="Text" type="Label" parent="."]
+visible = false
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -96.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Dino, please go outside and find me..."
+horizontal_alignment = 1
 
 [node name="SoundMusicMain" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("6_2rpnm")
 volume_db = -8.0
+
+[node name="SoundRestart" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("7_cigpm")
+
+[node name="Light" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, -0.0844257, 0.99643, 0, -0.99643, -0.0844257, 0, 7.01912, 0)
 
 [node name="Dino" parent="." instance=ExtResource("1_on506")]
 transform = Transform3D(0.025, 0, 0, 0, 0.025, 0, 0, 0, 0.025, -0.0529699, 1.10765, 0.385706)
@@ -1178,9 +1211,6 @@ shape = SubResource("BoxShape3D_87vlm")
 transform = Transform3D(1, 0, 0, 0, 0.998589, -0.05312, 0, 0.05312, 0.998589, -3.37804, 6.0517, -8.15853)
 shape = SubResource("BoxShape3D_sgyjv")
 
-[node name="Light" type="DirectionalLight3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, -0.0844257, 0.99643, 0, -0.99643, -0.0844257, 0, 7.01912, 0)
-
 [node name="AnimatableBody3D" type="AnimatableBody3D" parent="."]
 transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, -7.60729, -25.7553)
 
@@ -1194,18 +1224,6 @@ libraries = {
 "": SubResource("AnimationLibrary_lba86")
 }
 autoplay = "Move_cycle"
-
-[node name="Text" type="Label" parent="."]
-visible = false
-anchors_preset = 12
-anchor_top = 1.0
-anchor_right = 1.0
-anchor_bottom = 1.0
-offset_top = -96.0
-grow_horizontal = 2
-grow_vertical = 0
-text = "Dino, please go outside and find me..."
-horizontal_alignment = 1
 
 [node name="MountainInsideArea" type="Area3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1.59488)
@@ -1232,9 +1250,6 @@ shape = SubResource("BoxShape3D_6xsvl")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.52208, -2.5881, -4.95699)
 shape = SubResource("BoxShape3D_ab8gv")
 
-[node name="SoundRestart" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("7_cigpm")
-
 [node name="FriendArea" type="Area3D" parent="."]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="FriendArea"]
@@ -1253,6 +1268,36 @@ shape = SubResource("BoxShape3D_o8u1v")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316559, 0.306335, -57.2765)
 shape = SubResource("BoxShape3D_cdxnw")
 
+[node name="OceanArea1" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="OceanArea1"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00292969, -8.39171, -31.6387)
+shape = SubResource("BoxShape3D_p3xk4")
+
+[node name="OceanArea2" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="OceanArea2"]
+transform = Transform3D(0.652918, -0.757428, 0, 0.757428, 0.652918, 0, 0, 0, 1, 10.6604, -2.83764, -36.3298)
+shape = SubResource("BoxShape3D_fns48")
+
+[node name="OceanArea3" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="OceanArea3"]
+transform = Transform3D(0.627909, 0.778287, 0, -0.778287, 0.627909, 0, 0, 0, 1, -8.75107, -4.96098, -33.5673)
+shape = SubResource("BoxShape3D_hvaad")
+
+[node name="OceanArea4" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="OceanArea4"]
+transform = Transform3D(1, 0, 0, 0, 0.754343, -0.65648, 0, 0.65648, 0.754343, 0.0385132, -5.44097, -48.6874)
+shape = SubResource("BoxShape3D_iau0v")
+
+[node name="OutOfMap" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="OutOfMap"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.223373, -11.4328, -27.7701)
+shape = SubResource("BoxShape3D_vw5l7")
+
 [connection signal="body_entered" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_entered"]
 [connection signal="body_exited" from="MountainInsideArea" to="." method="_on_mountain_inside_area_body_exited"]
 [connection signal="body_entered" from="MountainDownArea" to="." method="_on_mountain_down_area_body_entered"]
@@ -1263,3 +1308,7 @@ shape = SubResource("BoxShape3D_cdxnw")
 [connection signal="body_exited" from="FriendArea" to="." method="_on_friend_area_body_exited"]
 [connection signal="body_entered" from="ForrestTrapArea" to="." method="_on_forrest_trap_area_body_entered"]
 [connection signal="body_entered" from="ShipExitArea" to="." method="_on_ship_exit_area_body_entered"]
+[connection signal="body_entered" from="OceanArea1" to="." method="_on_ocean_area_1_body_entered"]
+[connection signal="body_entered" from="OceanArea2" to="." method="_on_ocean_area_2_body_entered"]
+[connection signal="body_entered" from="OceanArea3" to="." method="_on_ocean_area_3_body_entered"]
+[connection signal="body_entered" from="OceanArea4" to="." method="_on_ocean_area_4_body_entered"]
