@@ -1,8 +1,12 @@
 extends Node3D
 
 func return_to_start():
-	#$SoundRestart.play()
+	$SoundRestart.play()
 	$Dino/Player.position = Vector3(-0.055, 2.2568, -1.795) # starting position
+	$StaticBody3D/CollisionBridge1/AnimationPlayer.play("RESET")
+	$StaticBody3D/CollisionBridge2/AnimationPlayer.play("RESET")
+	$StaticBody3D/CollisionBridge3/AnimationPlayer.play("RESET")
+	$StaticBody3D/CollisionBridge4/AnimationPlayer.play("RESET")
 	pass
 
 # Called when the node enters the scene tree for the first time.
@@ -12,6 +16,8 @@ func _ready() -> void:
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
 	$StaticBody3D/shadowland/AnimationPlayer.play("Animation")
+	if not $SoundMusicMain.playing :
+		$SoundMusicMain.play()
 	pass
 
 func _on_danger_door_1_area_body_entered(body: Node3D) -> void:
@@ -96,4 +102,10 @@ func _on_monument_exit_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
 		print("hehe")
 		get_tree().change_scene_to_file('res://dino_shadowland.tscn')
+	pass # Replace with function body.
+
+
+func _on_out_of_map_area_body_entered(body: Node3D) -> void:
+	if body.name == "Player" :
+		return_to_start()
 	pass # Replace with function body.

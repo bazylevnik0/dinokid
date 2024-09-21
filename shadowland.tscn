@@ -1,4 +1,4 @@
-[gd_scene load_steps=77 format=3 uid="uid://cbmhdr86sjxdf"]
+[gd_scene load_steps=79 format=3 uid="uid://cbmhdr86sjxdf"]
 
 [ext_resource type="Script" path="res://shadowland.gd" id="1_73r4r"]
 [ext_resource type="PackedScene" uid="uid://bcka7f65ambbb" path="res://shadowland.glb" id="1_addcy"]
@@ -7,6 +7,8 @@
 [ext_resource type="PackedScene" uid="uid://c5sc6snx50wxn" path="res://bridge_part.glb" id="4_yvjfn"]
 [ext_resource type="PackedScene" uid="uid://bamd2wu4wh160" path="res://maze_wall.glb" id="5_ahp8i"]
 [ext_resource type="PackedScene" uid="uid://dgtd4akfh8kil" path="res://maze_trap.glb" id="7_4dgti"]
+[ext_resource type="AudioStream" uid="uid://cp8ivu01cx18w" path="res://shadowland.wav" id="8_72bjg"]
+[ext_resource type="AudioStream" uid="uid://52xlajubc3cd" path="res://restart.wav" id="9_xw80n"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ydvqm"]
 size = Vector3(2.11865, 3.36517, 1)
@@ -130,9 +132,6 @@ _data = {
 "RESET": SubResource("Animation_x28mu"),
 "new_animation": SubResource("Animation_qtqss")
 }
-
-[sub_resource type="BoxShape3D" id="BoxShape3D_n40lg"]
-size = Vector3(25.5447, 0.544556, 32.4608)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_2huf2"]
 size = Vector3(4.09174, 1, 7.73834)
@@ -559,6 +558,9 @@ size = Vector3(24.3214, 1.67285, 33.5744)
 [sub_resource type="BoxShape3D" id="BoxShape3D_rxyw8"]
 size = Vector3(10.6176, 3.5528, 4.47412)
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_kdvgn"]
+size = Vector3(112.757, 1, 176.513)
+
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_73r4r")
 
@@ -619,10 +621,6 @@ libraries = {
 autoplay = "new_animation"
 
 [node name="shadowland" parent="StaticBody3D" instance=ExtResource("1_addcy")]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.542631, 0.76253, -15.251)
-shape = SubResource("BoxShape3D_n40lg")
 
 [node name="CollisionShape3D2" type="CollisionShape3D" parent="StaticBody3D"]
 transform = Transform3D(1, 0, 0, 0, 0.829408, -0.558643, 0, 0.558643, 0.829408, -0.0205994, 2.56841, -34.4639)
@@ -1170,6 +1168,20 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -122.484)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.176117, 1.2764, -0.953369)
 shape = SubResource("BoxShape3D_rxyw8")
 
+[node name="SoundMusicMain" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("8_72bjg")
+volume_db = -8.0
+
+[node name="SoundRestart" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("9_xw80n")
+
+[node name="OutOfMapArea" type="Area3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -32.081)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="OutOfMapArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.62069, 0, -26.4479)
+shape = SubResource("BoxShape3D_kdvgn")
+
 [connection signal="body_entered" from="StaticBody3D/DangerDoor1/DangerDoor1Area" to="." method="_on_danger_door_1_area_body_entered"]
 [connection signal="body_entered" from="StaticBody3D/DangerDoor2/DangerDoor2Area" to="." method="_on_danger_door_2_area_body_entered"]
 [connection signal="body_entered" from="StaticBody3D/DangerDoor3/DangerDoor3Area" to="." method="_on_danger_door_3_area_body_entered"]
@@ -1184,3 +1196,4 @@ shape = SubResource("BoxShape3D_rxyw8")
 [connection signal="body_entered" from="MazeTrap5" to="." method="_on_maze_trap_5_body_entered"]
 [connection signal="body_entered" from="SunZone" to="." method="_on_sun_zone_body_entered"]
 [connection signal="body_entered" from="MonumentExit" to="." method="_on_monument_exit_body_entered"]
+[connection signal="body_entered" from="OutOfMapArea" to="." method="_on_out_of_map_area_body_entered"]
