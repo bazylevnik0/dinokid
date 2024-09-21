@@ -11,6 +11,7 @@ func _ready() -> void:
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
+	$StaticBody3D/shadowland/AnimationPlayer.play("Animation")
 	pass
 
 func _on_danger_door_1_area_body_entered(body: Node3D) -> void:
