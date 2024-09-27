@@ -1,0 +1,60 @@
+[gd_scene load_steps=8 format=3 uid="uid://b4wudneakgx1g"]
+
+[ext_resource type="PackedScene" uid="uid://c4twjgra3i8dp" path="res://scenes/global/dino/dino.glb" id="1_abwe3"]
+[ext_resource type="Script" path="res://scenes/global/dino/dino.gd" id="1_igx1c"]
+[ext_resource type="PackedScene" uid="uid://ck2pdbvtp5hve" path="res://scenes/global/dino/dino_jump.glb" id="3_d8ijg"]
+[ext_resource type="AudioStream" uid="uid://dcayilp4qoufn" path="res://scenes/global/dino/stepping.wav" id="4_0hx34"]
+[ext_resource type="AudioStream" uid="uid://dliaw7hcr1hvy" path="res://scenes/global/dino/jumping.wav" id="5_1khtf"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_eftsy"]
+size = Vector3(5, 10, 5)
+
+[sub_resource type="Environment" id="Environment_jly0n"]
+background_mode = 1
+
+[node name="Dino" type="Node3D"]
+
+[node name="Player" type="CharacterBody3D" parent="."]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 0, 0, 0)
+platform_on_leave = 2
+script = ExtResource("1_igx1c")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Player"]
+transform = Transform3D(1, 0, 0, 0, 0.999996, 0.00293215, 0, -0.00293215, 0.999996, 0, 5.59439, 0)
+shape = SubResource("BoxShape3D_eftsy")
+
+[node name="Dino" parent="Player" instance=ExtResource("1_abwe3")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 8.96022, 0)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="Player"]
+transform = Transform3D(-3.82209e-08, -0.485222, -0.874391, -2.12097e-08, 0.874391, -0.485222, 1, -2.13163e-14, -4.37114e-08, -9.20865, 1.42677, 0)
+light_energy = 0.25
+light_indirect_energy = 0.25
+
+[node name="DirectionalLight3D2" type="DirectionalLight3D" parent="Player"]
+transform = Transform3D(-3.78552e-08, 0.5, -0.866025, 2.18557e-08, 0.866025, 0.5, 1, -1.77636e-15, -4.37114e-08, -9.20865, 8.98438, 0)
+light_energy = 0.25
+light_indirect_energy = 0.25
+
+[node name="DirectionalLight3D3" type="DirectionalLight3D" parent="Player"]
+transform = Transform3D(3.93658e-08, 0.434681, 0.900584, 1.90005e-08, -0.900584, 0.434681, 1, 0, -4.37114e-08, 7.80498, 8.78212, 2.1313)
+light_energy = 0.25
+light_indirect_energy = 0.25
+
+[node name="DirectionalLight3D4" type="DirectionalLight3D" parent="Player"]
+transform = Transform3D(3.79612e-08, -0.495777, 0.86845, -2.16711e-08, -0.86845, -0.495777, 1, 5.32907e-15, -4.37114e-08, 7.77283, 2.04903, 2.39313)
+light_energy = 0.25
+light_indirect_energy = 0.25
+
+[node name="DinoJump" parent="Player" instance=ExtResource("3_d8ijg")]
+transform = Transform3D(-1, 0, -2.98023e-08, 0, 1, 0, 2.98023e-08, 0, -1, -0.0864697, 9.55502, 0)
+
+[node name="Camera3D" type="Camera3D" parent="Player"]
+transform = Transform3D(-3.78552e-08, -0.5, 0.866025, -2.18557e-08, 0.866025, 0.5, -1, 0, -4.37114e-08, 12.495, 11.6736, 0)
+environment = SubResource("Environment_jly0n")
+
+[node name="SoundWalking" type="AudioStreamPlayer3D" parent="Player"]
+stream = ExtResource("4_0hx34")
+
+[node name="SoundJumping" type="AudioStreamPlayer3D" parent="Player"]
+stream = ExtResource("5_1khtf")
