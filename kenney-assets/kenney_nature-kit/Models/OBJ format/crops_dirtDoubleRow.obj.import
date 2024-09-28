@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bdxh7pj5b7cmq"
-path="res://.godot/imported/crops_dirtDoubleRow.obj-444b667a7763c41ef1ee47e659789a2c.mesh"
+path="res://.godot/imported/crops_dirtDoubleRow.obj-e1902ef8a0954b90230ff8a6156713f2.mesh"
 
 [deps]
 
-files=["res://.godot/imported/crops_dirtDoubleRow.obj-444b667a7763c41ef1ee47e659789a2c.mesh"]
+files=["res://.godot/imported/crops_dirtDoubleRow.obj-e1902ef8a0954b90230ff8a6156713f2.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/crops_dirtDoubleRow.obj"
-dest_files=["res://.godot/imported/crops_dirtDoubleRow.obj-444b667a7763c41ef1ee47e659789a2c.mesh", "res://.godot/imported/crops_dirtDoubleRow.obj-444b667a7763c41ef1ee47e659789a2c.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/crops_dirtDoubleRow.obj"
+dest_files=["res://.godot/imported/crops_dirtDoubleRow.obj-e1902ef8a0954b90230ff8a6156713f2.mesh", "res://.godot/imported/crops_dirtDoubleRow.obj-e1902ef8a0954b90230ff8a6156713f2.mesh"]
 
 [params]
 

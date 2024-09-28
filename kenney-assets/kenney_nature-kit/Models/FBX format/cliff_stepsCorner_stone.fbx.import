@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dq01a8xqe3fi4"
-path="res://.godot/imported/cliff_stepsCorner_stone.fbx-baa795d36483f066c5a373039cf9cd3b.scn"
+path="res://.godot/imported/cliff_stepsCorner_stone.fbx-8e00e58c3b96ee7783733b7554439bd5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/cliff_stepsCorner_stone.fbx"
-dest_files=["res://.godot/imported/cliff_stepsCorner_stone.fbx-baa795d36483f066c5a373039cf9cd3b.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/cliff_stepsCorner_stone.fbx"
+dest_files=["res://.godot/imported/cliff_stepsCorner_stone.fbx-8e00e58c3b96ee7783733b7554439bd5.scn"]
 
 [params]
 

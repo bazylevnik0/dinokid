@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dasmsyibh8ood"
-path="res://.godot/imported/platform-ramp.glb-63ec2816a15f18f9a4fb1f2a39118b9e.scn"
+path="res://.godot/imported/platform-ramp.glb-9490f6c5bbb7bc935c4d16626cf1c581.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/platform-ramp.glb"
-dest_files=["res://.godot/imported/platform-ramp.glb-63ec2816a15f18f9a4fb1f2a39118b9e.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/GLB format/platform-ramp.glb"
+dest_files=["res://.godot/imported/platform-ramp.glb-9490f6c5bbb7bc935c4d16626cf1c581.scn"]
 
 [params]
 

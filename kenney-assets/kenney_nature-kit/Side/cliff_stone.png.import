@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3wyarwgpyy0v"
-path="res://.godot/imported/cliff_stone.png-dc32156e084be5403d0d0d7109581386.ctex"
+path="res://.godot/imported/cliff_stone.png-99802070a7f6d4ccfab42187617ed302.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/cliff_stone.png"
-dest_files=["res://.godot/imported/cliff_stone.png-dc32156e084be5403d0d0d7109581386.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/cliff_stone.png"
+dest_files=["res://.godot/imported/cliff_stone.png-99802070a7f6d4ccfab42187617ed302.ctex"]
 
 [params]
 

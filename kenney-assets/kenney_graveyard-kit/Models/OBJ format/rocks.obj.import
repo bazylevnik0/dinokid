@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bj3sunjcbu02y"
-path="res://.godot/imported/rocks.obj-a369efb8e85205fd20f53c41563d0980.mesh"
+path="res://.godot/imported/rocks.obj-93906a86e123c711fe2795d1be351753.mesh"
 
 [deps]
 
-files=["res://.godot/imported/rocks.obj-a369efb8e85205fd20f53c41563d0980.mesh"]
+files=["res://.godot/imported/rocks.obj-93906a86e123c711fe2795d1be351753.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/rocks.obj"
-dest_files=["res://.godot/imported/rocks.obj-a369efb8e85205fd20f53c41563d0980.mesh", "res://.godot/imported/rocks.obj-a369efb8e85205fd20f53c41563d0980.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/rocks.obj"
+dest_files=["res://.godot/imported/rocks.obj-93906a86e123c711fe2795d1be351753.mesh", "res://.godot/imported/rocks.obj-93906a86e123c711fe2795d1be351753.mesh"]
 
 [params]
 

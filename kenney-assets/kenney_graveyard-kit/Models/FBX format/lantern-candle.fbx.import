@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dfonr6el80v66"
-path="res://.godot/imported/lantern-candle.fbx-918857a14c26116e01a2e8a3dd1a829d.scn"
+path="res://.godot/imported/lantern-candle.fbx-06e0d79a7c16faddbff2e97fa744957c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/lantern-candle.fbx"
-dest_files=["res://.godot/imported/lantern-candle.fbx-918857a14c26116e01a2e8a3dd1a829d.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/lantern-candle.fbx"
+dest_files=["res://.godot/imported/lantern-candle.fbx-06e0d79a7c16faddbff2e97fa744957c.scn"]
 
 [params]
 

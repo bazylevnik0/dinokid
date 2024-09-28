@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bijs1o06o7qv0"
-path="res://.godot/imported/lily_large.png-326574b0239a3da9db9305c86f98af46.ctex"
+path="res://.godot/imported/lily_large.png-ef01123bb5e9363fb7725c95862c1af7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/lily_large.png"
-dest_files=["res://.godot/imported/lily_large.png-326574b0239a3da9db9305c86f98af46.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/lily_large.png"
+dest_files=["res://.godot/imported/lily_large.png-ef01123bb5e9363fb7725c95862c1af7.ctex"]
 
 [params]
 

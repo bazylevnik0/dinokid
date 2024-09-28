@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be4yufalc1k2s"
-path="res://.godot/imported/sign_NE.png-d7aaa0824cedd2bf8c52ad183548b696.ctex"
+path="res://.godot/imported/sign_NE.png-5eefc75aee7b34b74d130d28e3d22ee7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/sign_NE.png"
-dest_files=["res://.godot/imported/sign_NE.png-d7aaa0824cedd2bf8c52ad183548b696.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/sign_NE.png"
+dest_files=["res://.godot/imported/sign_NE.png-5eefc75aee7b34b74d130d28e3d22ee7.ctex"]
 
 [params]
 

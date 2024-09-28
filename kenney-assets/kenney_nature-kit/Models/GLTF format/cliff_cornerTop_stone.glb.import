@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dekbed75phq74"
-path="res://.godot/imported/cliff_cornerTop_stone.glb-2b692e035baa9b9563776b883334a017.scn"
+path="res://.godot/imported/cliff_cornerTop_stone.glb-0498c9ece533118559168bbdb1e917bc.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_cornerTop_stone.glb"
-dest_files=["res://.godot/imported/cliff_cornerTop_stone.glb-2b692e035baa9b9563776b883334a017.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/cliff_cornerTop_stone.glb"
+dest_files=["res://.godot/imported/cliff_cornerTop_stone.glb-0498c9ece533118559168bbdb1e917bc.scn"]
 
 [params]
 

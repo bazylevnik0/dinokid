@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bh8avbnowkbyj"
-path="res://.godot/imported/altar-stone.glb-ae761a261cfded3ee4fca722f11adafc.scn"
+path="res://.godot/imported/altar-stone.glb-0884eee0371893c1c7fa4352dbf4872f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/altar-stone.glb"
-dest_files=["res://.godot/imported/altar-stone.glb-ae761a261cfded3ee4fca722f11adafc.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/altar-stone.glb"
+dest_files=["res://.godot/imported/altar-stone.glb-0884eee0371893c1c7fa4352dbf4872f.scn"]
 
 [params]
 

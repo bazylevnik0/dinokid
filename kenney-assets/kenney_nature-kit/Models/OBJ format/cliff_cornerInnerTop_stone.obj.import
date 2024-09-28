@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dt7kt6377gxj4"
-path="res://.godot/imported/cliff_cornerInnerTop_stone.obj-3e0dc29e5538e330483cbd3048b936fe.mesh"
+path="res://.godot/imported/cliff_cornerInnerTop_stone.obj-339622752e55b209bfa3afd5eec1e3a6.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_cornerInnerTop_stone.obj-3e0dc29e5538e330483cbd3048b936fe.mesh"]
+files=["res://.godot/imported/cliff_cornerInnerTop_stone.obj-339622752e55b209bfa3afd5eec1e3a6.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_cornerInnerTop_stone.obj"
-dest_files=["res://.godot/imported/cliff_cornerInnerTop_stone.obj-3e0dc29e5538e330483cbd3048b936fe.mesh", "res://.godot/imported/cliff_cornerInnerTop_stone.obj-3e0dc29e5538e330483cbd3048b936fe.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_cornerInnerTop_stone.obj"
+dest_files=["res://.godot/imported/cliff_cornerInnerTop_stone.obj-339622752e55b209bfa3afd5eec1e3a6.mesh", "res://.godot/imported/cliff_cornerInnerTop_stone.obj-339622752e55b209bfa3afd5eec1e3a6.mesh"]
 
 [params]
 

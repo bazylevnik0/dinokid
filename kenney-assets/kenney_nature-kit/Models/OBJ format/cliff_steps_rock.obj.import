@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://y8tojx5sgbf2"
-path="res://.godot/imported/cliff_steps_rock.obj-a1e84646cc80a68d4246062fdcae263b.mesh"
+path="res://.godot/imported/cliff_steps_rock.obj-ee2351b2892a58702d9104b88cdf6a0b.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_steps_rock.obj-a1e84646cc80a68d4246062fdcae263b.mesh"]
+files=["res://.godot/imported/cliff_steps_rock.obj-ee2351b2892a58702d9104b88cdf6a0b.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_steps_rock.obj"
-dest_files=["res://.godot/imported/cliff_steps_rock.obj-a1e84646cc80a68d4246062fdcae263b.mesh", "res://.godot/imported/cliff_steps_rock.obj-a1e84646cc80a68d4246062fdcae263b.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_steps_rock.obj"
+dest_files=["res://.godot/imported/cliff_steps_rock.obj-ee2351b2892a58702d9104b88cdf6a0b.mesh", "res://.godot/imported/cliff_steps_rock.obj-ee2351b2892a58702d9104b88cdf6a0b.mesh"]
 
 [params]
 

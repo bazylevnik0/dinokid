@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dc4q2ti7y6dvc"
-path="res://.godot/imported/flowers.png-1576f224be89b6e17ccb154039fadd0e.ctex"
+path="res://.godot/imported/flowers.png-80f2adf75b16313c5333f2b60480e25b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/flowers.png"
-dest_files=["res://.godot/imported/flowers.png-1576f224be89b6e17ccb154039fadd0e.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/flowers.png"
+dest_files=["res://.godot/imported/flowers.png-80f2adf75b16313c5333f2b60480e25b.ctex"]
 
 [params]
 

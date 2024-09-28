@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd77msxad462a"
-path="res://.godot/imported/plant_flatShort_SE.png-db8fefc2d74e3df7cb815c8c69c0b455.ctex"
+path="res://.godot/imported/plant_flatShort_SE.png-3a874c46a983b3d2f4de40235504a19d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/plant_flatShort_SE.png"
-dest_files=["res://.godot/imported/plant_flatShort_SE.png-db8fefc2d74e3df7cb815c8c69c0b455.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/plant_flatShort_SE.png"
+dest_files=["res://.godot/imported/plant_flatShort_SE.png-3a874c46a983b3d2f4de40235504a19d.ctex"]
 
 [params]
 

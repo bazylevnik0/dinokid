@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dbhbi451o34ag"
-path="res://.godot/imported/rock_tallI.obj-fe0cddd2bc0a9bcc525741796394105a.mesh"
+path="res://.godot/imported/rock_tallI.obj-60fa8fa38056bbdb70b2f2ad5c5a385e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/rock_tallI.obj-fe0cddd2bc0a9bcc525741796394105a.mesh"]
+files=["res://.godot/imported/rock_tallI.obj-60fa8fa38056bbdb70b2f2ad5c5a385e.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/rock_tallI.obj"
-dest_files=["res://.godot/imported/rock_tallI.obj-fe0cddd2bc0a9bcc525741796394105a.mesh", "res://.godot/imported/rock_tallI.obj-fe0cddd2bc0a9bcc525741796394105a.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/rock_tallI.obj"
+dest_files=["res://.godot/imported/rock_tallI.obj-60fa8fa38056bbdb70b2f2ad5c5a385e.mesh", "res://.godot/imported/rock_tallI.obj-60fa8fa38056bbdb70b2f2ad5c5a385e.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvneo0j2acqg8"
-path="res://.godot/imported/grass_leafsLarge_NE.png-40a5891acc39d94fc9cfca9d34b9db13.ctex"
+path="res://.godot/imported/grass_leafsLarge_NE.png-9f8cc1d7dcc88743cd76befe4ca98d62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/grass_leafsLarge_NE.png"
-dest_files=["res://.godot/imported/grass_leafsLarge_NE.png-40a5891acc39d94fc9cfca9d34b9db13.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/grass_leafsLarge_NE.png"
+dest_files=["res://.godot/imported/grass_leafsLarge_NE.png-9f8cc1d7dcc88743cd76befe4ca98d62.ctex"]
 
 [params]
 

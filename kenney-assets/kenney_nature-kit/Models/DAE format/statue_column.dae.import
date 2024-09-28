@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bcdpfsr8e7fel"
-path="res://.godot/imported/statue_column.dae-8305a51ca3aaaddc629f230eee34eedc.scn"
+path="res://.godot/imported/statue_column.dae-a5770257678bc40ed3b284d325c09ee4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/statue_column.dae"
-dest_files=["res://.godot/imported/statue_column.dae-8305a51ca3aaaddc629f230eee34eedc.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/statue_column.dae"
+dest_files=["res://.godot/imported/statue_column.dae-a5770257678bc40ed3b284d325c09ee4.scn"]
 
 [params]
 

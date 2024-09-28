@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bvbf633n084rf"
-path="res://.godot/imported/tree_small_dark.fbx-966f4305300dcd00918c830e56fc55d6.scn"
+path="res://.godot/imported/tree_small_dark.fbx-ec7bdcca323213da75ed83fa3815b0fb.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/tree_small_dark.fbx"
-dest_files=["res://.godot/imported/tree_small_dark.fbx-966f4305300dcd00918c830e56fc55d6.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/tree_small_dark.fbx"
+dest_files=["res://.godot/imported/tree_small_dark.fbx-ec7bdcca323213da75ed83fa3815b0fb.scn"]
 
 [params]
 

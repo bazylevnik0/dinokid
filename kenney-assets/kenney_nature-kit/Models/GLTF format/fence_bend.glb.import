@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b603stb2ylsni"
-path="res://.godot/imported/fence_bend.glb-16802daa8ceb4e4cbd9c5ca812f86a6c.scn"
+path="res://.godot/imported/fence_bend.glb-5da5f877f273bf9f6d850d3c7e980160.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/fence_bend.glb"
-dest_files=["res://.godot/imported/fence_bend.glb-16802daa8ceb4e4cbd9c5ca812f86a6c.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/fence_bend.glb"
+dest_files=["res://.godot/imported/fence_bend.glb-5da5f877f273bf9f6d850d3c7e980160.scn"]
 
 [params]
 

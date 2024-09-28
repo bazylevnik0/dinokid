@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vxttaddrar6"
-path="res://.godot/imported/bed.png-76b7f1c553ec2ab987ed066587af5129.ctex"
+path="res://.godot/imported/bed.png-a0253b6235d316fcb5b881af0c2d6d01.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/bed.png"
-dest_files=["res://.godot/imported/bed.png-76b7f1c553ec2ab987ed066587af5129.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/bed.png"
+dest_files=["res://.godot/imported/bed.png-a0253b6235d316fcb5b881af0c2d6d01.ctex"]
 
 [params]
 

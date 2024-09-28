@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://tnksjn54nvnc"
-path="res://.godot/imported/plant_flatTall.fbx-3b31b84d5279e8dace1bad2efe4c2a64.scn"
+path="res://.godot/imported/plant_flatTall.fbx-64f62d29a96572e9028f67a7200f39a3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/plant_flatTall.fbx"
-dest_files=["res://.godot/imported/plant_flatTall.fbx-3b31b84d5279e8dace1bad2efe4c2a64.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/plant_flatTall.fbx"
+dest_files=["res://.godot/imported/plant_flatTall.fbx-64f62d29a96572e9028f67a7200f39a3.scn"]
 
 [params]
 

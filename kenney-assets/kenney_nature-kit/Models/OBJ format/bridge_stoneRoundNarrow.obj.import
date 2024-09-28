@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c34rnqnwwllkj"
-path="res://.godot/imported/bridge_stoneRoundNarrow.obj-de99e0e66e3391ffa0afb7d40c2ceb38.mesh"
+path="res://.godot/imported/bridge_stoneRoundNarrow.obj-55756e4870a0ae65f0a2d73d0655f14f.mesh"
 
 [deps]
 
-files=["res://.godot/imported/bridge_stoneRoundNarrow.obj-de99e0e66e3391ffa0afb7d40c2ceb38.mesh"]
+files=["res://.godot/imported/bridge_stoneRoundNarrow.obj-55756e4870a0ae65f0a2d73d0655f14f.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/bridge_stoneRoundNarrow.obj"
-dest_files=["res://.godot/imported/bridge_stoneRoundNarrow.obj-de99e0e66e3391ffa0afb7d40c2ceb38.mesh", "res://.godot/imported/bridge_stoneRoundNarrow.obj-de99e0e66e3391ffa0afb7d40c2ceb38.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/bridge_stoneRoundNarrow.obj"
+dest_files=["res://.godot/imported/bridge_stoneRoundNarrow.obj-55756e4870a0ae65f0a2d73d0655f14f.mesh", "res://.godot/imported/bridge_stoneRoundNarrow.obj-55756e4870a0ae65f0a2d73d0655f14f.mesh"]
 
 [params]
 

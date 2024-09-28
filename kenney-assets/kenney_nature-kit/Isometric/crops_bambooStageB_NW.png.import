@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://s7a275k0cqjh"
-path="res://.godot/imported/crops_bambooStageB_NW.png-915731490a5f7cdb5688091eeffca3cb.ctex"
+path="res://.godot/imported/crops_bambooStageB_NW.png-8695fb817c28c985d2093edea65b8879.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crops_bambooStageB_NW.png"
-dest_files=["res://.godot/imported/crops_bambooStageB_NW.png-915731490a5f7cdb5688091eeffca3cb.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/crops_bambooStageB_NW.png"
+dest_files=["res://.godot/imported/crops_bambooStageB_NW.png-8695fb817c28c985d2093edea65b8879.ctex"]
 
 [params]
 

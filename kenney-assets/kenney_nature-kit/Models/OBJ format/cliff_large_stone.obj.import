@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://ccgwarb7poufi"
-path="res://.godot/imported/cliff_large_stone.obj-df3fbf33249556c1446a6902e6efd0f1.mesh"
+path="res://.godot/imported/cliff_large_stone.obj-e7d90d28aa57224ed33de85525223947.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_large_stone.obj-df3fbf33249556c1446a6902e6efd0f1.mesh"]
+files=["res://.godot/imported/cliff_large_stone.obj-e7d90d28aa57224ed33de85525223947.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_large_stone.obj"
-dest_files=["res://.godot/imported/cliff_large_stone.obj-df3fbf33249556c1446a6902e6efd0f1.mesh", "res://.godot/imported/cliff_large_stone.obj-df3fbf33249556c1446a6902e6efd0f1.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_large_stone.obj"
+dest_files=["res://.godot/imported/cliff_large_stone.obj-e7d90d28aa57224ed33de85525223947.mesh", "res://.godot/imported/cliff_large_stone.obj-e7d90d28aa57224ed33de85525223947.mesh"]
 
 [params]
 

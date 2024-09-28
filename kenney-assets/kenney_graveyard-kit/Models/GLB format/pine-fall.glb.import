@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ciime3sp68rnv"
-path="res://.godot/imported/pine-fall.glb-b936add2431fbe7537a319bff5ea89df.scn"
+path="res://.godot/imported/pine-fall.glb-5429de7d5dde79a8f7abdf740756bff9.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/pine-fall.glb"
-dest_files=["res://.godot/imported/pine-fall.glb-b936add2431fbe7537a319bff5ea89df.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/pine-fall.glb"
+dest_files=["res://.godot/imported/pine-fall.glb-5429de7d5dde79a8f7abdf740756bff9.scn"]
 
 [params]
 

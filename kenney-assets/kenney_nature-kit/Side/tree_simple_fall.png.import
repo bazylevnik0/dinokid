@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1bl34lopdtn6"
-path="res://.godot/imported/tree_simple_fall.png-c345e71ae535653724905182420dbf4e.ctex"
+path="res://.godot/imported/tree_simple_fall.png-2a57064ad7271352d8f899eed4cd8992.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/tree_simple_fall.png"
-dest_files=["res://.godot/imported/tree_simple_fall.png-c345e71ae535653724905182420dbf4e.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/tree_simple_fall.png"
+dest_files=["res://.godot/imported/tree_simple_fall.png-2a57064ad7271352d8f899eed4cd8992.ctex"]
 
 [params]
 

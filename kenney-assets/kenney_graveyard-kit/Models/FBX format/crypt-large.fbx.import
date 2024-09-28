@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bjrpdv6gtwrgk"
-path="res://.godot/imported/crypt-large.fbx-57c461f56c6fce192f9924cd200722f3.scn"
+path="res://.godot/imported/crypt-large.fbx-7b0723e29083286353a5f8444af54066.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/crypt-large.fbx"
-dest_files=["res://.godot/imported/crypt-large.fbx-57c461f56c6fce192f9924cd200722f3.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/crypt-large.fbx"
+dest_files=["res://.godot/imported/crypt-large.fbx-7b0723e29083286353a5f8444af54066.scn"]
 
 [params]
 

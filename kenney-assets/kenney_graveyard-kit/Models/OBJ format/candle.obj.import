@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c04wd1d7xurmi"
-path="res://.godot/imported/candle.obj-9fbb2e810abbaa7668ab41fe84f5a8f7.mesh"
+path="res://.godot/imported/candle.obj-34f8d40ff2d4ed01564b3e868a6ddc34.mesh"
 
 [deps]
 
-files=["res://.godot/imported/candle.obj-9fbb2e810abbaa7668ab41fe84f5a8f7.mesh"]
+files=["res://.godot/imported/candle.obj-34f8d40ff2d4ed01564b3e868a6ddc34.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/candle.obj"
-dest_files=["res://.godot/imported/candle.obj-9fbb2e810abbaa7668ab41fe84f5a8f7.mesh", "res://.godot/imported/candle.obj-9fbb2e810abbaa7668ab41fe84f5a8f7.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/candle.obj"
+dest_files=["res://.godot/imported/candle.obj-34f8d40ff2d4ed01564b3e868a6ddc34.mesh", "res://.godot/imported/candle.obj-34f8d40ff2d4ed01564b3e868a6ddc34.mesh"]
 
 [params]
 

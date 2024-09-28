@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dywy45wtdi738"
-path="res://.godot/imported/mushroom_redGroup_SE.png-9da3ee6a17af4b26a8adddb1a47c52ba.ctex"
+path="res://.godot/imported/mushroom_redGroup_SE.png-dbb083a559ad546198b020062db0b205.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/mushroom_redGroup_SE.png"
-dest_files=["res://.godot/imported/mushroom_redGroup_SE.png-9da3ee6a17af4b26a8adddb1a47c52ba.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/mushroom_redGroup_SE.png"
+dest_files=["res://.godot/imported/mushroom_redGroup_SE.png-dbb083a559ad546198b020062db0b205.ctex"]
 
 [params]
 

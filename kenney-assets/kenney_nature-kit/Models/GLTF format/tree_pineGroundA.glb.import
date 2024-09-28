@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cthwojxlrmdrd"
-path="res://.godot/imported/tree_pineGroundA.glb-990b2dbdb77e8959ceaa717545d347c2.scn"
+path="res://.godot/imported/tree_pineGroundA.glb-3981d85a10f9c4411a7fe4518b6cd6b6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/tree_pineGroundA.glb"
-dest_files=["res://.godot/imported/tree_pineGroundA.glb-990b2dbdb77e8959ceaa717545d347c2.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/tree_pineGroundA.glb"
+dest_files=["res://.godot/imported/tree_pineGroundA.glb-3981d85a10f9c4411a7fe4518b6cd6b6.scn"]
 
 [params]
 

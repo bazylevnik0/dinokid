@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h4yafpeb7o13"
-path="res://.godot/imported/gravestone-bevel.png-377ea8f9602ff84631653096879dec8b.ctex"
+path="res://.godot/imported/gravestone-bevel.png-f4cacd97c30d5e5c18d173addbfc2f3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/gravestone-bevel.png"
-dest_files=["res://.godot/imported/gravestone-bevel.png-377ea8f9602ff84631653096879dec8b.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/gravestone-bevel.png"
+dest_files=["res://.godot/imported/gravestone-bevel.png-f4cacd97c30d5e5c18d173addbfc2f3d.ctex"]
 
 [params]
 

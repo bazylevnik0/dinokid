@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uv8psdp8p81o"
-path="res://.godot/imported/ground_riverEndClosed_SW.png-d7199524a4ac40a6bb11fa6df7bb05b5.ctex"
+path="res://.godot/imported/ground_riverEndClosed_SW.png-8fdcf68671771c20164dfd9ec4532c17.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/ground_riverEndClosed_SW.png"
-dest_files=["res://.godot/imported/ground_riverEndClosed_SW.png-d7199524a4ac40a6bb11fa6df7bb05b5.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/ground_riverEndClosed_SW.png"
+dest_files=["res://.godot/imported/ground_riverEndClosed_SW.png-8fdcf68671771c20164dfd9ec4532c17.ctex"]
 
 [params]
 

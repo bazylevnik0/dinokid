@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0ul0fb74rge4"
-path="res://.godot/imported/spike-block-wide.fbx-87fdb53ebc33b31cc38ccbf31ec7eb10.scn"
+path="res://.godot/imported/spike-block-wide.fbx-d547dc6044a253195cef079fc9e05ed4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/spike-block-wide.fbx"
-dest_files=["res://.godot/imported/spike-block-wide.fbx-87fdb53ebc33b31cc38ccbf31ec7eb10.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/FBX format/spike-block-wide.fbx"
+dest_files=["res://.godot/imported/spike-block-wide.fbx-d547dc6044a253195cef079fc9e05ed4.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca8mxi6cojatu"
-path="res://.godot/imported/cactus_short_NW.png-847ffa1df8fd2bb0748d7d148b934a2b.ctex"
+path="res://.godot/imported/cactus_short_NW.png-04db14ee8c6542077e904a08ad1c87be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/cactus_short_NW.png"
-dest_files=["res://.godot/imported/cactus_short_NW.png-847ffa1df8fd2bb0748d7d148b934a2b.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/cactus_short_NW.png"
+dest_files=["res://.godot/imported/cactus_short_NW.png-04db14ee8c6542077e904a08ad1c87be.ctex"]
 
 [params]
 

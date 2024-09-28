@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qh6nww3poon7"
-path="res://.godot/imported/block-grass-overhang-low-hexagon.png-33de870d4cdcfd2121157d3fe2017ca1.ctex"
+path="res://.godot/imported/block-grass-overhang-low-hexagon.png-31b42dae9748aec57cb3f2cab58385dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-grass-overhang-low-hexagon.png"
-dest_files=["res://.godot/imported/block-grass-overhang-low-hexagon.png-33de870d4cdcfd2121157d3fe2017ca1.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/block-grass-overhang-low-hexagon.png"
+dest_files=["res://.godot/imported/block-grass-overhang-low-hexagon.png-31b42dae9748aec57cb3f2cab58385dc.ctex"]
 
 [params]
 

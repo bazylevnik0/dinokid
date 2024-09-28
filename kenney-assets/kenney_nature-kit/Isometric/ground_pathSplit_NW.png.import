@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbun6qtoqhk0t"
-path="res://.godot/imported/ground_pathSplit_NW.png-667c6dc5a6281309883e2ad5da05a217.ctex"
+path="res://.godot/imported/ground_pathSplit_NW.png-1ec06f5ec3e85b75b30bf7fb6c05260f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/ground_pathSplit_NW.png"
-dest_files=["res://.godot/imported/ground_pathSplit_NW.png-667c6dc5a6281309883e2ad5da05a217.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/ground_pathSplit_NW.png"
+dest_files=["res://.godot/imported/ground_pathSplit_NW.png-1ec06f5ec3e85b75b30bf7fb6c05260f.ctex"]
 
 [params]
 

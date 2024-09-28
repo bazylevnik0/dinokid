@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m3o5oa855uuv"
-path="res://.godot/imported/block-grass-overhang-corner.png-d035f0cc38281cce6e3068bd348fe9b6.ctex"
+path="res://.godot/imported/block-grass-overhang-corner.png-a01bf8b83dd34da4be2f75876bbe2ce7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-grass-overhang-corner.png"
-dest_files=["res://.godot/imported/block-grass-overhang-corner.png-d035f0cc38281cce6e3068bd348fe9b6.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/block-grass-overhang-corner.png"
+dest_files=["res://.godot/imported/block-grass-overhang-corner.png-a01bf8b83dd34da4be2f75876bbe2ce7.ctex"]
 
 [params]
 

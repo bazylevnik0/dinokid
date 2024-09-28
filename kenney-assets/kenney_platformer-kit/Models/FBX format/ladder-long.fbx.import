@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://7ljklpoolvre"
-path="res://.godot/imported/ladder-long.fbx-7a22dde12368ef58307017d513ce969b.scn"
+path="res://.godot/imported/ladder-long.fbx-ba17eb80d0509ed7c7686d831af9131e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/ladder-long.fbx"
-dest_files=["res://.godot/imported/ladder-long.fbx-7a22dde12368ef58307017d513ce969b.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/FBX format/ladder-long.fbx"
+dest_files=["res://.godot/imported/ladder-long.fbx-ba17eb80d0509ed7c7686d831af9131e.scn"]
 
 [params]
 

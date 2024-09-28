@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://to0e03obtpkj"
-path="res://.godot/imported/mushroom_tanGroup.obj-b027e8629ed445116647608d2dd8aa4b.mesh"
+path="res://.godot/imported/mushroom_tanGroup.obj-2a63c461a9ae36fa6c7bf906eeb83ff2.mesh"
 
 [deps]
 
-files=["res://.godot/imported/mushroom_tanGroup.obj-b027e8629ed445116647608d2dd8aa4b.mesh"]
+files=["res://.godot/imported/mushroom_tanGroup.obj-2a63c461a9ae36fa6c7bf906eeb83ff2.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/mushroom_tanGroup.obj"
-dest_files=["res://.godot/imported/mushroom_tanGroup.obj-b027e8629ed445116647608d2dd8aa4b.mesh", "res://.godot/imported/mushroom_tanGroup.obj-b027e8629ed445116647608d2dd8aa4b.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/mushroom_tanGroup.obj"
+dest_files=["res://.godot/imported/mushroom_tanGroup.obj-2a63c461a9ae36fa6c7bf906eeb83ff2.mesh", "res://.godot/imported/mushroom_tanGroup.obj-2a63c461a9ae36fa6c7bf906eeb83ff2.mesh"]
 
 [params]
 

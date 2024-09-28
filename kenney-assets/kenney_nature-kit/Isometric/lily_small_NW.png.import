@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqfxhmqy72bl"
-path="res://.godot/imported/lily_small_NW.png-9f60eae4b9ea506921d7c89770afa7c0.ctex"
+path="res://.godot/imported/lily_small_NW.png-347fd71c85bba44e905ed66561cc83b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/lily_small_NW.png"
-dest_files=["res://.godot/imported/lily_small_NW.png-9f60eae4b9ea506921d7c89770afa7c0.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/lily_small_NW.png"
+dest_files=["res://.godot/imported/lily_small_NW.png-347fd71c85bba44e905ed66561cc83b5.ctex"]
 
 [params]
 

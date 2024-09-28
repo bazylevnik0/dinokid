@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1pok821w8k3n"
-path="res://.godot/imported/ground_pathBend.png-1171d1eadf6ad79c25614e21ea66b109.ctex"
+path="res://.godot/imported/ground_pathBend.png-454137713360583164c0b79d24430361.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/ground_pathBend.png"
-dest_files=["res://.godot/imported/ground_pathBend.png-1171d1eadf6ad79c25614e21ea66b109.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/ground_pathBend.png"
+dest_files=["res://.godot/imported/ground_pathBend.png-454137713360583164c0b79d24430361.ctex"]
 
 [params]
 

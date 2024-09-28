@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmvdfl51l4b4m"
-path="res://.godot/imported/stone-wall.glb-a5596bf01b4e85ed2ab31f38f1193d8d.scn"
+path="res://.godot/imported/stone-wall.glb-fa08f07c67aeddca3ba6489f4656bbb0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/stone-wall.glb"
-dest_files=["res://.godot/imported/stone-wall.glb-a5596bf01b4e85ed2ab31f38f1193d8d.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/stone-wall.glb"
+dest_files=["res://.godot/imported/stone-wall.glb-fa08f07c67aeddca3ba6489f4656bbb0.scn"]
 
 [params]
 

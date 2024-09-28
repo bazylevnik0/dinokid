@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://el6csw4uuvb8"
-path="res://.godot/imported/statue_obelisk.obj-3212d853bfed4238de1b58fa821191fe.mesh"
+path="res://.godot/imported/statue_obelisk.obj-b7d38f9af3e640ba68282e5a7648015f.mesh"
 
 [deps]
 
-files=["res://.godot/imported/statue_obelisk.obj-3212d853bfed4238de1b58fa821191fe.mesh"]
+files=["res://.godot/imported/statue_obelisk.obj-b7d38f9af3e640ba68282e5a7648015f.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/statue_obelisk.obj"
-dest_files=["res://.godot/imported/statue_obelisk.obj-3212d853bfed4238de1b58fa821191fe.mesh", "res://.godot/imported/statue_obelisk.obj-3212d853bfed4238de1b58fa821191fe.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/statue_obelisk.obj"
+dest_files=["res://.godot/imported/statue_obelisk.obj-b7d38f9af3e640ba68282e5a7648015f.mesh", "res://.godot/imported/statue_obelisk.obj-b7d38f9af3e640ba68282e5a7648015f.mesh"]
 
 [params]
 

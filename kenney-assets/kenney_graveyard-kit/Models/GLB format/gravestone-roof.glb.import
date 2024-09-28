@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://jnfcubtdv7dg"
-path="res://.godot/imported/gravestone-roof.glb-544944276c4a9824c7d45e0adb26d05c.scn"
+path="res://.godot/imported/gravestone-roof.glb-1414435592411cb80be9055c02ff0cd5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/gravestone-roof.glb"
-dest_files=["res://.godot/imported/gravestone-roof.glb-544944276c4a9824c7d45e0adb26d05c.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/gravestone-roof.glb"
+dest_files=["res://.godot/imported/gravestone-roof.glb-1414435592411cb80be9055c02ff0cd5.scn"]
 
 [params]
 

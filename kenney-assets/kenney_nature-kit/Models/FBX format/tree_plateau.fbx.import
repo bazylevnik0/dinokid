@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ck1a5i080th35"
-path="res://.godot/imported/tree_plateau.fbx-19602e39e7e487e703bc3469d74db7af.scn"
+path="res://.godot/imported/tree_plateau.fbx-694fbb0235e329792fcad6e439194609.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/tree_plateau.fbx"
-dest_files=["res://.godot/imported/tree_plateau.fbx-19602e39e7e487e703bc3469d74db7af.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/tree_plateau.fbx"
+dest_files=["res://.godot/imported/tree_plateau.fbx-694fbb0235e329792fcad6e439194609.scn"]
 
 [params]
 

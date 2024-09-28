@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhsxkcuo3lxng"
-path="res://.godot/imported/bridge_center_woodRound_NE.png-a6467e524914ceb74950ba78fd259a70.ctex"
+path="res://.godot/imported/bridge_center_woodRound_NE.png-42c890342bc83cfc11c570bc7a4cdac9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/bridge_center_woodRound_NE.png"
-dest_files=["res://.godot/imported/bridge_center_woodRound_NE.png-a6467e524914ceb74950ba78fd259a70.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/bridge_center_woodRound_NE.png"
+dest_files=["res://.godot/imported/bridge_center_woodRound_NE.png-42c890342bc83cfc11c570bc7a4cdac9.ctex"]
 
 [params]
 

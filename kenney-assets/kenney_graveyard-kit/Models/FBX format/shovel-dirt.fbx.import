@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://chr08m7v57cuo"
-path="res://.godot/imported/shovel-dirt.fbx-a4bafe19b2cb7d1cc5b5b92dce59d016.scn"
+path="res://.godot/imported/shovel-dirt.fbx-ce33af556536b072f1bcac9a42e41f2e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/shovel-dirt.fbx"
-dest_files=["res://.godot/imported/shovel-dirt.fbx-a4bafe19b2cb7d1cc5b5b92dce59d016.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/shovel-dirt.fbx"
+dest_files=["res://.godot/imported/shovel-dirt.fbx-ce33af556536b072f1bcac9a42e41f2e.scn"]
 
 [params]
 

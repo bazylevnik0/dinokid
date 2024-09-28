@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://brlpfdllm3qmv"
-path="res://.godot/imported/grass_leafs.obj-59653e8124c569e3bca7642f93e73227.mesh"
+path="res://.godot/imported/grass_leafs.obj-d71065179273226c7c4bc48bf8b260d7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/grass_leafs.obj-59653e8124c569e3bca7642f93e73227.mesh"]
+files=["res://.godot/imported/grass_leafs.obj-d71065179273226c7c4bc48bf8b260d7.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/grass_leafs.obj"
-dest_files=["res://.godot/imported/grass_leafs.obj-59653e8124c569e3bca7642f93e73227.mesh", "res://.godot/imported/grass_leafs.obj-59653e8124c569e3bca7642f93e73227.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/grass_leafs.obj"
+dest_files=["res://.godot/imported/grass_leafs.obj-d71065179273226c7c4bc48bf8b260d7.mesh", "res://.godot/imported/grass_leafs.obj-d71065179273226c7c4bc48bf8b260d7.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csdtdckbslyd7"
-path="res://.godot/imported/crypt-small.png-fdf30ef2597bb3a35bfd28cfed825ff8.ctex"
+path="res://.godot/imported/crypt-small.png-da4c22c6d4e6924c4de0101ef8d63521.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/crypt-small.png"
-dest_files=["res://.godot/imported/crypt-small.png-fdf30ef2597bb3a35bfd28cfed825ff8.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/crypt-small.png"
+dest_files=["res://.godot/imported/crypt-small.png-da4c22c6d4e6924c4de0101ef8d63521.ctex"]
 
 [params]
 

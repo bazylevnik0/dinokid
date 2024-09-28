@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bwmhulfq5buwd"
-path="res://.godot/imported/tree_pineSmallC.dae-7caa0c1c6183df9746c4425ca72301b4.scn"
+path="res://.godot/imported/tree_pineSmallC.dae-225dddec3c777427c295a98cdb450fd1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/tree_pineSmallC.dae"
-dest_files=["res://.godot/imported/tree_pineSmallC.dae-7caa0c1c6183df9746c4425ca72301b4.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/tree_pineSmallC.dae"
+dest_files=["res://.godot/imported/tree_pineSmallC.dae-225dddec3c777427c295a98cdb450fd1.scn"]
 
 [params]
 

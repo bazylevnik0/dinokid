@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cl3cjxgnoy2pu"
-path="res://.godot/imported/character-zombie.fbx-14207fbf56f5827bfcc1d14b6a49d2b5.scn"
+path="res://.godot/imported/character-zombie.fbx-56a56c11221884201ab6fa242f0fd481.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/character-zombie.fbx"
-dest_files=["res://.godot/imported/character-zombie.fbx-14207fbf56f5827bfcc1d14b6a49d2b5.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/character-zombie.fbx"
+dest_files=["res://.godot/imported/character-zombie.fbx-56a56c11221884201ab6fa242f0fd481.scn"]
 
 [params]
 

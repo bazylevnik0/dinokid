@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dlm1l5s5hueke"
-path="res://.godot/imported/path_woodEnd.obj-eb631e50dd6086f13c1e8c4c62192b6f.mesh"
+path="res://.godot/imported/path_woodEnd.obj-a6f2b14996fb98b12988fb6ca27c7027.mesh"
 
 [deps]
 
-files=["res://.godot/imported/path_woodEnd.obj-eb631e50dd6086f13c1e8c4c62192b6f.mesh"]
+files=["res://.godot/imported/path_woodEnd.obj-a6f2b14996fb98b12988fb6ca27c7027.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/path_woodEnd.obj"
-dest_files=["res://.godot/imported/path_woodEnd.obj-eb631e50dd6086f13c1e8c4c62192b6f.mesh", "res://.godot/imported/path_woodEnd.obj-eb631e50dd6086f13c1e8c4c62192b6f.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/path_woodEnd.obj"
+dest_files=["res://.godot/imported/path_woodEnd.obj-a6f2b14996fb98b12988fb6ca27c7027.mesh", "res://.godot/imported/path_woodEnd.obj-a6f2b14996fb98b12988fb6ca27c7027.mesh"]
 
 [params]
 

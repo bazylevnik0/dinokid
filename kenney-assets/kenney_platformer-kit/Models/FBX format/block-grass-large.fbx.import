@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://jscclxcavohp"
-path="res://.godot/imported/block-grass-large.fbx-9a99221468f1ec3f905222e63a1b45b0.scn"
+path="res://.godot/imported/block-grass-large.fbx-e8725ed548d4dd97433a9b864a1f4869.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-large.fbx"
-dest_files=["res://.godot/imported/block-grass-large.fbx-9a99221468f1ec3f905222e63a1b45b0.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/FBX format/block-grass-large.fbx"
+dest_files=["res://.godot/imported/block-grass-large.fbx-e8725ed548d4dd97433a9b864a1f4869.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b38e0votlcehu"
-path="res://.godot/imported/fence_simpleCenter_NW.png-adca03f7e5bbe911e3d1b7e90f77d65c.ctex"
+path="res://.godot/imported/fence_simpleCenter_NW.png-db2cb2f4e056541557014cd910e6b780.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/fence_simpleCenter_NW.png"
-dest_files=["res://.godot/imported/fence_simpleCenter_NW.png-adca03f7e5bbe911e3d1b7e90f77d65c.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/fence_simpleCenter_NW.png"
+dest_files=["res://.godot/imported/fence_simpleCenter_NW.png-db2cb2f4e056541557014cd910e6b780.ctex"]
 
 [params]
 

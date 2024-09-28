@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dwgcgsonlaua3"
-path="res://.godot/imported/detail-chalice.fbx-4a38ece86af7875f2d77fa2c95e926b8.scn"
+path="res://.godot/imported/detail-chalice.fbx-6b1e22779fa2ebb45bb7a75ac4dac047.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/detail-chalice.fbx"
-dest_files=["res://.godot/imported/detail-chalice.fbx-4a38ece86af7875f2d77fa2c95e926b8.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/detail-chalice.fbx"
+dest_files=["res://.godot/imported/detail-chalice.fbx-6b1e22779fa2ebb45bb7a75ac4dac047.scn"]
 
 [params]
 

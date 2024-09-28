@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://basqxx8btkjt"
-path="res://.godot/imported/bridge_stoneRoundNarrow_NW.png-95ca943fb2bb6bc615e6ca6e69d04e42.ctex"
+path="res://.godot/imported/bridge_stoneRoundNarrow_NW.png-52ede384dcedc06c1a89e964bdcff5bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/bridge_stoneRoundNarrow_NW.png"
-dest_files=["res://.godot/imported/bridge_stoneRoundNarrow_NW.png-95ca943fb2bb6bc615e6ca6e69d04e42.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/bridge_stoneRoundNarrow_NW.png"
+dest_files=["res://.godot/imported/bridge_stoneRoundNarrow_NW.png-52ede384dcedc06c1a89e964bdcff5bd.ctex"]
 
 [params]
 

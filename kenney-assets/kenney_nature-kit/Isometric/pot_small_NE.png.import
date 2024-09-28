@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de5pmnrlt8ipn"
-path="res://.godot/imported/pot_small_NE.png-b036c0074ec96bfe58e8c5ebef0938c4.ctex"
+path="res://.godot/imported/pot_small_NE.png-96c2d9c95c16aca4f7654cc13e77447c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/pot_small_NE.png"
-dest_files=["res://.godot/imported/pot_small_NE.png-b036c0074ec96bfe58e8c5ebef0938c4.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/pot_small_NE.png"
+dest_files=["res://.godot/imported/pot_small_NE.png-96c2d9c95c16aca4f7654cc13e77447c.ctex"]
 
 [params]
 

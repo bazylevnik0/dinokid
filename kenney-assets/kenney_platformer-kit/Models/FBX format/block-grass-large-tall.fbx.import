@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://da6dewt0j3r76"
-path="res://.godot/imported/block-grass-large-tall.fbx-c65ccd516daec10658adf78bfc065d18.scn"
+path="res://.godot/imported/block-grass-large-tall.fbx-c9e1fd8ed604c2388c6e99581684b0dd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-large-tall.fbx"
-dest_files=["res://.godot/imported/block-grass-large-tall.fbx-c65ccd516daec10658adf78bfc065d18.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/FBX format/block-grass-large-tall.fbx"
+dest_files=["res://.godot/imported/block-grass-large-tall.fbx-c9e1fd8ed604c2388c6e99581684b0dd.scn"]
 
 [params]
 

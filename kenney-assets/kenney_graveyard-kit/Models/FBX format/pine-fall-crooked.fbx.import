@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://8y1cag5fuukb"
-path="res://.godot/imported/pine-fall-crooked.fbx-ab1c716f64c5abcb668ec392a61d74df.scn"
+path="res://.godot/imported/pine-fall-crooked.fbx-e4da221ab63bee5640da7f7a1ed91e1e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/pine-fall-crooked.fbx"
-dest_files=["res://.godot/imported/pine-fall-crooked.fbx-ab1c716f64c5abcb668ec392a61d74df.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/pine-fall-crooked.fbx"
+dest_files=["res://.godot/imported/pine-fall-crooked.fbx-e4da221ab63bee5640da7f7a1ed91e1e.scn"]
 
 [params]
 

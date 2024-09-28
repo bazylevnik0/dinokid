@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cq00bqx6j8l0r"
-path="res://.godot/imported/candle-multiple.glb-85125d4fbd0a3a1edbc039516cb54fc1.scn"
+path="res://.godot/imported/candle-multiple.glb-98b7e98211def80ce51c3b7ff9e795c3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/candle-multiple.glb"
-dest_files=["res://.godot/imported/candle-multiple.glb-85125d4fbd0a3a1edbc039516cb54fc1.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/candle-multiple.glb"
+dest_files=["res://.godot/imported/candle-multiple.glb-98b7e98211def80ce51c3b7ff9e795c3.scn"]
 
 [params]
 

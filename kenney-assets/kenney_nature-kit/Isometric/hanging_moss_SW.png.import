@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://66biv3lle4kc"
-path="res://.godot/imported/hanging_moss_SW.png-0c779d89f491d8abe9841e4c3a01d92d.ctex"
+path="res://.godot/imported/hanging_moss_SW.png-89324acff9017c521eb75eb7db5427f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/hanging_moss_SW.png"
-dest_files=["res://.godot/imported/hanging_moss_SW.png-0c779d89f491d8abe9841e4c3a01d92d.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/hanging_moss_SW.png"
+dest_files=["res://.godot/imported/hanging_moss_SW.png-89324acff9017c521eb75eb7db5427f4.ctex"]
 
 [params]
 

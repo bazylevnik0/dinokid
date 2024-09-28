@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cw0frpoyq26ai"
-path="res://.godot/imported/tree_fat_fall.dae-bb6eba34b655116f64da97bac99d614c.scn"
+path="res://.godot/imported/tree_fat_fall.dae-7fc572ad3da0862e78696f736bdbcccd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/tree_fat_fall.dae"
-dest_files=["res://.godot/imported/tree_fat_fall.dae-bb6eba34b655116f64da97bac99d614c.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/tree_fat_fall.dae"
+dest_files=["res://.godot/imported/tree_fat_fall.dae-7fc572ad3da0862e78696f736bdbcccd.scn"]
 
 [params]
 

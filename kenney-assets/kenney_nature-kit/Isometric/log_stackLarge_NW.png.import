@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cubdbsvqqgs2u"
-path="res://.godot/imported/log_stackLarge_NW.png-21746b9e1470a9a72efdd77ef6e1c857.ctex"
+path="res://.godot/imported/log_stackLarge_NW.png-ffb17b7ff9f51b7367cc211aea2e470e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/log_stackLarge_NW.png"
-dest_files=["res://.godot/imported/log_stackLarge_NW.png-21746b9e1470a9a72efdd77ef6e1c857.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/log_stackLarge_NW.png"
+dest_files=["res://.godot/imported/log_stackLarge_NW.png-ffb17b7ff9f51b7367cc211aea2e470e.ctex"]
 
 [params]
 

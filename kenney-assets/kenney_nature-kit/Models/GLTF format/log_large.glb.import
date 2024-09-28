@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bgjx4kas2s4w4"
-path="res://.godot/imported/log_large.glb-03a1fbcfd9fbbc9fcf870d6ee1dd2c01.scn"
+path="res://.godot/imported/log_large.glb-d3d5818225dc5f157d7cabc25a9a0974.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/log_large.glb"
-dest_files=["res://.godot/imported/log_large.glb-03a1fbcfd9fbbc9fcf870d6ee1dd2c01.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/log_large.glb"
+dest_files=["res://.godot/imported/log_large.glb-d3d5818225dc5f157d7cabc25a9a0974.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dagiluealob3r"
-path="res://.godot/imported/rock_tallI.fbx-aaebe102979475e878d8299bf42c0ed5.scn"
+path="res://.godot/imported/rock_tallI.fbx-96db8a8b3bd3920b62cc55960e3dee17.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/rock_tallI.fbx"
-dest_files=["res://.godot/imported/rock_tallI.fbx-aaebe102979475e878d8299bf42c0ed5.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/rock_tallI.fbx"
+dest_files=["res://.godot/imported/rock_tallI.fbx-96db8a8b3bd3920b62cc55960e3dee17.scn"]
 
 [params]
 

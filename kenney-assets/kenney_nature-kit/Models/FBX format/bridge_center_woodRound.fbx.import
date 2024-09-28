@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bneqhfau18gfb"
-path="res://.godot/imported/bridge_center_woodRound.fbx-f5d9f97c67e5c18a450867f4403e419f.scn"
+path="res://.godot/imported/bridge_center_woodRound.fbx-75af5aa9fd467b031b2047180dccbb80.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/bridge_center_woodRound.fbx"
-dest_files=["res://.godot/imported/bridge_center_woodRound.fbx-f5d9f97c67e5c18a450867f4403e419f.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/bridge_center_woodRound.fbx"
+dest_files=["res://.godot/imported/bridge_center_woodRound.fbx-75af5aa9fd467b031b2047180dccbb80.scn"]
 
 [params]
 

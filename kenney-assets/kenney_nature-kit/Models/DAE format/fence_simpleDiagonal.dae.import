@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://duvqgju03jqgy"
-path="res://.godot/imported/fence_simpleDiagonal.dae-5c72bfa86a7873ffd004e90dc90279d1.scn"
+path="res://.godot/imported/fence_simpleDiagonal.dae-b82c496d633e3fdff3e79aeb0170e100.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/fence_simpleDiagonal.dae"
-dest_files=["res://.godot/imported/fence_simpleDiagonal.dae-5c72bfa86a7873ffd004e90dc90279d1.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/fence_simpleDiagonal.dae"
+dest_files=["res://.godot/imported/fence_simpleDiagonal.dae-b82c496d633e3fdff3e79aeb0170e100.scn"]
 
 [params]
 

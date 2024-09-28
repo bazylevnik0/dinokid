@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://k56avkrooxxa"
-path="res://.godot/imported/ground_pathCorner.obj-783e2d2d037c6addf17a94acefdab4ac.mesh"
+path="res://.godot/imported/ground_pathCorner.obj-08aa57b9f6d476da92f67105ea9ae5f7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/ground_pathCorner.obj-783e2d2d037c6addf17a94acefdab4ac.mesh"]
+files=["res://.godot/imported/ground_pathCorner.obj-08aa57b9f6d476da92f67105ea9ae5f7.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_pathCorner.obj"
-dest_files=["res://.godot/imported/ground_pathCorner.obj-783e2d2d037c6addf17a94acefdab4ac.mesh", "res://.godot/imported/ground_pathCorner.obj-783e2d2d037c6addf17a94acefdab4ac.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/ground_pathCorner.obj"
+dest_files=["res://.godot/imported/ground_pathCorner.obj-08aa57b9f6d476da92f67105ea9ae5f7.mesh", "res://.godot/imported/ground_pathCorner.obj-08aa57b9f6d476da92f67105ea9ae5f7.mesh"]
 
 [params]
 

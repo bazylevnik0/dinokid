@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://0aahcvn0tfao"
-path="res://.godot/imported/mushroom_tanTall.dae-0ada3eb58d28cb61e856aca3cf0a9baf.scn"
+path="res://.godot/imported/mushroom_tanTall.dae-165c350624286f61fa40027120c8f15f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/mushroom_tanTall.dae"
-dest_files=["res://.godot/imported/mushroom_tanTall.dae-0ada3eb58d28cb61e856aca3cf0a9baf.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/mushroom_tanTall.dae"
+dest_files=["res://.godot/imported/mushroom_tanTall.dae-165c350624286f61fa40027120c8f15f.scn"]
 
 [params]
 

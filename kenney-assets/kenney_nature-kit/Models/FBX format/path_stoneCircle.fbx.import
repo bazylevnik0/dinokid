@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dp5dd7av7b4ma"
-path="res://.godot/imported/path_stoneCircle.fbx-822f9ea928c15a3e989eebc07a5e214f.scn"
+path="res://.godot/imported/path_stoneCircle.fbx-d2a48c8dd842cc87a17049aeb2232ba7.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/path_stoneCircle.fbx"
-dest_files=["res://.godot/imported/path_stoneCircle.fbx-822f9ea928c15a3e989eebc07a5e214f.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/path_stoneCircle.fbx"
+dest_files=["res://.godot/imported/path_stoneCircle.fbx-d2a48c8dd842cc87a17049aeb2232ba7.scn"]
 
 [params]
 

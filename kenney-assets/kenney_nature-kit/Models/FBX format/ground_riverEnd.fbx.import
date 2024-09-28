@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://k4qmxy68bog"
-path="res://.godot/imported/ground_riverEnd.fbx-c999a9652402ec10fdf876f435ad7699.scn"
+path="res://.godot/imported/ground_riverEnd.fbx-3964aab077af5908622ed6aa4d8b6483.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/ground_riverEnd.fbx"
-dest_files=["res://.godot/imported/ground_riverEnd.fbx-c999a9652402ec10fdf876f435ad7699.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/ground_riverEnd.fbx"
+dest_files=["res://.godot/imported/ground_riverEnd.fbx-3964aab077af5908622ed6aa4d8b6483.scn"]
 
 [params]
 

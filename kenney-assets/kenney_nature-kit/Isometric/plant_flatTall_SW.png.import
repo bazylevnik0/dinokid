@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdnctvnwqbwpt"
-path="res://.godot/imported/plant_flatTall_SW.png-14e2087769e01931207dc8448a373211.ctex"
+path="res://.godot/imported/plant_flatTall_SW.png-6ed555d1add43267449f1902de62b2a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/plant_flatTall_SW.png"
-dest_files=["res://.godot/imported/plant_flatTall_SW.png-14e2087769e01931207dc8448a373211.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/plant_flatTall_SW.png"
+dest_files=["res://.godot/imported/plant_flatTall_SW.png-6ed555d1add43267449f1902de62b2a2.ctex"]
 
 [params]
 

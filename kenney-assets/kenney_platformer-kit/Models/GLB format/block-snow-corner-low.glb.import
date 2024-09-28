@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://5ovj75mfnl"
-path="res://.godot/imported/block-snow-corner-low.glb-15420bc9e563f7cfeb95ab9124207bfb.scn"
+path="res://.godot/imported/block-snow-corner-low.glb-57987a15111e68f96d1d431afd46ccf4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-snow-corner-low.glb"
-dest_files=["res://.godot/imported/block-snow-corner-low.glb-15420bc9e563f7cfeb95ab9124207bfb.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/GLB format/block-snow-corner-low.glb"
+dest_files=["res://.godot/imported/block-snow-corner-low.glb-57987a15111e68f96d1d431afd46ccf4.scn"]
 
 [params]
 

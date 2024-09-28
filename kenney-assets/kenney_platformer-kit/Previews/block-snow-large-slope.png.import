@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp8wmiex1wptg"
-path="res://.godot/imported/block-snow-large-slope.png-fe1722a64a57da89fd3de2763f69877c.ctex"
+path="res://.godot/imported/block-snow-large-slope.png-5be6d4cf8a753f3ad0e39025a7dfdb29.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-snow-large-slope.png"
-dest_files=["res://.godot/imported/block-snow-large-slope.png-fe1722a64a57da89fd3de2763f69877c.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/block-snow-large-slope.png"
+dest_files=["res://.godot/imported/block-snow-large-slope.png-5be6d4cf8a753f3ad0e39025a7dfdb29.ctex"]
 
 [params]
 

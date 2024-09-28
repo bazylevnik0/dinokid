@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dk175ails18br"
-path="res://.godot/imported/statue_head.fbx-a37da0fadadcb6953916cab7ac967256.scn"
+path="res://.godot/imported/statue_head.fbx-5d82fef2c6b8a53f1693869a6518e0ac.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/statue_head.fbx"
-dest_files=["res://.godot/imported/statue_head.fbx-a37da0fadadcb6953916cab7ac967256.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/statue_head.fbx"
+dest_files=["res://.godot/imported/statue_head.fbx-5d82fef2c6b8a53f1693869a6518e0ac.scn"]
 
 [params]
 

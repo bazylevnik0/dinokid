@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b6h3ib4nfgdu1"
-path="res://.godot/imported/character-vampire.obj-eec882e794fd9db21db72335cd687c2f.mesh"
+path="res://.godot/imported/character-vampire.obj-6c48949fbe52445e13246861a1def7b3.mesh"
 
 [deps]
 
-files=["res://.godot/imported/character-vampire.obj-eec882e794fd9db21db72335cd687c2f.mesh"]
+files=["res://.godot/imported/character-vampire.obj-6c48949fbe52445e13246861a1def7b3.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/character-vampire.obj"
-dest_files=["res://.godot/imported/character-vampire.obj-eec882e794fd9db21db72335cd687c2f.mesh", "res://.godot/imported/character-vampire.obj-eec882e794fd9db21db72335cd687c2f.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/character-vampire.obj"
+dest_files=["res://.godot/imported/character-vampire.obj-6c48949fbe52445e13246861a1def7b3.mesh", "res://.godot/imported/character-vampire.obj-6c48949fbe52445e13246861a1def7b3.mesh"]
 
 [params]
 

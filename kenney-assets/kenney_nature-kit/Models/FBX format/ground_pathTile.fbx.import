@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://r1mduqj8iogl"
-path="res://.godot/imported/ground_pathTile.fbx-b67ba748053a5ff4b17243321659448e.scn"
+path="res://.godot/imported/ground_pathTile.fbx-ff3113a7d482e060d7c0b9d65ea90381.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/ground_pathTile.fbx"
-dest_files=["res://.godot/imported/ground_pathTile.fbx-b67ba748053a5ff4b17243321659448e.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/ground_pathTile.fbx"
+dest_files=["res://.godot/imported/ground_pathTile.fbx-ff3113a7d482e060d7c0b9d65ea90381.scn"]
 
 [params]
 

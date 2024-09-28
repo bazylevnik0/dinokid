@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqb3r0gywvpx3"
-path="res://.godot/imported/coffin-old.glb-4692680ac04b6d84dcda91b27ebe5f1e.scn"
+path="res://.godot/imported/coffin-old.glb-9627690349621cc599ccfe1afe663ecd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/coffin-old.glb"
-dest_files=["res://.godot/imported/coffin-old.glb-4692680ac04b6d84dcda91b27ebe5f1e.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/coffin-old.glb"
+dest_files=["res://.godot/imported/coffin-old.glb-9627690349621cc599ccfe1afe663ecd.scn"]
 
 [params]
 

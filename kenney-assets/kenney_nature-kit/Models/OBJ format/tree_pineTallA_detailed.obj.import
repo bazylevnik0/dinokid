@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b7xkg8hhghxxt"
-path="res://.godot/imported/tree_pineTallA_detailed.obj-5958a3fb9d4d408a4be1accc1a1add5e.mesh"
+path="res://.godot/imported/tree_pineTallA_detailed.obj-c7759c02372e6d4a320fe2db83a31073.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree_pineTallA_detailed.obj-5958a3fb9d4d408a4be1accc1a1add5e.mesh"]
+files=["res://.godot/imported/tree_pineTallA_detailed.obj-c7759c02372e6d4a320fe2db83a31073.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_pineTallA_detailed.obj"
-dest_files=["res://.godot/imported/tree_pineTallA_detailed.obj-5958a3fb9d4d408a4be1accc1a1add5e.mesh", "res://.godot/imported/tree_pineTallA_detailed.obj-5958a3fb9d4d408a4be1accc1a1add5e.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_pineTallA_detailed.obj"
+dest_files=["res://.godot/imported/tree_pineTallA_detailed.obj-c7759c02372e6d4a320fe2db83a31073.mesh", "res://.godot/imported/tree_pineTallA_detailed.obj-c7759c02372e6d4a320fe2db83a31073.mesh"]
 
 [params]
 

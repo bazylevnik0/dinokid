@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://clx4dxfuxc6ox"
-path="res://.godot/imported/cross.fbx-bedbfcb237032a7a3cb53879fe5d558f.scn"
+path="res://.godot/imported/cross.fbx-a4353bf61f4b14df1d50a13c9b972a7d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/cross.fbx"
-dest_files=["res://.godot/imported/cross.fbx-bedbfcb237032a7a3cb53879fe5d558f.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/cross.fbx"
+dest_files=["res://.godot/imported/cross.fbx-a4353bf61f4b14df1d50a13c9b972a7d.scn"]
 
 [params]
 

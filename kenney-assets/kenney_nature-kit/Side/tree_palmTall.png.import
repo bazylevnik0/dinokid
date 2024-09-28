@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddhaq00bls1ux"
-path="res://.godot/imported/tree_palmTall.png-7b7c71ba1f6d39e84c5da42f15406bdb.ctex"
+path="res://.godot/imported/tree_palmTall.png-01a8c67e8e07af4a9e8b01ac389f883a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/tree_palmTall.png"
-dest_files=["res://.godot/imported/tree_palmTall.png-7b7c71ba1f6d39e84c5da42f15406bdb.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/tree_palmTall.png"
+dest_files=["res://.godot/imported/tree_palmTall.png-01a8c67e8e07af4a9e8b01ac389f883a.ctex"]
 
 [params]
 

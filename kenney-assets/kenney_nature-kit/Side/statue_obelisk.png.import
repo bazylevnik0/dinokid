@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drj5n7v5d44so"
-path="res://.godot/imported/statue_obelisk.png-6eb33c2901445d4bcd339bea7da31713.ctex"
+path="res://.godot/imported/statue_obelisk.png-e49fc9b851119e2ec2c86b47382ad765.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/statue_obelisk.png"
-dest_files=["res://.godot/imported/statue_obelisk.png-6eb33c2901445d4bcd339bea7da31713.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/statue_obelisk.png"
+dest_files=["res://.godot/imported/statue_obelisk.png-e49fc9b851119e2ec2c86b47382ad765.ctex"]
 
 [params]
 

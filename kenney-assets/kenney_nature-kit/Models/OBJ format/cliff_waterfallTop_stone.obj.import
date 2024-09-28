@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dtyrthx66h0p7"
-path="res://.godot/imported/cliff_waterfallTop_stone.obj-743781522658b3588264ac91c0a8c725.mesh"
+path="res://.godot/imported/cliff_waterfallTop_stone.obj-2d15780a095d74e5e4cee4ea2653cc8a.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_waterfallTop_stone.obj-743781522658b3588264ac91c0a8c725.mesh"]
+files=["res://.godot/imported/cliff_waterfallTop_stone.obj-2d15780a095d74e5e4cee4ea2653cc8a.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_waterfallTop_stone.obj"
-dest_files=["res://.godot/imported/cliff_waterfallTop_stone.obj-743781522658b3588264ac91c0a8c725.mesh", "res://.godot/imported/cliff_waterfallTop_stone.obj-743781522658b3588264ac91c0a8c725.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_waterfallTop_stone.obj"
+dest_files=["res://.godot/imported/cliff_waterfallTop_stone.obj-2d15780a095d74e5e4cee4ea2653cc8a.mesh", "res://.godot/imported/cliff_waterfallTop_stone.obj-2d15780a095d74e5e4cee4ea2653cc8a.mesh"]
 
 [params]
 

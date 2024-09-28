@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0w4ss4bp5bxu"
-path="res://.godot/imported/debris-wood.png-998569f436d8ede83c65c8e756a75311.ctex"
+path="res://.godot/imported/debris-wood.png-92aa980c0b91c9a71257f8a223d3629c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/debris-wood.png"
-dest_files=["res://.godot/imported/debris-wood.png-998569f436d8ede83c65c8e756a75311.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/debris-wood.png"
+dest_files=["res://.godot/imported/debris-wood.png-92aa980c0b91c9a71257f8a223d3629c.ctex"]
 
 [params]
 

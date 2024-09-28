@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8q1tb5xt2xgb"
-path="res://.godot/imported/cliff_blockQuarter_stone.png-f123fa1165909a0bfa951b0a17f0d008.ctex"
+path="res://.godot/imported/cliff_blockQuarter_stone.png-56f492a910ead0bcecace1c3d05eeded.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/cliff_blockQuarter_stone.png"
-dest_files=["res://.godot/imported/cliff_blockQuarter_stone.png-f123fa1165909a0bfa951b0a17f0d008.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/cliff_blockQuarter_stone.png"
+dest_files=["res://.godot/imported/cliff_blockQuarter_stone.png-56f492a910ead0bcecace1c3d05eeded.ctex"]
 
 [params]
 

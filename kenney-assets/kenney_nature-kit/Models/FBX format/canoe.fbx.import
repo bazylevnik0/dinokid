@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1mhtlfiyi3rd"
-path="res://.godot/imported/canoe.fbx-4d987e1e1f949de8a52aa12c9a3f8b17.scn"
+path="res://.godot/imported/canoe.fbx-6a2fe7818405fbb101abdcb75ba0fe19.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/canoe.fbx"
-dest_files=["res://.godot/imported/canoe.fbx-4d987e1e1f949de8a52aa12c9a3f8b17.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/canoe.fbx"
+dest_files=["res://.godot/imported/canoe.fbx-6a2fe7818405fbb101abdcb75ba0fe19.scn"]
 
 [params]
 

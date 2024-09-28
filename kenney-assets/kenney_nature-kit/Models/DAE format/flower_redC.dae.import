@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ekt4dyya7fso"
-path="res://.godot/imported/flower_redC.dae-e98ced3196d65670a9ca7c21d4f588cd.scn"
+path="res://.godot/imported/flower_redC.dae-36687d3fa96623db90844254a5d17fe0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/flower_redC.dae"
-dest_files=["res://.godot/imported/flower_redC.dae-e98ced3196d65670a9ca7c21d4f588cd.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/flower_redC.dae"
+dest_files=["res://.godot/imported/flower_redC.dae-36687d3fa96623db90844254a5d17fe0.scn"]
 
 [params]
 

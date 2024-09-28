@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buprsfhs0f4c4"
-path="res://.godot/imported/tree_plateau.png-13e0512761b0ddc9e4e23aa3f39d345f.ctex"
+path="res://.godot/imported/tree_plateau.png-b24f0cd688a0c79caee7b8708f8e1197.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/tree_plateau.png"
-dest_files=["res://.godot/imported/tree_plateau.png-13e0512761b0ddc9e4e23aa3f39d345f.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/tree_plateau.png"
+dest_files=["res://.godot/imported/tree_plateau.png-b24f0cd688a0c79caee7b8708f8e1197.ctex"]
 
 [params]
 

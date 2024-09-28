@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://gc4hqb61ylue"
-path="res://.godot/imported/tree_cone_fall.obj-cfee855f39146a40481df4febbe1c4b1.mesh"
+path="res://.godot/imported/tree_cone_fall.obj-c58eb006c863c6a335c9a0685856b85f.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree_cone_fall.obj-cfee855f39146a40481df4febbe1c4b1.mesh"]
+files=["res://.godot/imported/tree_cone_fall.obj-c58eb006c863c6a335c9a0685856b85f.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_cone_fall.obj"
-dest_files=["res://.godot/imported/tree_cone_fall.obj-cfee855f39146a40481df4febbe1c4b1.mesh", "res://.godot/imported/tree_cone_fall.obj-cfee855f39146a40481df4febbe1c4b1.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_cone_fall.obj"
+dest_files=["res://.godot/imported/tree_cone_fall.obj-c58eb006c863c6a335c9a0685856b85f.mesh", "res://.godot/imported/tree_cone_fall.obj-c58eb006c863c6a335c9a0685856b85f.mesh"]
 
 [params]
 

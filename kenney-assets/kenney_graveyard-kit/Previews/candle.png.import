@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ubbuuqtml1jn"
-path="res://.godot/imported/candle.png-deafb3f95640e08b21406f8f3d8628af.ctex"
+path="res://.godot/imported/candle.png-884f16469452b7bba01a455f6f0c5136.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/candle.png"
-dest_files=["res://.godot/imported/candle.png-deafb3f95640e08b21406f8f3d8628af.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/candle.png"
+dest_files=["res://.godot/imported/candle.png-884f16469452b7bba01a455f6f0c5136.ctex"]
 
 [params]
 

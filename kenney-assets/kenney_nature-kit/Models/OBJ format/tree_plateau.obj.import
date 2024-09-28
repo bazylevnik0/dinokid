@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cs7ceq854euwm"
-path="res://.godot/imported/tree_plateau.obj-2465598b0835a7825bfb94a9ec82852e.mesh"
+path="res://.godot/imported/tree_plateau.obj-ca662130ba258eb1e442608ea7a98f92.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree_plateau.obj-2465598b0835a7825bfb94a9ec82852e.mesh"]
+files=["res://.godot/imported/tree_plateau.obj-ca662130ba258eb1e442608ea7a98f92.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_plateau.obj"
-dest_files=["res://.godot/imported/tree_plateau.obj-2465598b0835a7825bfb94a9ec82852e.mesh", "res://.godot/imported/tree_plateau.obj-2465598b0835a7825bfb94a9ec82852e.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_plateau.obj"
+dest_files=["res://.godot/imported/tree_plateau.obj-ca662130ba258eb1e442608ea7a98f92.mesh", "res://.godot/imported/tree_plateau.obj-ca662130ba258eb1e442608ea7a98f92.mesh"]
 
 [params]
 

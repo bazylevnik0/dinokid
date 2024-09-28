@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://v8lmta0v3aep"
-path="res://.godot/imported/pine-fall.obj-084c0a137c6789d333264dc77b26dd48.mesh"
+path="res://.godot/imported/pine-fall.obj-d820665efe2d1894b10d360e3ac3d5bd.mesh"
 
 [deps]
 
-files=["res://.godot/imported/pine-fall.obj-084c0a137c6789d333264dc77b26dd48.mesh"]
+files=["res://.godot/imported/pine-fall.obj-d820665efe2d1894b10d360e3ac3d5bd.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/pine-fall.obj"
-dest_files=["res://.godot/imported/pine-fall.obj-084c0a137c6789d333264dc77b26dd48.mesh", "res://.godot/imported/pine-fall.obj-084c0a137c6789d333264dc77b26dd48.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/pine-fall.obj"
+dest_files=["res://.godot/imported/pine-fall.obj-d820665efe2d1894b10d360e3ac3d5bd.mesh", "res://.godot/imported/pine-fall.obj-d820665efe2d1894b10d360e3ac3d5bd.mesh"]
 
 [params]
 

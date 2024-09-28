@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccmmd5quh1sgr"
-path="res://.godot/imported/block-snow-corner-low.png-675aa63c51326bcc64cb9c26ce785fe1.ctex"
+path="res://.godot/imported/block-snow-corner-low.png-a1e088c3c24283c9fe872217051d7e3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-snow-corner-low.png"
-dest_files=["res://.godot/imported/block-snow-corner-low.png-675aa63c51326bcc64cb9c26ce785fe1.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/block-snow-corner-low.png"
+dest_files=["res://.godot/imported/block-snow-corner-low.png-a1e088c3c24283c9fe872217051d7e3b.ctex"]
 
 [params]
 

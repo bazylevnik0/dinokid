@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1k605krjgc5w"
-path="res://.godot/imported/statue_head_NE.png-4a8841035e877bad7ec7a45e4955bdeb.ctex"
+path="res://.godot/imported/statue_head_NE.png-21129bd10679d087f7d20de1311093bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/statue_head_NE.png"
-dest_files=["res://.godot/imported/statue_head_NE.png-4a8841035e877bad7ec7a45e4955bdeb.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/statue_head_NE.png"
+dest_files=["res://.godot/imported/statue_head_NE.png-21129bd10679d087f7d20de1311093bc.ctex"]
 
 [params]
 

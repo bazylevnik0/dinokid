@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://boathdnmgkyhf"
-path="res://.godot/imported/mushroom_tanGroup.fbx-52cb6960dfb4d935460c0e9a2141af28.scn"
+path="res://.godot/imported/mushroom_tanGroup.fbx-4391e0ef31827c27edd734ecbafca1e0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/mushroom_tanGroup.fbx"
-dest_files=["res://.godot/imported/mushroom_tanGroup.fbx-52cb6960dfb4d935460c0e9a2141af28.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/mushroom_tanGroup.fbx"
+dest_files=["res://.godot/imported/mushroom_tanGroup.fbx-4391e0ef31827c27edd734ecbafca1e0.scn"]
 
 [params]
 

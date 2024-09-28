@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dkufmkkqh3evb"
-path="res://.godot/imported/path_woodEnd.dae-7b3ae70e4848920295cdb45f90056d29.scn"
+path="res://.godot/imported/path_woodEnd.dae-2eb12918e5bcaa89f038039c23a8d3a0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/path_woodEnd.dae"
-dest_files=["res://.godot/imported/path_woodEnd.dae-7b3ae70e4848920295cdb45f90056d29.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/path_woodEnd.dae"
+dest_files=["res://.godot/imported/path_woodEnd.dae-2eb12918e5bcaa89f038039c23a8d3a0.scn"]
 
 [params]
 

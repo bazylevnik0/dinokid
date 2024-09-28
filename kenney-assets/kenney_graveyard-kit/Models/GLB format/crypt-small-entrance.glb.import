@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://rrmtvn4gci0g"
-path="res://.godot/imported/crypt-small-entrance.glb-60723a340e287d82b503db8a05253008.scn"
+path="res://.godot/imported/crypt-small-entrance.glb-03e9455520ab85e5b091b9549abd593c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/crypt-small-entrance.glb"
-dest_files=["res://.godot/imported/crypt-small-entrance.glb-60723a340e287d82b503db8a05253008.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/crypt-small-entrance.glb"
+dest_files=["res://.godot/imported/crypt-small-entrance.glb-03e9455520ab85e5b091b9549abd593c.scn"]
 
 [params]
 

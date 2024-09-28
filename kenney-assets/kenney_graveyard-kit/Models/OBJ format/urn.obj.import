@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dvu5wnt1tjqg"
-path="res://.godot/imported/urn.obj-3bc7ed8be0ed4ce3b735f86aceba8cba.mesh"
+path="res://.godot/imported/urn.obj-7a1f00acb919f2fe0bc00aa8b6fe0016.mesh"
 
 [deps]
 
-files=["res://.godot/imported/urn.obj-3bc7ed8be0ed4ce3b735f86aceba8cba.mesh"]
+files=["res://.godot/imported/urn.obj-7a1f00acb919f2fe0bc00aa8b6fe0016.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/urn.obj"
-dest_files=["res://.godot/imported/urn.obj-3bc7ed8be0ed4ce3b735f86aceba8cba.mesh", "res://.godot/imported/urn.obj-3bc7ed8be0ed4ce3b735f86aceba8cba.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/urn.obj"
+dest_files=["res://.godot/imported/urn.obj-7a1f00acb919f2fe0bc00aa8b6fe0016.mesh", "res://.godot/imported/urn.obj-7a1f00acb919f2fe0bc00aa8b6fe0016.mesh"]
 
 [params]
 

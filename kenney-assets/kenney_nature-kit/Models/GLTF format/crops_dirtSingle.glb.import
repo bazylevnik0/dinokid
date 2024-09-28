@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bi8bqwo6wnf33"
-path="res://.godot/imported/crops_dirtSingle.glb-a07dddfd3f2f674359869c368accc2e0.scn"
+path="res://.godot/imported/crops_dirtSingle.glb-1cb1180f6e0fa6bace0171a6cc5e4bb9.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crops_dirtSingle.glb"
-dest_files=["res://.godot/imported/crops_dirtSingle.glb-a07dddfd3f2f674359869c368accc2e0.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/crops_dirtSingle.glb"
+dest_files=["res://.godot/imported/crops_dirtSingle.glb-1cb1180f6e0fa6bace0171a6cc5e4bb9.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ceitufh1kudfa"
-path="res://.godot/imported/character-skeleton.fbx-3a5b13c261260ee59d8d745dee020681.scn"
+path="res://.godot/imported/character-skeleton.fbx-e7c91c39808232c57ab7c9e0ac821cac.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/character-skeleton.fbx"
-dest_files=["res://.godot/imported/character-skeleton.fbx-3a5b13c261260ee59d8d745dee020681.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/character-skeleton.fbx"
+dest_files=["res://.godot/imported/character-skeleton.fbx-e7c91c39808232c57ab7c9e0ac821cac.scn"]
 
 [params]
 

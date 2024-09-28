@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cvb1gga81h5ho"
-path="res://.godot/imported/canoe.obj-1d55d6ca253efdcd655cfa212b95aa79.mesh"
+path="res://.godot/imported/canoe.obj-333906be348d3b666d251bda5bb8a792.mesh"
 
 [deps]
 
-files=["res://.godot/imported/canoe.obj-1d55d6ca253efdcd655cfa212b95aa79.mesh"]
+files=["res://.godot/imported/canoe.obj-333906be348d3b666d251bda5bb8a792.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/canoe.obj"
-dest_files=["res://.godot/imported/canoe.obj-1d55d6ca253efdcd655cfa212b95aa79.mesh", "res://.godot/imported/canoe.obj-1d55d6ca253efdcd655cfa212b95aa79.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/canoe.obj"
+dest_files=["res://.godot/imported/canoe.obj-333906be348d3b666d251bda5bb8a792.mesh", "res://.godot/imported/canoe.obj-333906be348d3b666d251bda5bb8a792.mesh"]
 
 [params]
 

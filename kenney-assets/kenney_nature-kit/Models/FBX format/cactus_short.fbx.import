@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xjg0mo86yy8j"
-path="res://.godot/imported/cactus_short.fbx-ad496ed77bec34c0d5d5dc2134bab40b.scn"
+path="res://.godot/imported/cactus_short.fbx-291efd0db659790bd628c244bd213db3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/cactus_short.fbx"
-dest_files=["res://.godot/imported/cactus_short.fbx-ad496ed77bec34c0d5d5dc2134bab40b.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/cactus_short.fbx"
+dest_files=["res://.godot/imported/cactus_short.fbx-291efd0db659790bd628c244bd213db3.scn"]
 
 [params]
 

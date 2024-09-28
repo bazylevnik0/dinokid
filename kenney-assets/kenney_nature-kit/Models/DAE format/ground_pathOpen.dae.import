@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cw2iwtqhsq8cf"
-path="res://.godot/imported/ground_pathOpen.dae-6df84fd32268e76711e5f4486b789c2f.scn"
+path="res://.godot/imported/ground_pathOpen.dae-1118efaf7fee9eab74271a34a62b0b17.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_pathOpen.dae"
-dest_files=["res://.godot/imported/ground_pathOpen.dae-6df84fd32268e76711e5f4486b789c2f.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/ground_pathOpen.dae"
+dest_files=["res://.godot/imported/ground_pathOpen.dae-1118efaf7fee9eab74271a34a62b0b17.scn"]
 
 [params]
 

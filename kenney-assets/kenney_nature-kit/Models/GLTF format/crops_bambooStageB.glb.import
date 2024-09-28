@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c87m0mrs3qol4"
-path="res://.godot/imported/crops_bambooStageB.glb-ba433a10bbabb26bab681ffcd8a369dc.scn"
+path="res://.godot/imported/crops_bambooStageB.glb-d8c93608dbb9671f24a19a8f51fbcfb3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crops_bambooStageB.glb"
-dest_files=["res://.godot/imported/crops_bambooStageB.glb-ba433a10bbabb26bab681ffcd8a369dc.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/crops_bambooStageB.glb"
+dest_files=["res://.godot/imported/crops_bambooStageB.glb-d8c93608dbb9671f24a19a8f51fbcfb3.scn"]
 
 [params]
 

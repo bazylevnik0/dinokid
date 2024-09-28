@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://5ow1s5ykyopl"
-path="res://.godot/imported/stone_tallI.dae-c5abe597c81909b8b1d326e5ea52b9ef.scn"
+path="res://.godot/imported/stone_tallI.dae-babc3ef8a8d76a84b0e016ffdb423b23.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/stone_tallI.dae"
-dest_files=["res://.godot/imported/stone_tallI.dae-c5abe597c81909b8b1d326e5ea52b9ef.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/stone_tallI.dae"
+dest_files=["res://.godot/imported/stone_tallI.dae-babc3ef8a8d76a84b0e016ffdb423b23.scn"]
 
 [params]
 

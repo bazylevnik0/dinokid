@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bnatcn2ow5pvm"
-path="res://.godot/imported/fence-damaged.obj-c99211837cd855c3d5d954b0392497ba.mesh"
+path="res://.godot/imported/fence-damaged.obj-2bb63daf4e6be5b431bdf7aa976b9ace.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence-damaged.obj-c99211837cd855c3d5d954b0392497ba.mesh"]
+files=["res://.godot/imported/fence-damaged.obj-2bb63daf4e6be5b431bdf7aa976b9ace.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/fence-damaged.obj"
-dest_files=["res://.godot/imported/fence-damaged.obj-c99211837cd855c3d5d954b0392497ba.mesh", "res://.godot/imported/fence-damaged.obj-c99211837cd855c3d5d954b0392497ba.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/fence-damaged.obj"
+dest_files=["res://.godot/imported/fence-damaged.obj-2bb63daf4e6be5b431bdf7aa976b9ace.mesh", "res://.godot/imported/fence-damaged.obj-2bb63daf4e6be5b431bdf7aa976b9ace.mesh"]
 
 [params]
 

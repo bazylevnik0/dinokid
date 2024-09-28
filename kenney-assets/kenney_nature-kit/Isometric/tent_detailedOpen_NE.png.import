@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7eaauuki16br"
-path="res://.godot/imported/tent_detailedOpen_NE.png-489a003b95a0e2db02bd97db7c9c6033.ctex"
+path="res://.godot/imported/tent_detailedOpen_NE.png-2c623086c9d7f085a134cb76f713f3f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tent_detailedOpen_NE.png"
-dest_files=["res://.godot/imported/tent_detailedOpen_NE.png-489a003b95a0e2db02bd97db7c9c6033.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/tent_detailedOpen_NE.png"
+dest_files=["res://.godot/imported/tent_detailedOpen_NE.png-2c623086c9d7f085a134cb76f713f3f4.ctex"]
 
 [params]
 

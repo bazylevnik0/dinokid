@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b0yxsilgneddy"
-path="res://.godot/imported/hay-bale-bundled.obj-2ec8c1ae42d8c0cbced8d1190d2af427.mesh"
+path="res://.godot/imported/hay-bale-bundled.obj-78da4437c69f51e68de8e383ccb546d7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/hay-bale-bundled.obj-2ec8c1ae42d8c0cbced8d1190d2af427.mesh"]
+files=["res://.godot/imported/hay-bale-bundled.obj-78da4437c69f51e68de8e383ccb546d7.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/hay-bale-bundled.obj"
-dest_files=["res://.godot/imported/hay-bale-bundled.obj-2ec8c1ae42d8c0cbced8d1190d2af427.mesh", "res://.godot/imported/hay-bale-bundled.obj-2ec8c1ae42d8c0cbced8d1190d2af427.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/hay-bale-bundled.obj"
+dest_files=["res://.godot/imported/hay-bale-bundled.obj-78da4437c69f51e68de8e383ccb546d7.mesh", "res://.godot/imported/hay-bale-bundled.obj-78da4437c69f51e68de8e383ccb546d7.mesh"]
 
 [params]
 

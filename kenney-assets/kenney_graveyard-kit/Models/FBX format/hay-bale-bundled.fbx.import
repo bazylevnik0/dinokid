@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dhj8hqw3tgv7s"
-path="res://.godot/imported/hay-bale-bundled.fbx-d9978482592578ae74bd175dbc795be2.scn"
+path="res://.godot/imported/hay-bale-bundled.fbx-1d7509d787e84c99b30976989bb856a0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/hay-bale-bundled.fbx"
-dest_files=["res://.godot/imported/hay-bale-bundled.fbx-d9978482592578ae74bd175dbc795be2.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/hay-bale-bundled.fbx"
+dest_files=["res://.godot/imported/hay-bale-bundled.fbx-1d7509d787e84c99b30976989bb856a0.scn"]
 
 [params]
 

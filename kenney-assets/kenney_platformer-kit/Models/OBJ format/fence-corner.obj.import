@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cpg4ms70qlh77"
-path="res://.godot/imported/fence-corner.obj-e4683435640b10fc526161e8562d5cca.mesh"
+path="res://.godot/imported/fence-corner.obj-37d2a83cbce033f0f1027d6e99c236c0.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence-corner.obj-e4683435640b10fc526161e8562d5cca.mesh"]
+files=["res://.godot/imported/fence-corner.obj-37d2a83cbce033f0f1027d6e99c236c0.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/fence-corner.obj"
-dest_files=["res://.godot/imported/fence-corner.obj-e4683435640b10fc526161e8562d5cca.mesh", "res://.godot/imported/fence-corner.obj-e4683435640b10fc526161e8562d5cca.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/fence-corner.obj"
+dest_files=["res://.godot/imported/fence-corner.obj-37d2a83cbce033f0f1027d6e99c236c0.mesh", "res://.godot/imported/fence-corner.obj-37d2a83cbce033f0f1027d6e99c236c0.mesh"]
 
 [params]
 

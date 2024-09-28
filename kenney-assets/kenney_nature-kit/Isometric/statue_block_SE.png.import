@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2ddoj657udsx"
-path="res://.godot/imported/statue_block_SE.png-98b13c646082771ec31e810524a385f2.ctex"
+path="res://.godot/imported/statue_block_SE.png-3995b8f9ac06e270dc8c79134ed9a71e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/statue_block_SE.png"
-dest_files=["res://.godot/imported/statue_block_SE.png-98b13c646082771ec31e810524a385f2.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/statue_block_SE.png"
+dest_files=["res://.godot/imported/statue_block_SE.png-3995b8f9ac06e270dc8c79134ed9a71e.ctex"]
 
 [params]
 

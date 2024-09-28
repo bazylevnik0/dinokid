@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dobkbin4ptlxl"
-path="res://.godot/imported/altar-wood.obj-b423a4480538e0142aee7c1f6ea194e4.mesh"
+path="res://.godot/imported/altar-wood.obj-fb5edfcd06486f94995830a1e821df8e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/altar-wood.obj-b423a4480538e0142aee7c1f6ea194e4.mesh"]
+files=["res://.godot/imported/altar-wood.obj-fb5edfcd06486f94995830a1e821df8e.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/altar-wood.obj"
-dest_files=["res://.godot/imported/altar-wood.obj-b423a4480538e0142aee7c1f6ea194e4.mesh", "res://.godot/imported/altar-wood.obj-b423a4480538e0142aee7c1f6ea194e4.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/altar-wood.obj"
+dest_files=["res://.godot/imported/altar-wood.obj-fb5edfcd06486f94995830a1e821df8e.mesh", "res://.godot/imported/altar-wood.obj-fb5edfcd06486f94995830a1e821df8e.mesh"]
 
 [params]
 

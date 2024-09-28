@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcbvg2dy8yiiv"
-path="res://.godot/imported/tree_tall_fall_SW.png-30c887b2e0713857297cfa9e03ffd5ea.ctex"
+path="res://.godot/imported/tree_tall_fall_SW.png-d8446df5b35da0ccf250401ed6e910d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_tall_fall_SW.png"
-dest_files=["res://.godot/imported/tree_tall_fall_SW.png-30c887b2e0713857297cfa9e03ffd5ea.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/tree_tall_fall_SW.png"
+dest_files=["res://.godot/imported/tree_tall_fall_SW.png-d8446df5b35da0ccf250401ed6e910d6.ctex"]
 
 [params]
 

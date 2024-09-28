@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cadnwq16vdfv3"
-path="res://.godot/imported/stump_squareDetailedWide.fbx-1e698db32f25c3b398e760b0b4c37349.scn"
+path="res://.godot/imported/stump_squareDetailedWide.fbx-35e2311a040ae2b18ad691c609316b42.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/stump_squareDetailedWide.fbx"
-dest_files=["res://.godot/imported/stump_squareDetailedWide.fbx-1e698db32f25c3b398e760b0b4c37349.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/stump_squareDetailedWide.fbx"
+dest_files=["res://.godot/imported/stump_squareDetailedWide.fbx-35e2311a040ae2b18ad691c609316b42.scn"]
 
 [params]
 

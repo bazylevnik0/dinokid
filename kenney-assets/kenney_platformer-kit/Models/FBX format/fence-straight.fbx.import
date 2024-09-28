@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cjwhq2os8y6jo"
-path="res://.godot/imported/fence-straight.fbx-7c2b5522d924d29a65e5165766571f8b.scn"
+path="res://.godot/imported/fence-straight.fbx-2d5df98b7ee051f79d3f9c36f59fb372.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/fence-straight.fbx"
-dest_files=["res://.godot/imported/fence-straight.fbx-7c2b5522d924d29a65e5165766571f8b.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/FBX format/fence-straight.fbx"
+dest_files=["res://.godot/imported/fence-straight.fbx-2d5df98b7ee051f79d3f9c36f59fb372.scn"]
 
 [params]
 

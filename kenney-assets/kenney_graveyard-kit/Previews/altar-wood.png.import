@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4qx4och65gat"
-path="res://.godot/imported/altar-wood.png-be578dde25321ed568582d0b7b9cc9c3.ctex"
+path="res://.godot/imported/altar-wood.png-bba89a0d162eb87e9f97103cde1e7704.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/altar-wood.png"
-dest_files=["res://.godot/imported/altar-wood.png-be578dde25321ed568582d0b7b9cc9c3.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/altar-wood.png"
+dest_files=["res://.godot/imported/altar-wood.png-bba89a0d162eb87e9f97103cde1e7704.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://byn7s2xtqua5b"
-path="res://.godot/imported/block-grass-hexagon.obj-89c389c3b647076fc7a9d6f487d3e80a.mesh"
+path="res://.godot/imported/block-grass-hexagon.obj-3fe34ceb50ecbaa8e3afdef112f32583.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-hexagon.obj-89c389c3b647076fc7a9d6f487d3e80a.mesh"]
+files=["res://.godot/imported/block-grass-hexagon.obj-3fe34ceb50ecbaa8e3afdef112f32583.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-hexagon.obj"
-dest_files=["res://.godot/imported/block-grass-hexagon.obj-89c389c3b647076fc7a9d6f487d3e80a.mesh", "res://.godot/imported/block-grass-hexagon.obj-89c389c3b647076fc7a9d6f487d3e80a.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/block-grass-hexagon.obj"
+dest_files=["res://.godot/imported/block-grass-hexagon.obj-3fe34ceb50ecbaa8e3afdef112f32583.mesh", "res://.godot/imported/block-grass-hexagon.obj-3fe34ceb50ecbaa8e3afdef112f32583.mesh"]
 
 [params]
 

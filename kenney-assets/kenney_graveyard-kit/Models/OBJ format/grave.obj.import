@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://7mrru7uiqamt"
-path="res://.godot/imported/grave.obj-58688db3e62328488a2b113e19d54d5f.mesh"
+path="res://.godot/imported/grave.obj-3a64a3188293e815da77535851f6be7c.mesh"
 
 [deps]
 
-files=["res://.godot/imported/grave.obj-58688db3e62328488a2b113e19d54d5f.mesh"]
+files=["res://.godot/imported/grave.obj-3a64a3188293e815da77535851f6be7c.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/grave.obj"
-dest_files=["res://.godot/imported/grave.obj-58688db3e62328488a2b113e19d54d5f.mesh", "res://.godot/imported/grave.obj-58688db3e62328488a2b113e19d54d5f.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/grave.obj"
+dest_files=["res://.godot/imported/grave.obj-3a64a3188293e815da77535851f6be7c.mesh", "res://.godot/imported/grave.obj-3a64a3188293e815da77535851f6be7c.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgjfn3q67sohr"
-path="res://.godot/imported/block-snow-corner-overhang.png-a738d33ccab6d7dfbde70637996944c9.ctex"
+path="res://.godot/imported/block-snow-corner-overhang.png-10e6cd34797b90056c00c4d096363d98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-snow-corner-overhang.png"
-dest_files=["res://.godot/imported/block-snow-corner-overhang.png-a738d33ccab6d7dfbde70637996944c9.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/block-snow-corner-overhang.png"
+dest_files=["res://.godot/imported/block-snow-corner-overhang.png-10e6cd34797b90056c00c4d096363d98.ctex"]
 
 [params]
 

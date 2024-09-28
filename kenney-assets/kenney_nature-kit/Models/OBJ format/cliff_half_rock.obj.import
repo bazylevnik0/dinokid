@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dlreowyi5h0q1"
-path="res://.godot/imported/cliff_half_rock.obj-8715fb812968b48040fe078883236e8e.mesh"
+path="res://.godot/imported/cliff_half_rock.obj-6f7807978e0b7ca7511588bd3b5da450.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_half_rock.obj-8715fb812968b48040fe078883236e8e.mesh"]
+files=["res://.godot/imported/cliff_half_rock.obj-6f7807978e0b7ca7511588bd3b5da450.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_half_rock.obj"
-dest_files=["res://.godot/imported/cliff_half_rock.obj-8715fb812968b48040fe078883236e8e.mesh", "res://.godot/imported/cliff_half_rock.obj-8715fb812968b48040fe078883236e8e.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_half_rock.obj"
+dest_files=["res://.godot/imported/cliff_half_rock.obj-6f7807978e0b7ca7511588bd3b5da450.mesh", "res://.godot/imported/cliff_half_rock.obj-6f7807978e0b7ca7511588bd3b5da450.mesh"]
 
 [params]
 

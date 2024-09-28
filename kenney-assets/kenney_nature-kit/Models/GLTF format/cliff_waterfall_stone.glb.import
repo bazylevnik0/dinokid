@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://5dlpuxbwbng2"
-path="res://.godot/imported/cliff_waterfall_stone.glb-ad757691f3796b28a0630b13ce0c2105.scn"
+path="res://.godot/imported/cliff_waterfall_stone.glb-05c5b897f21772097d18beda8d8d1292.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_waterfall_stone.glb"
-dest_files=["res://.godot/imported/cliff_waterfall_stone.glb-ad757691f3796b28a0630b13ce0c2105.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/cliff_waterfall_stone.glb"
+dest_files=["res://.godot/imported/cliff_waterfall_stone.glb-05c5b897f21772097d18beda8d8d1292.scn"]
 
 [params]
 

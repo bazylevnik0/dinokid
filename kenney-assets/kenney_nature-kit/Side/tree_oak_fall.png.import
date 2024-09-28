@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pjk58k1wfp7k"
-path="res://.godot/imported/tree_oak_fall.png-7037cead99892bf8daf85191e6c12500.ctex"
+path="res://.godot/imported/tree_oak_fall.png-c4833fe952a05048a4465b344ccad419.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/tree_oak_fall.png"
-dest_files=["res://.godot/imported/tree_oak_fall.png-7037cead99892bf8daf85191e6c12500.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/tree_oak_fall.png"
+dest_files=["res://.godot/imported/tree_oak_fall.png-c4833fe952a05048a4465b344ccad419.ctex"]
 
 [params]
 

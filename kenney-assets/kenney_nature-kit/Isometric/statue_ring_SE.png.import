@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i0fvoxjysb60"
-path="res://.godot/imported/statue_ring_SE.png-3fc6c225c01febfecb0d2d4e2cf033e5.ctex"
+path="res://.godot/imported/statue_ring_SE.png-850d4bec3886ee886a299be1b8da1910.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/statue_ring_SE.png"
-dest_files=["res://.godot/imported/statue_ring_SE.png-3fc6c225c01febfecb0d2d4e2cf033e5.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/statue_ring_SE.png"
+dest_files=["res://.godot/imported/statue_ring_SE.png-850d4bec3886ee886a299be1b8da1910.ctex"]
 
 [params]
 

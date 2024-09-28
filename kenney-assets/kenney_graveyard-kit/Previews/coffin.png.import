@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbhngxrtdpogr"
-path="res://.godot/imported/coffin.png-2bb9b1182a500c3b8c3aff96bd565c58.ctex"
+path="res://.godot/imported/coffin.png-da521ef8c021bd7a92f236aa68662c4d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/coffin.png"
-dest_files=["res://.godot/imported/coffin.png-2bb9b1182a500c3b8c3aff96bd565c58.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/coffin.png"
+dest_files=["res://.godot/imported/coffin.png-da521ef8c021bd7a92f236aa68662c4d.ctex"]
 
 [params]
 

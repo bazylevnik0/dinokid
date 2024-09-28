@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://750q8jrbo6ir"
-path="res://.godot/imported/grave-border.fbx-1520dc1473db4a36a64a504b74f1cdd6.scn"
+path="res://.godot/imported/grave-border.fbx-cc9341788a0ecd9afc356ae7bbff18eb.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/grave-border.fbx"
-dest_files=["res://.godot/imported/grave-border.fbx-1520dc1473db4a36a64a504b74f1cdd6.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/grave-border.fbx"
+dest_files=["res://.godot/imported/grave-border.fbx-cc9341788a0ecd9afc356ae7bbff18eb.scn"]
 
 [params]
 

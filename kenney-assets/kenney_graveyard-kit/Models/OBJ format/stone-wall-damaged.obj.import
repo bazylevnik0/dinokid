@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b00ggqi77e05u"
-path="res://.godot/imported/stone-wall-damaged.obj-58738f6671207350821ee37ab25f1fbe.mesh"
+path="res://.godot/imported/stone-wall-damaged.obj-1b29df72e875e166fb9f8f1c08c4396e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/stone-wall-damaged.obj-58738f6671207350821ee37ab25f1fbe.mesh"]
+files=["res://.godot/imported/stone-wall-damaged.obj-1b29df72e875e166fb9f8f1c08c4396e.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/stone-wall-damaged.obj"
-dest_files=["res://.godot/imported/stone-wall-damaged.obj-58738f6671207350821ee37ab25f1fbe.mesh", "res://.godot/imported/stone-wall-damaged.obj-58738f6671207350821ee37ab25f1fbe.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/stone-wall-damaged.obj"
+dest_files=["res://.godot/imported/stone-wall-damaged.obj-1b29df72e875e166fb9f8f1c08c4396e.mesh", "res://.godot/imported/stone-wall-damaged.obj-1b29df72e875e166fb9f8f1c08c4396e.mesh"]
 
 [params]
 

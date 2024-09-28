@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbf4q47yudffd"
-path="res://.godot/imported/cross-column.png-041ca142eaec193410531a58e33efead.ctex"
+path="res://.godot/imported/cross-column.png-39e4940b9a1ce77bb6863c20b139a908.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/cross-column.png"
-dest_files=["res://.godot/imported/cross-column.png-041ca142eaec193410531a58e33efead.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/cross-column.png"
+dest_files=["res://.godot/imported/cross-column.png-39e4940b9a1ce77bb6863c20b139a908.ctex"]
 
 [params]
 

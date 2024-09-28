@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2xu5u01edk5q"
-path="res://.godot/imported/ground_riverTile.png-4bd010f70822e2cc171aef5dad76404c.ctex"
+path="res://.godot/imported/ground_riverTile.png-20f9b4aa659f46e4b4ba519db51e6159.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/ground_riverTile.png"
-dest_files=["res://.godot/imported/ground_riverTile.png-4bd010f70822e2cc171aef5dad76404c.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/ground_riverTile.png"
+dest_files=["res://.godot/imported/ground_riverTile.png-20f9b4aa659f46e4b4ba519db51e6159.ctex"]
 
 [params]
 

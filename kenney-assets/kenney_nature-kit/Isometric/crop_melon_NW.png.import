@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://baapanmrlamgo"
-path="res://.godot/imported/crop_melon_NW.png-9140964fd168ae4da848a244a18b059c.ctex"
+path="res://.godot/imported/crop_melon_NW.png-bb7fefa12c3f1f724f9e2b3f3082bfb1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crop_melon_NW.png"
-dest_files=["res://.godot/imported/crop_melon_NW.png-9140964fd168ae4da848a244a18b059c.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/crop_melon_NW.png"
+dest_files=["res://.godot/imported/crop_melon_NW.png-bb7fefa12c3f1f724f9e2b3f3082bfb1.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://kks8it5vw6bk"
-path="res://.godot/imported/coin-bronze.glb-39ccea7e275df78a3396a47bd9849a6d.scn"
+path="res://.godot/imported/coin-bronze.glb-8e6ff9fcb7afe85dc6201753997c2f78.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/coin-bronze.glb"
-dest_files=["res://.godot/imported/coin-bronze.glb-39ccea7e275df78a3396a47bd9849a6d.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/GLB format/coin-bronze.glb"
+dest_files=["res://.godot/imported/coin-bronze.glb-8e6ff9fcb7afe85dc6201753997c2f78.scn"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dgbeck2ka17ib"
-path="res://.godot/imported/hedge.obj-5bba1fc25e0fc4a2504fe7144119a6e7.mesh"
+path="res://.godot/imported/hedge.obj-1e67e9f19a3573567ee8e89efcfe1feb.mesh"
 
 [deps]
 
-files=["res://.godot/imported/hedge.obj-5bba1fc25e0fc4a2504fe7144119a6e7.mesh"]
+files=["res://.godot/imported/hedge.obj-1e67e9f19a3573567ee8e89efcfe1feb.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/hedge.obj"
-dest_files=["res://.godot/imported/hedge.obj-5bba1fc25e0fc4a2504fe7144119a6e7.mesh", "res://.godot/imported/hedge.obj-5bba1fc25e0fc4a2504fe7144119a6e7.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/hedge.obj"
+dest_files=["res://.godot/imported/hedge.obj-1e67e9f19a3573567ee8e89efcfe1feb.mesh", "res://.godot/imported/hedge.obj-1e67e9f19a3573567ee8e89efcfe1feb.mesh"]
 
 [params]
 

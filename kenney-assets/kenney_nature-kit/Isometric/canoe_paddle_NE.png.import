@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nkig285gpxkr"
-path="res://.godot/imported/canoe_paddle_NE.png-3138d692c1c96b67500e0c3fb5b6058c.ctex"
+path="res://.godot/imported/canoe_paddle_NE.png-0da03446c6f863287acd6c853715ca95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/canoe_paddle_NE.png"
-dest_files=["res://.godot/imported/canoe_paddle_NE.png-3138d692c1c96b67500e0c3fb5b6058c.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/canoe_paddle_NE.png"
+dest_files=["res://.godot/imported/canoe_paddle_NE.png-0da03446c6f863287acd6c853715ca95.ctex"]
 
 [params]
 

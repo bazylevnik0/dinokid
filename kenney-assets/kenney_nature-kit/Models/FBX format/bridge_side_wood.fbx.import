@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://lics0dnjd2ex"
-path="res://.godot/imported/bridge_side_wood.fbx-ed6b5a031df3a8ba828ceb34cdefae3a.scn"
+path="res://.godot/imported/bridge_side_wood.fbx-e27a60b30fe3da7a829d61d94b3d133f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/bridge_side_wood.fbx"
-dest_files=["res://.godot/imported/bridge_side_wood.fbx-ed6b5a031df3a8ba828ceb34cdefae3a.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/bridge_side_wood.fbx"
+dest_files=["res://.godot/imported/bridge_side_wood.fbx-e27a60b30fe3da7a829d61d94b3d133f.scn"]
 
 [params]
 

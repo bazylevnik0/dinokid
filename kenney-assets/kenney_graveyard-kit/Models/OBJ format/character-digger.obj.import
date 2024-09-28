@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cw6d3f7vxyxoj"
-path="res://.godot/imported/character-digger.obj-fccecf1e1554aa60ec5c1c03e4040d44.mesh"
+path="res://.godot/imported/character-digger.obj-34d33487cdd8cdca6de2ca4c70a4dd30.mesh"
 
 [deps]
 
-files=["res://.godot/imported/character-digger.obj-fccecf1e1554aa60ec5c1c03e4040d44.mesh"]
+files=["res://.godot/imported/character-digger.obj-34d33487cdd8cdca6de2ca4c70a4dd30.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/character-digger.obj"
-dest_files=["res://.godot/imported/character-digger.obj-fccecf1e1554aa60ec5c1c03e4040d44.mesh", "res://.godot/imported/character-digger.obj-fccecf1e1554aa60ec5c1c03e4040d44.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/character-digger.obj"
+dest_files=["res://.godot/imported/character-digger.obj-34d33487cdd8cdca6de2ca4c70a4dd30.mesh", "res://.godot/imported/character-digger.obj-34d33487cdd8cdca6de2ca4c70a4dd30.mesh"]
 
 [params]
 

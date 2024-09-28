@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0gx4misaliha"
-path="res://.godot/imported/brick-wall-curve.png-d18ba7d0b5c1308502182ead3f5ac4b9.ctex"
+path="res://.godot/imported/brick-wall-curve.png-30aea6ed19222759c1d352a60688edb2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/brick-wall-curve.png"
-dest_files=["res://.godot/imported/brick-wall-curve.png-d18ba7d0b5c1308502182ead3f5ac4b9.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/brick-wall-curve.png"
+dest_files=["res://.godot/imported/brick-wall-curve.png-30aea6ed19222759c1d352a60688edb2.ctex"]
 
 [params]
 

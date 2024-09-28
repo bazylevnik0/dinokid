@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxjr60qi700uk"
-path="res://.godot/imported/cliff_steps_rock_NW.png-51e3192bd020a0fb7f3a3ab0a02538df.ctex"
+path="res://.godot/imported/cliff_steps_rock_NW.png-5bc5eefac17eb3ebf193bafc2d2513a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/cliff_steps_rock_NW.png"
-dest_files=["res://.godot/imported/cliff_steps_rock_NW.png-51e3192bd020a0fb7f3a3ab0a02538df.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/cliff_steps_rock_NW.png"
+dest_files=["res://.godot/imported/cliff_steps_rock_NW.png-5bc5eefac17eb3ebf193bafc2d2513a7.ctex"]
 
 [params]
 

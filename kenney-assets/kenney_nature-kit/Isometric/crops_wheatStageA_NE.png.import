@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5w6cpi0hg5rd"
-path="res://.godot/imported/crops_wheatStageA_NE.png-621e6e4d736acf4a649d93f152883f7c.ctex"
+path="res://.godot/imported/crops_wheatStageA_NE.png-52390259c084d4de48fd675c10a00be5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crops_wheatStageA_NE.png"
-dest_files=["res://.godot/imported/crops_wheatStageA_NE.png-621e6e4d736acf4a649d93f152883f7c.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/crops_wheatStageA_NE.png"
+dest_files=["res://.godot/imported/crops_wheatStageA_NE.png-52390259c084d4de48fd675c10a00be5.ctex"]
 
 [params]
 

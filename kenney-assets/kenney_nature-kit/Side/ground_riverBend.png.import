@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cis3kdt5ek8aq"
-path="res://.godot/imported/ground_riverBend.png-0bef3708c69abdef9a215b74eaaf2803.ctex"
+path="res://.godot/imported/ground_riverBend.png-1dbb4825237d2c7e34dce0b7ced129c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/ground_riverBend.png"
-dest_files=["res://.godot/imported/ground_riverBend.png-0bef3708c69abdef9a215b74eaaf2803.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/ground_riverBend.png"
+dest_files=["res://.godot/imported/ground_riverBend.png-1dbb4825237d2c7e34dce0b7ced129c9.ctex"]
 
 [params]
 

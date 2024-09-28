@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cg37sxlso3bp7"
-path="res://.godot/imported/statue_columnDamaged.obj-5963c9b14a73ef2abc5cc70d5f638ef5.mesh"
+path="res://.godot/imported/statue_columnDamaged.obj-a5098c83be3faa133998e9cf23a621fd.mesh"
 
 [deps]
 
-files=["res://.godot/imported/statue_columnDamaged.obj-5963c9b14a73ef2abc5cc70d5f638ef5.mesh"]
+files=["res://.godot/imported/statue_columnDamaged.obj-a5098c83be3faa133998e9cf23a621fd.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/statue_columnDamaged.obj"
-dest_files=["res://.godot/imported/statue_columnDamaged.obj-5963c9b14a73ef2abc5cc70d5f638ef5.mesh", "res://.godot/imported/statue_columnDamaged.obj-5963c9b14a73ef2abc5cc70d5f638ef5.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/statue_columnDamaged.obj"
+dest_files=["res://.godot/imported/statue_columnDamaged.obj-a5098c83be3faa133998e9cf23a621fd.mesh", "res://.godot/imported/statue_columnDamaged.obj-a5098c83be3faa133998e9cf23a621fd.mesh"]
 
 [params]
 

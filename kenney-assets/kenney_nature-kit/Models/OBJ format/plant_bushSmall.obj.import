@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://hg7qaq8xwkoy"
-path="res://.godot/imported/plant_bushSmall.obj-68ca988e603598cf552497edf3afdfb1.mesh"
+path="res://.godot/imported/plant_bushSmall.obj-88aee1143f348140ae2638c6cfb8a89c.mesh"
 
 [deps]
 
-files=["res://.godot/imported/plant_bushSmall.obj-68ca988e603598cf552497edf3afdfb1.mesh"]
+files=["res://.godot/imported/plant_bushSmall.obj-88aee1143f348140ae2638c6cfb8a89c.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/plant_bushSmall.obj"
-dest_files=["res://.godot/imported/plant_bushSmall.obj-68ca988e603598cf552497edf3afdfb1.mesh", "res://.godot/imported/plant_bushSmall.obj-68ca988e603598cf552497edf3afdfb1.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/plant_bushSmall.obj"
+dest_files=["res://.godot/imported/plant_bushSmall.obj-88aee1143f348140ae2638c6cfb8a89c.mesh", "res://.godot/imported/plant_bushSmall.obj-88aee1143f348140ae2638c6cfb8a89c.mesh"]
 
 [params]
 

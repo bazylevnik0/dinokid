@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dtgaa7wkbafod"
-path="res://.godot/imported/ground_riverTile.fbx-3478cef12d11a5998fa9a6444c644f1b.scn"
+path="res://.godot/imported/ground_riverTile.fbx-67585edff397046f7e0028c4136f28da.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/ground_riverTile.fbx"
-dest_files=["res://.godot/imported/ground_riverTile.fbx-3478cef12d11a5998fa9a6444c644f1b.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/ground_riverTile.fbx"
+dest_files=["res://.godot/imported/ground_riverTile.fbx-67585edff397046f7e0028c4136f28da.scn"]
 
 [params]
 

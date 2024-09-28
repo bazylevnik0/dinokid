@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c1agxj34lsqu"
-path="res://.godot/imported/mushroom_redTall.fbx-738ee77bf5c7f6daffec097899f34fbb.scn"
+path="res://.godot/imported/mushroom_redTall.fbx-74196356d574f232bfae0e8d6a02ec0a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/mushroom_redTall.fbx"
-dest_files=["res://.godot/imported/mushroom_redTall.fbx-738ee77bf5c7f6daffec097899f34fbb.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/mushroom_redTall.fbx"
+dest_files=["res://.godot/imported/mushroom_redTall.fbx-74196356d574f232bfae0e8d6a02ec0a.scn"]
 
 [params]
 

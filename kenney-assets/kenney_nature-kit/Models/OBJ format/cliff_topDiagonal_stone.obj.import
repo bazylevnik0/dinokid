@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cggrd5rd0n3br"
-path="res://.godot/imported/cliff_topDiagonal_stone.obj-d6aec34551fb40960311d528e5798c09.mesh"
+path="res://.godot/imported/cliff_topDiagonal_stone.obj-6712c4ca1ae2a868b678f0cf805cf0fc.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_topDiagonal_stone.obj-d6aec34551fb40960311d528e5798c09.mesh"]
+files=["res://.godot/imported/cliff_topDiagonal_stone.obj-6712c4ca1ae2a868b678f0cf805cf0fc.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_topDiagonal_stone.obj"
-dest_files=["res://.godot/imported/cliff_topDiagonal_stone.obj-d6aec34551fb40960311d528e5798c09.mesh", "res://.godot/imported/cliff_topDiagonal_stone.obj-d6aec34551fb40960311d528e5798c09.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_topDiagonal_stone.obj"
+dest_files=["res://.godot/imported/cliff_topDiagonal_stone.obj-6712c4ca1ae2a868b678f0cf805cf0fc.mesh", "res://.godot/imported/cliff_topDiagonal_stone.obj-6712c4ca1ae2a868b678f0cf805cf0fc.mesh"]
 
 [params]
 

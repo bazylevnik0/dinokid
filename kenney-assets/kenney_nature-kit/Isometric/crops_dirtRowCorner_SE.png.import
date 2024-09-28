@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dut6vw0mgrowt"
-path="res://.godot/imported/crops_dirtRowCorner_SE.png-d21a16741dfa77c05fe1ab3ee00b08c1.ctex"
+path="res://.godot/imported/crops_dirtRowCorner_SE.png-279bbc2748820e5a6d395d0013f3d861.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crops_dirtRowCorner_SE.png"
-dest_files=["res://.godot/imported/crops_dirtRowCorner_SE.png-d21a16741dfa77c05fe1ab3ee00b08c1.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/crops_dirtRowCorner_SE.png"
+dest_files=["res://.godot/imported/crops_dirtRowCorner_SE.png-279bbc2748820e5a6d395d0013f3d861.ctex"]
 
 [params]
 

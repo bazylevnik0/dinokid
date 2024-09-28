@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://co57riekx6kfw"
-path="res://.godot/imported/stump_square.png-78b665287e735a81b7162a2f89b5e5a8.ctex"
+path="res://.godot/imported/stump_square.png-d92b4bab38b11a059e354e6ac074aaa5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/stump_square.png"
-dest_files=["res://.godot/imported/stump_square.png-78b665287e735a81b7162a2f89b5e5a8.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/stump_square.png"
+dest_files=["res://.godot/imported/stump_square.png-d92b4bab38b11a059e354e6ac074aaa5.ctex"]
 
 [params]
 

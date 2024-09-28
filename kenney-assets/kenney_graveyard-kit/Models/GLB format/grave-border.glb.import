@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://disam2fnu2bc"
-path="res://.godot/imported/grave-border.glb-f3e85d1d07252548b73fe300e8a7d724.scn"
+path="res://.godot/imported/grave-border.glb-724049d1d955385b3e5c6b2072ae9a80.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/grave-border.glb"
-dest_files=["res://.godot/imported/grave-border.glb-f3e85d1d07252548b73fe300e8a7d724.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/grave-border.glb"
+dest_files=["res://.godot/imported/grave-border.glb-724049d1d955385b3e5c6b2072ae9a80.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgwdl0r7185il"
-path="res://.godot/imported/cliff_halfCorner_stone_NE.png-9d5394fc387a93b2f2ab69536f795b5c.ctex"
+path="res://.godot/imported/cliff_halfCorner_stone_NE.png-96aa15a8c5b8820c68017aa51622da2a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/cliff_halfCorner_stone_NE.png"
-dest_files=["res://.godot/imported/cliff_halfCorner_stone_NE.png-9d5394fc387a93b2f2ab69536f795b5c.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/cliff_halfCorner_stone_NE.png"
+dest_files=["res://.godot/imported/cliff_halfCorner_stone_NE.png-96aa15a8c5b8820c68017aa51622da2a.ctex"]
 
 [params]
 

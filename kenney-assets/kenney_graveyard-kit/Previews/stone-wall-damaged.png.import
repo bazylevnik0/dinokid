@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://eabboo7ucrib"
-path="res://.godot/imported/stone-wall-damaged.png-0fb6faf28c2be954b42a5031dd29ebf3.ctex"
+path="res://.godot/imported/stone-wall-damaged.png-d96bf7f7d55db0e5ce07575b5e3c8000.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/stone-wall-damaged.png"
-dest_files=["res://.godot/imported/stone-wall-damaged.png-0fb6faf28c2be954b42a5031dd29ebf3.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/stone-wall-damaged.png"
+dest_files=["res://.godot/imported/stone-wall-damaged.png-d96bf7f7d55db0e5ce07575b5e3c8000.ctex"]
 
 [params]
 

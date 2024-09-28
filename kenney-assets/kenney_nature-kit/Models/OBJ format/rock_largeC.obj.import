@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bxghasxtsaxgc"
-path="res://.godot/imported/rock_largeC.obj-e4c389e1cd2ea8038e5d5330ea1aa872.mesh"
+path="res://.godot/imported/rock_largeC.obj-1b0be7158c2da0fef6c0409e1e8819b3.mesh"
 
 [deps]
 
-files=["res://.godot/imported/rock_largeC.obj-e4c389e1cd2ea8038e5d5330ea1aa872.mesh"]
+files=["res://.godot/imported/rock_largeC.obj-1b0be7158c2da0fef6c0409e1e8819b3.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/rock_largeC.obj"
-dest_files=["res://.godot/imported/rock_largeC.obj-e4c389e1cd2ea8038e5d5330ea1aa872.mesh", "res://.godot/imported/rock_largeC.obj-e4c389e1cd2ea8038e5d5330ea1aa872.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/rock_largeC.obj"
+dest_files=["res://.godot/imported/rock_largeC.obj-1b0be7158c2da0fef6c0409e1e8819b3.mesh", "res://.godot/imported/rock_largeC.obj-1b0be7158c2da0fef6c0409e1e8819b3.mesh"]
 
 [params]
 

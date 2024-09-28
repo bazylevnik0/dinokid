@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b6q1slrqxt5jb"
-path="res://.godot/imported/crypt-small.obj-9f10476f0465b84c1ef290df0eb35004.mesh"
+path="res://.godot/imported/crypt-small.obj-a967b6f6a9c74823ed03cfd2731f8ec2.mesh"
 
 [deps]
 
-files=["res://.godot/imported/crypt-small.obj-9f10476f0465b84c1ef290df0eb35004.mesh"]
+files=["res://.godot/imported/crypt-small.obj-a967b6f6a9c74823ed03cfd2731f8ec2.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/crypt-small.obj"
-dest_files=["res://.godot/imported/crypt-small.obj-9f10476f0465b84c1ef290df0eb35004.mesh", "res://.godot/imported/crypt-small.obj-9f10476f0465b84c1ef290df0eb35004.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/crypt-small.obj"
+dest_files=["res://.godot/imported/crypt-small.obj-a967b6f6a9c74823ed03cfd2731f8ec2.mesh", "res://.godot/imported/crypt-small.obj-a967b6f6a9c74823ed03cfd2731f8ec2.mesh"]
 
 [params]
 

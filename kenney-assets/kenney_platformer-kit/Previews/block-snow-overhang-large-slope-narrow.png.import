@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bi7yn28034825"
-path="res://.godot/imported/block-snow-overhang-large-slope-narrow.png-16a572d1e90cc627f3f6aa37df45bae5.ctex"
+path="res://.godot/imported/block-snow-overhang-large-slope-narrow.png-696c4143b0a529954630ab3c80fa463b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-snow-overhang-large-slope-narrow.png"
-dest_files=["res://.godot/imported/block-snow-overhang-large-slope-narrow.png-16a572d1e90cc627f3f6aa37df45bae5.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/block-snow-overhang-large-slope-narrow.png"
+dest_files=["res://.godot/imported/block-snow-overhang-large-slope-narrow.png-696c4143b0a529954630ab3c80fa463b.ctex"]
 
 [params]
 

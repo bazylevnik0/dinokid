@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://crdg1jctg3gqv"
-path="res://.godot/imported/sign.obj-0af23f939c3c4da3747c4be8a7fad121.mesh"
+path="res://.godot/imported/sign.obj-42d42e816c7e571de20a0eb50fa1715c.mesh"
 
 [deps]
 
-files=["res://.godot/imported/sign.obj-0af23f939c3c4da3747c4be8a7fad121.mesh"]
+files=["res://.godot/imported/sign.obj-42d42e816c7e571de20a0eb50fa1715c.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/sign.obj"
-dest_files=["res://.godot/imported/sign.obj-0af23f939c3c4da3747c4be8a7fad121.mesh", "res://.godot/imported/sign.obj-0af23f939c3c4da3747c4be8a7fad121.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/sign.obj"
+dest_files=["res://.godot/imported/sign.obj-42d42e816c7e571de20a0eb50fa1715c.mesh", "res://.godot/imported/sign.obj-42d42e816c7e571de20a0eb50fa1715c.mesh"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://2itwbibkeh7u"
-path="res://.godot/imported/brick-wall.obj-41fcbb86473b376db972f52de4adebd9.mesh"
+path="res://.godot/imported/brick-wall.obj-99170b470b1601fe7d2c71084a97c3da.mesh"
 
 [deps]
 
-files=["res://.godot/imported/brick-wall.obj-41fcbb86473b376db972f52de4adebd9.mesh"]
+files=["res://.godot/imported/brick-wall.obj-99170b470b1601fe7d2c71084a97c3da.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/brick-wall.obj"
-dest_files=["res://.godot/imported/brick-wall.obj-41fcbb86473b376db972f52de4adebd9.mesh", "res://.godot/imported/brick-wall.obj-41fcbb86473b376db972f52de4adebd9.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/brick-wall.obj"
+dest_files=["res://.godot/imported/brick-wall.obj-99170b470b1601fe7d2c71084a97c3da.mesh", "res://.godot/imported/brick-wall.obj-99170b470b1601fe7d2c71084a97c3da.mesh"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://buksm0mlnfvje"
-path="res://.godot/imported/tree_tall_fall.fbx-0fe9af4cb22875bdb239458b97bb03e7.scn"
+path="res://.godot/imported/tree_tall_fall.fbx-5100cb556f4b599d2e6554e8b7a700cd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/tree_tall_fall.fbx"
-dest_files=["res://.godot/imported/tree_tall_fall.fbx-0fe9af4cb22875bdb239458b97bb03e7.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/tree_tall_fall.fbx"
+dest_files=["res://.godot/imported/tree_tall_fall.fbx-5100cb556f4b599d2e6554e8b7a700cd.scn"]
 
 [params]
 

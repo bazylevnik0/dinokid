@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://oyfjugkln1q4"
-path="res://.godot/imported/ground_riverRocks.obj-839196b1ddded7efa6caa472cb9866c7.mesh"
+path="res://.godot/imported/ground_riverRocks.obj-10bd80f166dc19e788db88c4bb946fd0.mesh"
 
 [deps]
 
-files=["res://.godot/imported/ground_riverRocks.obj-839196b1ddded7efa6caa472cb9866c7.mesh"]
+files=["res://.godot/imported/ground_riverRocks.obj-10bd80f166dc19e788db88c4bb946fd0.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_riverRocks.obj"
-dest_files=["res://.godot/imported/ground_riverRocks.obj-839196b1ddded7efa6caa472cb9866c7.mesh", "res://.godot/imported/ground_riverRocks.obj-839196b1ddded7efa6caa472cb9866c7.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/ground_riverRocks.obj"
+dest_files=["res://.godot/imported/ground_riverRocks.obj-10bd80f166dc19e788db88c4bb946fd0.mesh", "res://.godot/imported/ground_riverRocks.obj-10bd80f166dc19e788db88c4bb946fd0.mesh"]
 
 [params]
 

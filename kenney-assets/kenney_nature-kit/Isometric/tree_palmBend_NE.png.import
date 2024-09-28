@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5jedqpsu1wca"
-path="res://.godot/imported/tree_palmBend_NE.png-1147bfd132037e3295dcb018e0626649.ctex"
+path="res://.godot/imported/tree_palmBend_NE.png-ab6e620af48386fb6e47dfc020c4f951.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_palmBend_NE.png"
-dest_files=["res://.godot/imported/tree_palmBend_NE.png-1147bfd132037e3295dcb018e0626649.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/tree_palmBend_NE.png"
+dest_files=["res://.godot/imported/tree_palmBend_NE.png-ab6e620af48386fb6e47dfc020c4f951.ctex"]
 
 [params]
 

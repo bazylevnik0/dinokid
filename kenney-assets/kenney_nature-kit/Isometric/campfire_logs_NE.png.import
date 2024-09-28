@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmeasm6daph6l"
-path="res://.godot/imported/campfire_logs_NE.png-6e1c79c367ceb4b9dd79b8f26823582f.ctex"
+path="res://.godot/imported/campfire_logs_NE.png-9468e9de6a3da167f00bf628f1af2b1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/campfire_logs_NE.png"
-dest_files=["res://.godot/imported/campfire_logs_NE.png-6e1c79c367ceb4b9dd79b8f26823582f.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/campfire_logs_NE.png"
+dest_files=["res://.godot/imported/campfire_logs_NE.png-9468e9de6a3da167f00bf628f1af2b1d.ctex"]
 
 [params]
 

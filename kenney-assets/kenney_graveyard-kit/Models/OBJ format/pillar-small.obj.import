@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b4b5nlkga2usn"
-path="res://.godot/imported/pillar-small.obj-e4556d48e1acf71939f10fe0d6ad48ec.mesh"
+path="res://.godot/imported/pillar-small.obj-4ab04c18e26cebe8e401f4dc4969ba8e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/pillar-small.obj-e4556d48e1acf71939f10fe0d6ad48ec.mesh"]
+files=["res://.godot/imported/pillar-small.obj-4ab04c18e26cebe8e401f4dc4969ba8e.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/pillar-small.obj"
-dest_files=["res://.godot/imported/pillar-small.obj-e4556d48e1acf71939f10fe0d6ad48ec.mesh", "res://.godot/imported/pillar-small.obj-e4556d48e1acf71939f10fe0d6ad48ec.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/pillar-small.obj"
+dest_files=["res://.godot/imported/pillar-small.obj-4ab04c18e26cebe8e401f4dc4969ba8e.mesh", "res://.godot/imported/pillar-small.obj-4ab04c18e26cebe8e401f4dc4969ba8e.mesh"]
 
 [params]
 

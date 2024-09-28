@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bgjfks1tve3c"
-path="res://.godot/imported/pot_large.fbx-ab684b8af57401e512e1c56e05a05983.scn"
+path="res://.godot/imported/pot_large.fbx-ca361d4c5b91a897e345e51c0ad38e6c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/pot_large.fbx"
-dest_files=["res://.godot/imported/pot_large.fbx-ab684b8af57401e512e1c56e05a05983.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/pot_large.fbx"
+dest_files=["res://.godot/imported/pot_large.fbx-ca361d4c5b91a897e345e51c0ad38e6c.scn"]
 
 [params]
 

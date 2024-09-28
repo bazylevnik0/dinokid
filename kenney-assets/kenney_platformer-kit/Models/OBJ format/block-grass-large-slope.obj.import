@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://v7yaxtfgq1at"
-path="res://.godot/imported/block-grass-large-slope.obj-19f0ab50e322d6257893c693e2d44be3.mesh"
+path="res://.godot/imported/block-grass-large-slope.obj-3f1bf636d7cb0408c0fed75c7e3911f3.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-large-slope.obj-19f0ab50e322d6257893c693e2d44be3.mesh"]
+files=["res://.godot/imported/block-grass-large-slope.obj-3f1bf636d7cb0408c0fed75c7e3911f3.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-large-slope.obj"
-dest_files=["res://.godot/imported/block-grass-large-slope.obj-19f0ab50e322d6257893c693e2d44be3.mesh", "res://.godot/imported/block-grass-large-slope.obj-19f0ab50e322d6257893c693e2d44be3.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/block-grass-large-slope.obj"
+dest_files=["res://.godot/imported/block-grass-large-slope.obj-3f1bf636d7cb0408c0fed75c7e3911f3.mesh", "res://.godot/imported/block-grass-large-slope.obj-3f1bf636d7cb0408c0fed75c7e3911f3.mesh"]
 
 [params]
 

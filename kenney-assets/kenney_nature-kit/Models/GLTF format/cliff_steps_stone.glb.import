@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dow81i655pn24"
-path="res://.godot/imported/cliff_steps_stone.glb-5f8950223e7a3b6c517fc6d7f056307b.scn"
+path="res://.godot/imported/cliff_steps_stone.glb-36d945e82f0c7adefb9a0cfb674ea4de.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_steps_stone.glb"
-dest_files=["res://.godot/imported/cliff_steps_stone.glb-5f8950223e7a3b6c517fc6d7f056307b.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/cliff_steps_stone.glb"
+dest_files=["res://.godot/imported/cliff_steps_stone.glb-36d945e82f0c7adefb9a0cfb674ea4de.scn"]
 
 [params]
 

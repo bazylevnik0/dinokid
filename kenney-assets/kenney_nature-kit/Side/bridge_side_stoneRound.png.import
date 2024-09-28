@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sivbnxhr8dlr"
-path="res://.godot/imported/bridge_side_stoneRound.png-1080816e5f03f0b4fe3c6aa33eb857dd.ctex"
+path="res://.godot/imported/bridge_side_stoneRound.png-ac2584baecab6b6f7d1ba02fd072ad94.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/bridge_side_stoneRound.png"
-dest_files=["res://.godot/imported/bridge_side_stoneRound.png-1080816e5f03f0b4fe3c6aa33eb857dd.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/bridge_side_stoneRound.png"
+dest_files=["res://.godot/imported/bridge_side_stoneRound.png-ac2584baecab6b6f7d1ba02fd072ad94.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bawg53304a2kk"
-path="res://.godot/imported/tree_cone_fall_NW.png-dbbd021f0d157f1d6ddeaa4d663ecd02.ctex"
+path="res://.godot/imported/tree_cone_fall_NW.png-41eaeb95535a369aed08ebaf2adb8013.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_cone_fall_NW.png"
-dest_files=["res://.godot/imported/tree_cone_fall_NW.png-dbbd021f0d157f1d6ddeaa4d663ecd02.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/tree_cone_fall_NW.png"
+dest_files=["res://.godot/imported/tree_cone_fall_NW.png-41eaeb95535a369aed08ebaf2adb8013.ctex"]
 
 [params]
 

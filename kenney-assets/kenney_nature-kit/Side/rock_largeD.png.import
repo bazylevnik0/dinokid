@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://down4nq46mcgd"
-path="res://.godot/imported/rock_largeD.png-e0ca65964fadd4c00b9fddf058f05272.ctex"
+path="res://.godot/imported/rock_largeD.png-822327b467724bba1168123770f3f20a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/rock_largeD.png"
-dest_files=["res://.godot/imported/rock_largeD.png-e0ca65964fadd4c00b9fddf058f05272.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/rock_largeD.png"
+dest_files=["res://.godot/imported/rock_largeD.png-822327b467724bba1168123770f3f20a.ctex"]
 
 [params]
 

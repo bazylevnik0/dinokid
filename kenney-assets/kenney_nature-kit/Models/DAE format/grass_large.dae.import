@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c4nxgja0sua8b"
-path="res://.godot/imported/grass_large.dae-453a255c164b6cbb39168f16d47fe067.scn"
+path="res://.godot/imported/grass_large.dae-903425f5d1bfee749defddbf87163f78.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/grass_large.dae"
-dest_files=["res://.godot/imported/grass_large.dae-453a255c164b6cbb39168f16d47fe067.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/grass_large.dae"
+dest_files=["res://.godot/imported/grass_large.dae-903425f5d1bfee749defddbf87163f78.scn"]
 
 [params]
 

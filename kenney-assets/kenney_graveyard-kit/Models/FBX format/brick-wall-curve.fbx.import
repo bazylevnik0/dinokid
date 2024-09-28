@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0t3v6pd1gt6p"
-path="res://.godot/imported/brick-wall-curve.fbx-c2afb4ede9e681263a80de1f2cc1c9b7.scn"
+path="res://.godot/imported/brick-wall-curve.fbx-8b071a5bb4d5de1c2749119357ea1a1d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/brick-wall-curve.fbx"
-dest_files=["res://.godot/imported/brick-wall-curve.fbx-c2afb4ede9e681263a80de1f2cc1c9b7.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/brick-wall-curve.fbx"
+dest_files=["res://.godot/imported/brick-wall-curve.fbx-8b071a5bb4d5de1c2749119357ea1a1d.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://pfomr6c3e4ha"
-path="res://.godot/imported/crop_pumpkin.fbx-506b83109f2fada33e582946fe5c3566.scn"
+path="res://.godot/imported/crop_pumpkin.fbx-d69cba03357ba681119a48f1b86bed9e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/crop_pumpkin.fbx"
-dest_files=["res://.godot/imported/crop_pumpkin.fbx-506b83109f2fada33e582946fe5c3566.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/crop_pumpkin.fbx"
+dest_files=["res://.godot/imported/crop_pumpkin.fbx-d69cba03357ba681119a48f1b86bed9e.scn"]
 
 [params]
 

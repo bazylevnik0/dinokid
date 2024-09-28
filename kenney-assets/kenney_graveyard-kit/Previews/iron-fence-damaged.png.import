@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3gdnse37esmd"
-path="res://.godot/imported/iron-fence-damaged.png-c0f4c7575a98e33201e5c575024565ba.ctex"
+path="res://.godot/imported/iron-fence-damaged.png-3c4583de4335ee779116267c87857735.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/iron-fence-damaged.png"
-dest_files=["res://.godot/imported/iron-fence-damaged.png-c0f4c7575a98e33201e5c575024565ba.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/iron-fence-damaged.png"
+dest_files=["res://.godot/imported/iron-fence-damaged.png-3c4583de4335ee779116267c87857735.ctex"]
 
 [params]
 

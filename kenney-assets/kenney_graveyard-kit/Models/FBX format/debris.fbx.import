@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://q2h6xjggrcgm"
-path="res://.godot/imported/debris.fbx-a90c8d1f4ebc7da40cefa6a8be2c613f.scn"
+path="res://.godot/imported/debris.fbx-bc8ad401580a4a9e19f6c604ed7ea056.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/debris.fbx"
-dest_files=["res://.godot/imported/debris.fbx-a90c8d1f4ebc7da40cefa6a8be2c613f.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/debris.fbx"
+dest_files=["res://.godot/imported/debris.fbx-bc8ad401580a4a9e19f6c604ed7ea056.scn"]
 
 [params]
 

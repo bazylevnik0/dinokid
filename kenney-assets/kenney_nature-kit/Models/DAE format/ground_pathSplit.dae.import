@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cpflibnsdxblv"
-path="res://.godot/imported/ground_pathSplit.dae-807666eddc30421fe282cf49134ff705.scn"
+path="res://.godot/imported/ground_pathSplit.dae-c516a6790ceee52d2e4d7c26f5e10b54.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_pathSplit.dae"
-dest_files=["res://.godot/imported/ground_pathSplit.dae-807666eddc30421fe282cf49134ff705.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/ground_pathSplit.dae"
+dest_files=["res://.godot/imported/ground_pathSplit.dae-c516a6790ceee52d2e4d7c26f5e10b54.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qtqwbrapwfdg"
-path="res://.godot/imported/trap-spikes-large.png-26031df2ae0cbeb151463f08ebaddcd7.ctex"
+path="res://.godot/imported/trap-spikes-large.png-bee4396a9ca6e8978732f13dd7be0878.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/trap-spikes-large.png"
-dest_files=["res://.godot/imported/trap-spikes-large.png-26031df2ae0cbeb151463f08ebaddcd7.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/trap-spikes-large.png"
+dest_files=["res://.godot/imported/trap-spikes-large.png-bee4396a9ca6e8978732f13dd7be0878.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1h2e3xaddsgu"
-path="res://.godot/imported/ground_pathBendBank_SW.png-8f5f3f2636eb88f1af75ac9cc04a5bb2.ctex"
+path="res://.godot/imported/ground_pathBendBank_SW.png-55327ef39144a0c5fab4a04fbf1357e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/ground_pathBendBank_SW.png"
-dest_files=["res://.godot/imported/ground_pathBendBank_SW.png-8f5f3f2636eb88f1af75ac9cc04a5bb2.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/ground_pathBendBank_SW.png"
+dest_files=["res://.godot/imported/ground_pathBendBank_SW.png-55327ef39144a0c5fab4a04fbf1357e4.ctex"]
 
 [params]
 

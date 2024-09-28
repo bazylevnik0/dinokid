@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://2wmcm5ubvhso"
-path="res://.godot/imported/plant_bushSmall.dae-f1ed6e89c60ca1fc6a882864f245a794.scn"
+path="res://.godot/imported/plant_bushSmall.dae-0194f3ea9e0f81180c70e7309d72b1af.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/plant_bushSmall.dae"
-dest_files=["res://.godot/imported/plant_bushSmall.dae-f1ed6e89c60ca1fc6a882864f245a794.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/plant_bushSmall.dae"
+dest_files=["res://.godot/imported/plant_bushSmall.dae-0194f3ea9e0f81180c70e7309d72b1af.scn"]
 
 [params]
 

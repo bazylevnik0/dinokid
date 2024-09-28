@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cd2cew53qql10"
-path="res://.godot/imported/fence.fbx-0e31b06118f6eb0acfa14290186a6bd1.scn"
+path="res://.godot/imported/fence.fbx-de8b793c9b63adcfdbbd81bfa0c43d5f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/fence.fbx"
-dest_files=["res://.godot/imported/fence.fbx-0e31b06118f6eb0acfa14290186a6bd1.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/fence.fbx"
+dest_files=["res://.godot/imported/fence.fbx-de8b793c9b63adcfdbbd81bfa0c43d5f.scn"]
 
 [params]
 

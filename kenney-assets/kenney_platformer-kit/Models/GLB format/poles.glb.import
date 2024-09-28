@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://byh1w2v5id5e7"
-path="res://.godot/imported/poles.glb-6c06c7e03379e95764c991a6944a52f2.scn"
+path="res://.godot/imported/poles.glb-e7600194217ef42bdfa62e3a9b590da0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/poles.glb"
-dest_files=["res://.godot/imported/poles.glb-6c06c7e03379e95764c991a6944a52f2.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/GLB format/poles.glb"
+dest_files=["res://.godot/imported/poles.glb-e7600194217ef42bdfa62e3a9b590da0.scn"]
 
 [params]
 

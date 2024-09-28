@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y3hvivp0a0o4"
-path="res://.godot/imported/gravestone-cross.png-4ead5a0465bf3de1ccea2379da8a5580.ctex"
+path="res://.godot/imported/gravestone-cross.png-5d66723af39a7ad8892d31ae3d59eaa9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/gravestone-cross.png"
-dest_files=["res://.godot/imported/gravestone-cross.png-4ead5a0465bf3de1ccea2379da8a5580.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/gravestone-cross.png"
+dest_files=["res://.godot/imported/gravestone-cross.png-5d66723af39a7ad8892d31ae3d59eaa9.ctex"]
 
 [params]
 

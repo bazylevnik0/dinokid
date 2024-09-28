@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dporeeh5wvp0k"
-path="res://.godot/imported/mushroom_tan_SE.png-9537257b53196e875879d244a824471b.ctex"
+path="res://.godot/imported/mushroom_tan_SE.png-9ccd918f9e3660541de8da7c1be1ce39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/mushroom_tan_SE.png"
-dest_files=["res://.godot/imported/mushroom_tan_SE.png-9537257b53196e875879d244a824471b.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/mushroom_tan_SE.png"
+dest_files=["res://.godot/imported/mushroom_tan_SE.png-9ccd918f9e3660541de8da7c1be1ce39.ctex"]
 
 [params]
 

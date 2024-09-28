@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dt3oc3fqkxfwu"
-path="res://.godot/imported/heart.obj-1c7358be24c23a968edd69ebeca1dfa4.mesh"
+path="res://.godot/imported/heart.obj-c79c2f914f4286f167fa5c13650ba508.mesh"
 
 [deps]
 
-files=["res://.godot/imported/heart.obj-1c7358be24c23a968edd69ebeca1dfa4.mesh"]
+files=["res://.godot/imported/heart.obj-c79c2f914f4286f167fa5c13650ba508.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/heart.obj"
-dest_files=["res://.godot/imported/heart.obj-1c7358be24c23a968edd69ebeca1dfa4.mesh", "res://.godot/imported/heart.obj-1c7358be24c23a968edd69ebeca1dfa4.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/heart.obj"
+dest_files=["res://.godot/imported/heart.obj-c79c2f914f4286f167fa5c13650ba508.mesh", "res://.godot/imported/heart.obj-c79c2f914f4286f167fa5c13650ba508.mesh"]
 
 [params]
 

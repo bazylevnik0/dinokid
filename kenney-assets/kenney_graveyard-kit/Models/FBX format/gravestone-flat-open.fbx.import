@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dm1ftowd5lbex"
-path="res://.godot/imported/gravestone-flat-open.fbx-240bb5f88d9335923966245b2a17990c.scn"
+path="res://.godot/imported/gravestone-flat-open.fbx-def2764822d33e07a79a7afa6caf87dd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/gravestone-flat-open.fbx"
-dest_files=["res://.godot/imported/gravestone-flat-open.fbx-240bb5f88d9335923966245b2a17990c.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/gravestone-flat-open.fbx"
+dest_files=["res://.godot/imported/gravestone-flat-open.fbx-def2764822d33e07a79a7afa6caf87dd.scn"]
 
 [params]
 

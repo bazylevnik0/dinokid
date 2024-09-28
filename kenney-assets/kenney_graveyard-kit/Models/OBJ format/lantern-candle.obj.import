@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dk5qc7eyuuhpa"
-path="res://.godot/imported/lantern-candle.obj-923486829ed66d127087a5779b1793f0.mesh"
+path="res://.godot/imported/lantern-candle.obj-fa72e7e4ede58a7f1bb6b88367c63ef9.mesh"
 
 [deps]
 
-files=["res://.godot/imported/lantern-candle.obj-923486829ed66d127087a5779b1793f0.mesh"]
+files=["res://.godot/imported/lantern-candle.obj-fa72e7e4ede58a7f1bb6b88367c63ef9.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/lantern-candle.obj"
-dest_files=["res://.godot/imported/lantern-candle.obj-923486829ed66d127087a5779b1793f0.mesh", "res://.godot/imported/lantern-candle.obj-923486829ed66d127087a5779b1793f0.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/lantern-candle.obj"
+dest_files=["res://.godot/imported/lantern-candle.obj-fa72e7e4ede58a7f1bb6b88367c63ef9.mesh", "res://.godot/imported/lantern-candle.obj-fa72e7e4ede58a7f1bb6b88367c63ef9.mesh"]
 
 [params]
 

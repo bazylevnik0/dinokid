@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://xdhf7ce5xbmi"
-path="res://.godot/imported/tent_detailedOpen.obj-73657a97f2b42bd5318180670dffe1d8.mesh"
+path="res://.godot/imported/tent_detailedOpen.obj-962cf746bcdbb54249cc3b0237b4d887.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tent_detailedOpen.obj-73657a97f2b42bd5318180670dffe1d8.mesh"]
+files=["res://.godot/imported/tent_detailedOpen.obj-962cf746bcdbb54249cc3b0237b4d887.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tent_detailedOpen.obj"
-dest_files=["res://.godot/imported/tent_detailedOpen.obj-73657a97f2b42bd5318180670dffe1d8.mesh", "res://.godot/imported/tent_detailedOpen.obj-73657a97f2b42bd5318180670dffe1d8.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tent_detailedOpen.obj"
+dest_files=["res://.godot/imported/tent_detailedOpen.obj-962cf746bcdbb54249cc3b0237b4d887.mesh", "res://.godot/imported/tent_detailedOpen.obj-962cf746bcdbb54249cc3b0237b4d887.mesh"]
 
 [params]
 

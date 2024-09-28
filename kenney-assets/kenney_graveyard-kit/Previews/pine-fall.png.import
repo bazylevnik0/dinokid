@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://catmbf43ncfc8"
-path="res://.godot/imported/pine-fall.png-431b782b2d5ab8c0044480814495450d.ctex"
+path="res://.godot/imported/pine-fall.png-1eed77b2a12b007b4700912cb9307935.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/pine-fall.png"
-dest_files=["res://.godot/imported/pine-fall.png-431b782b2d5ab8c0044480814495450d.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/pine-fall.png"
+dest_files=["res://.godot/imported/pine-fall.png-1eed77b2a12b007b4700912cb9307935.ctex"]
 
 [params]
 

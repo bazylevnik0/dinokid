@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://by1b4seqe4cl8"
-path="res://.godot/imported/coffin.obj-fc79e9d82fb1a41403e294993af043c8.mesh"
+path="res://.godot/imported/coffin.obj-117319f5be211d136419f9011bdb2ca8.mesh"
 
 [deps]
 
-files=["res://.godot/imported/coffin.obj-fc79e9d82fb1a41403e294993af043c8.mesh"]
+files=["res://.godot/imported/coffin.obj-117319f5be211d136419f9011bdb2ca8.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/coffin.obj"
-dest_files=["res://.godot/imported/coffin.obj-fc79e9d82fb1a41403e294993af043c8.mesh", "res://.godot/imported/coffin.obj-fc79e9d82fb1a41403e294993af043c8.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/coffin.obj"
+dest_files=["res://.godot/imported/coffin.obj-117319f5be211d136419f9011bdb2ca8.mesh", "res://.godot/imported/coffin.obj-117319f5be211d136419f9011bdb2ca8.mesh"]
 
 [params]
 

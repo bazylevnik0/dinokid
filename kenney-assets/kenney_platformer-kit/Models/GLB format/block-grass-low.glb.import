@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://kqtggtybuev2"
-path="res://.godot/imported/block-grass-low.glb-aa9c39a53c6562870fdf65f8234cb719.scn"
+path="res://.godot/imported/block-grass-low.glb-3bf473aceab0f8719e9916674a810548.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-low.glb"
-dest_files=["res://.godot/imported/block-grass-low.glb-aa9c39a53c6562870fdf65f8234cb719.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/GLB format/block-grass-low.glb"
+dest_files=["res://.godot/imported/block-grass-low.glb-3bf473aceab0f8719e9916674a810548.scn"]
 
 [params]
 

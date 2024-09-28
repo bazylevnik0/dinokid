@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://67cv4o8n7vc8"
-path="res://.godot/imported/bomb.obj-86e7cae34a08f49b29e91c76af7c4f55.mesh"
+path="res://.godot/imported/bomb.obj-dc80429b3eda290a3e741f71fe13ecc0.mesh"
 
 [deps]
 
-files=["res://.godot/imported/bomb.obj-86e7cae34a08f49b29e91c76af7c4f55.mesh"]
+files=["res://.godot/imported/bomb.obj-dc80429b3eda290a3e741f71fe13ecc0.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/bomb.obj"
-dest_files=["res://.godot/imported/bomb.obj-86e7cae34a08f49b29e91c76af7c4f55.mesh", "res://.godot/imported/bomb.obj-86e7cae34a08f49b29e91c76af7c4f55.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/bomb.obj"
+dest_files=["res://.godot/imported/bomb.obj-dc80429b3eda290a3e741f71fe13ecc0.mesh", "res://.godot/imported/bomb.obj-dc80429b3eda290a3e741f71fe13ecc0.mesh"]
 
 [params]
 

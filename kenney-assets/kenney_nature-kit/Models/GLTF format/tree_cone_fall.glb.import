@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cdob7dcd05q58"
-path="res://.godot/imported/tree_cone_fall.glb-b7af48518873b48f243ed701e895d10e.scn"
+path="res://.godot/imported/tree_cone_fall.glb-63fc069aa924a896622f1444951829d0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/tree_cone_fall.glb"
-dest_files=["res://.godot/imported/tree_cone_fall.glb-b7af48518873b48f243ed701e895d10e.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/tree_cone_fall.glb"
+dest_files=["res://.godot/imported/tree_cone_fall.glb-63fc069aa924a896622f1444951829d0.scn"]
 
 [params]
 

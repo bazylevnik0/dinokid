@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cepl5vpmejopx"
-path="res://.godot/imported/ground_riverCornerSmall.fbx-82f9b3ef2f3de8de7f8a9b5af2972c0d.scn"
+path="res://.godot/imported/ground_riverCornerSmall.fbx-9219928495ac96b98dbdda6d9340fb52.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/ground_riverCornerSmall.fbx"
-dest_files=["res://.godot/imported/ground_riverCornerSmall.fbx-82f9b3ef2f3de8de7f8a9b5af2972c0d.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/ground_riverCornerSmall.fbx"
+dest_files=["res://.godot/imported/ground_riverCornerSmall.fbx-9219928495ac96b98dbdda6d9340fb52.scn"]
 
 [params]
 

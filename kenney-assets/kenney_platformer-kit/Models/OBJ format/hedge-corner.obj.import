@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dt7i22jpmiqq4"
-path="res://.godot/imported/hedge-corner.obj-b761c6666e692686173cd3ddefefd81b.mesh"
+path="res://.godot/imported/hedge-corner.obj-f1d50fed33eb9ec8b463bd1ef8d21e49.mesh"
 
 [deps]
 
-files=["res://.godot/imported/hedge-corner.obj-b761c6666e692686173cd3ddefefd81b.mesh"]
+files=["res://.godot/imported/hedge-corner.obj-f1d50fed33eb9ec8b463bd1ef8d21e49.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/hedge-corner.obj"
-dest_files=["res://.godot/imported/hedge-corner.obj-b761c6666e692686173cd3ddefefd81b.mesh", "res://.godot/imported/hedge-corner.obj-b761c6666e692686173cd3ddefefd81b.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/hedge-corner.obj"
+dest_files=["res://.godot/imported/hedge-corner.obj-f1d50fed33eb9ec8b463bd1ef8d21e49.mesh", "res://.godot/imported/hedge-corner.obj-f1d50fed33eb9ec8b463bd1ef8d21e49.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgo1a3bkawjnl"
-path="res://.godot/imported/platform_beach.png-783630d471d5e14fe267dabd1d772b90.ctex"
+path="res://.godot/imported/platform_beach.png-504dcb0cedd953374c13688a0fd023fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/platform_beach.png"
-dest_files=["res://.godot/imported/platform_beach.png-783630d471d5e14fe267dabd1d772b90.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/platform_beach.png"
+dest_files=["res://.godot/imported/platform_beach.png-504dcb0cedd953374c13688a0fd023fd.ctex"]
 
 [params]
 

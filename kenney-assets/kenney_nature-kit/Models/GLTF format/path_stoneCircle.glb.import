@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dj7ohm5viq7ft"
-path="res://.godot/imported/path_stoneCircle.glb-0d9008e4f16c98e6087b77831f84ff6c.scn"
+path="res://.godot/imported/path_stoneCircle.glb-eac12de7b90f232bfcb018d7a7f331ef.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/path_stoneCircle.glb"
-dest_files=["res://.godot/imported/path_stoneCircle.glb-0d9008e4f16c98e6087b77831f84ff6c.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/path_stoneCircle.glb"
+dest_files=["res://.godot/imported/path_stoneCircle.glb-eac12de7b90f232bfcb018d7a7f331ef.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dtf4cjhdv178s"
-path="res://.godot/imported/campfire_planks.fbx-acb2aacb2b4e6e62c1914477451546bd.scn"
+path="res://.godot/imported/campfire_planks.fbx-b9bc900a6a11e5733a6df17d0246104f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/campfire_planks.fbx"
-dest_files=["res://.godot/imported/campfire_planks.fbx-acb2aacb2b4e6e62c1914477451546bd.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/campfire_planks.fbx"
+dest_files=["res://.godot/imported/campfire_planks.fbx-b9bc900a6a11e5733a6df17d0246104f.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cu2b7pc846uk8"
-path="res://.godot/imported/rock_smallG.dae-319df5723f0b86d123649921333183a2.scn"
+path="res://.godot/imported/rock_smallG.dae-819d2743df52572b49e456a6676d5e74.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/rock_smallG.dae"
-dest_files=["res://.godot/imported/rock_smallG.dae-319df5723f0b86d123649921333183a2.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/rock_smallG.dae"
+dest_files=["res://.godot/imported/rock_smallG.dae-819d2743df52572b49e456a6676d5e74.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs35md3n66na4"
-path="res://.godot/imported/cliff_cave_rock_SW.png-27c21b4c9f123ffd25e9ffca4a612fa9.ctex"
+path="res://.godot/imported/cliff_cave_rock_SW.png-59eab353060fdbe8fc776b9f9a8c70fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/cliff_cave_rock_SW.png"
-dest_files=["res://.godot/imported/cliff_cave_rock_SW.png-27c21b4c9f123ffd25e9ffca4a612fa9.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/cliff_cave_rock_SW.png"
+dest_files=["res://.godot/imported/cliff_cave_rock_SW.png-59eab353060fdbe8fc776b9f9a8c70fb.ctex"]
 
 [params]
 

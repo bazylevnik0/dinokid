@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://wsifsli5i7lp"
-path="res://.godot/imported/lily_small.obj-4b3ed98d0cfdb852a64a6cc1fa70dd17.mesh"
+path="res://.godot/imported/lily_small.obj-f93d4b44ccc890e7dacec384094017d7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/lily_small.obj-4b3ed98d0cfdb852a64a6cc1fa70dd17.mesh"]
+files=["res://.godot/imported/lily_small.obj-f93d4b44ccc890e7dacec384094017d7.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/lily_small.obj"
-dest_files=["res://.godot/imported/lily_small.obj-4b3ed98d0cfdb852a64a6cc1fa70dd17.mesh", "res://.godot/imported/lily_small.obj-4b3ed98d0cfdb852a64a6cc1fa70dd17.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/lily_small.obj"
+dest_files=["res://.godot/imported/lily_small.obj-f93d4b44ccc890e7dacec384094017d7.mesh", "res://.godot/imported/lily_small.obj-f93d4b44ccc890e7dacec384094017d7.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dthjuvfo8ka28"
-path="res://.godot/imported/pine-crooked.png-823fdbf2814e8ffead4dc6ee3cdab423.ctex"
+path="res://.godot/imported/pine-crooked.png-21cdf228e3769db95a52616ba49ae13f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/pine-crooked.png"
-dest_files=["res://.godot/imported/pine-crooked.png-823fdbf2814e8ffead4dc6ee3cdab423.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/pine-crooked.png"
+dest_files=["res://.godot/imported/pine-crooked.png-21cdf228e3769db95a52616ba49ae13f.ctex"]
 
 [params]
 

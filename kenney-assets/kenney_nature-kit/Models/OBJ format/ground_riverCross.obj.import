@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cemllexuimbo5"
-path="res://.godot/imported/ground_riverCross.obj-5bf532095af6840e6968c37e66462ecb.mesh"
+path="res://.godot/imported/ground_riverCross.obj-9dda34224227b175f3308f40016c4ab7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/ground_riverCross.obj-5bf532095af6840e6968c37e66462ecb.mesh"]
+files=["res://.godot/imported/ground_riverCross.obj-9dda34224227b175f3308f40016c4ab7.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_riverCross.obj"
-dest_files=["res://.godot/imported/ground_riverCross.obj-5bf532095af6840e6968c37e66462ecb.mesh", "res://.godot/imported/ground_riverCross.obj-5bf532095af6840e6968c37e66462ecb.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/ground_riverCross.obj"
+dest_files=["res://.godot/imported/ground_riverCross.obj-9dda34224227b175f3308f40016c4ab7.mesh", "res://.godot/imported/ground_riverCross.obj-9dda34224227b175f3308f40016c4ab7.mesh"]
 
 [params]
 

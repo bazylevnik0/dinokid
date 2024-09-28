@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://duatcvqkxnqfl"
-path="res://.godot/imported/ground_riverCross.glb-9d4b06c4730806221d2d2c5824e45ff2.scn"
+path="res://.godot/imported/ground_riverCross.glb-28b66b957d9b95d32bbe97f173541c94.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverCross.glb"
-dest_files=["res://.godot/imported/ground_riverCross.glb-9d4b06c4730806221d2d2c5824e45ff2.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/ground_riverCross.glb"
+dest_files=["res://.godot/imported/ground_riverCross.glb-28b66b957d9b95d32bbe97f173541c94.scn"]
 
 [params]
 

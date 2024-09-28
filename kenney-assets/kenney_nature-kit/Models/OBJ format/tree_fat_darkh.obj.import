@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://brqufad061gxc"
-path="res://.godot/imported/tree_fat_darkh.obj-66b9a8bbb435fee5ed40b9bdd0abcb0d.mesh"
+path="res://.godot/imported/tree_fat_darkh.obj-e0a17df3f0e2a52d7bbc65f834f748bc.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree_fat_darkh.obj-66b9a8bbb435fee5ed40b9bdd0abcb0d.mesh"]
+files=["res://.godot/imported/tree_fat_darkh.obj-e0a17df3f0e2a52d7bbc65f834f748bc.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_fat_darkh.obj"
-dest_files=["res://.godot/imported/tree_fat_darkh.obj-66b9a8bbb435fee5ed40b9bdd0abcb0d.mesh", "res://.godot/imported/tree_fat_darkh.obj-66b9a8bbb435fee5ed40b9bdd0abcb0d.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_fat_darkh.obj"
+dest_files=["res://.godot/imported/tree_fat_darkh.obj-e0a17df3f0e2a52d7bbc65f834f748bc.mesh", "res://.godot/imported/tree_fat_darkh.obj-e0a17df3f0e2a52d7bbc65f834f748bc.mesh"]
 
 [params]
 

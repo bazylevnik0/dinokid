@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dsd4uuv1moo6x"
-path="res://.godot/imported/cross.glb-678fca556e049a6ea656b97233faf1cd.scn"
+path="res://.godot/imported/cross.glb-71c9478a456724b29c6e66383b2ec501.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/cross.glb"
-dest_files=["res://.godot/imported/cross.glb-678fca556e049a6ea656b97233faf1cd.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/cross.glb"
+dest_files=["res://.godot/imported/cross.glb-71c9478a456724b29c6e66383b2ec501.scn"]
 
 [params]
 

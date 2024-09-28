@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c3w807sqpjckh"
-path="res://.godot/imported/ground_pathEndClosed.obj-931429dbf49c4d6e431670816da4191a.mesh"
+path="res://.godot/imported/ground_pathEndClosed.obj-b06eadc870fc7027031562c62930fae2.mesh"
 
 [deps]
 
-files=["res://.godot/imported/ground_pathEndClosed.obj-931429dbf49c4d6e431670816da4191a.mesh"]
+files=["res://.godot/imported/ground_pathEndClosed.obj-b06eadc870fc7027031562c62930fae2.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_pathEndClosed.obj"
-dest_files=["res://.godot/imported/ground_pathEndClosed.obj-931429dbf49c4d6e431670816da4191a.mesh", "res://.godot/imported/ground_pathEndClosed.obj-931429dbf49c4d6e431670816da4191a.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/ground_pathEndClosed.obj"
+dest_files=["res://.godot/imported/ground_pathEndClosed.obj-b06eadc870fc7027031562c62930fae2.mesh", "res://.godot/imported/ground_pathEndClosed.obj-b06eadc870fc7027031562c62930fae2.mesh"]
 
 [params]
 

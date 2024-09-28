@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cum2elqr0ue0e"
-path="res://.godot/imported/stone_smallFlatA.obj-8d1f3da5970c8a2c1dd21e2e218094e3.mesh"
+path="res://.godot/imported/stone_smallFlatA.obj-e04bdc482333bf8aa3e164a2ff8e77b7.mesh"
 
 [deps]
 
-files=["res://.godot/imported/stone_smallFlatA.obj-8d1f3da5970c8a2c1dd21e2e218094e3.mesh"]
+files=["res://.godot/imported/stone_smallFlatA.obj-e04bdc482333bf8aa3e164a2ff8e77b7.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/stone_smallFlatA.obj"
-dest_files=["res://.godot/imported/stone_smallFlatA.obj-8d1f3da5970c8a2c1dd21e2e218094e3.mesh", "res://.godot/imported/stone_smallFlatA.obj-8d1f3da5970c8a2c1dd21e2e218094e3.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/stone_smallFlatA.obj"
+dest_files=["res://.godot/imported/stone_smallFlatA.obj-e04bdc482333bf8aa3e164a2ff8e77b7.mesh", "res://.godot/imported/stone_smallFlatA.obj-e04bdc482333bf8aa3e164a2ff8e77b7.mesh"]
 
 [params]
 

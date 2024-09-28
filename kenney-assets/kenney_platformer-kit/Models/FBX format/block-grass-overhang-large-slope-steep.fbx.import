@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cb1l71qcxkth3"
-path="res://.godot/imported/block-grass-overhang-large-slope-steep.fbx-80fb210754a5d2051a4004fbf122c399.scn"
+path="res://.godot/imported/block-grass-overhang-large-slope-steep.fbx-5f3d691332a13c02730274b2c501fb2e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-overhang-large-slope-steep.fbx"
-dest_files=["res://.godot/imported/block-grass-overhang-large-slope-steep.fbx-80fb210754a5d2051a4004fbf122c399.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/FBX format/block-grass-overhang-large-slope-steep.fbx"
+dest_files=["res://.godot/imported/block-grass-overhang-large-slope-steep.fbx-5f3d691332a13c02730274b2c501fb2e.scn"]
 
 [params]
 

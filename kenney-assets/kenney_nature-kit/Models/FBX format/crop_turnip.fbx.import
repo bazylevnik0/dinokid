@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6jn4sahcf02d"
-path="res://.godot/imported/crop_turnip.fbx-abca56b4b60c715b0e1bb125fe787618.scn"
+path="res://.godot/imported/crop_turnip.fbx-079b27d38c6525cae7f07966dfc424c8.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/crop_turnip.fbx"
-dest_files=["res://.godot/imported/crop_turnip.fbx-abca56b4b60c715b0e1bb125fe787618.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/crop_turnip.fbx"
+dest_files=["res://.godot/imported/crop_turnip.fbx-079b27d38c6525cae7f07966dfc424c8.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyrsvskk8isyf"
-path="res://.godot/imported/bed_SW.png-baf878020a357b2e9620a93ab6028c32.ctex"
+path="res://.godot/imported/bed_SW.png-63f26572b2ce190e63ad32fe3b063c42.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/bed_SW.png"
-dest_files=["res://.godot/imported/bed_SW.png-baf878020a357b2e9620a93ab6028c32.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/bed_SW.png"
+dest_files=["res://.godot/imported/bed_SW.png-63f26572b2ce190e63ad32fe3b063c42.ctex"]
 
 [params]
 

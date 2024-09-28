@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jmsmih52ombe"
-path="res://.godot/imported/stone_smallF.png-b8ff7d4770e282c1da8ca1f6bb48421f.ctex"
+path="res://.godot/imported/stone_smallF.png-2bb84708b1ea2a16d84e46d31f75e675.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/stone_smallF.png"
-dest_files=["res://.godot/imported/stone_smallF.png-b8ff7d4770e282c1da8ca1f6bb48421f.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/stone_smallF.png"
+dest_files=["res://.godot/imported/stone_smallF.png-2bb84708b1ea2a16d84e46d31f75e675.ctex"]
 
 [params]
 

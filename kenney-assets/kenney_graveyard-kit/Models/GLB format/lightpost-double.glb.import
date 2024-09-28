@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://rsmplhnxihlf"
-path="res://.godot/imported/lightpost-double.glb-7a2842f4de57281a4201a34df1b8163a.scn"
+path="res://.godot/imported/lightpost-double.glb-031e450b12b71d8a026484924d4266cd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/lightpost-double.glb"
-dest_files=["res://.godot/imported/lightpost-double.glb-7a2842f4de57281a4201a34df1b8163a.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/lightpost-double.glb"
+dest_files=["res://.godot/imported/lightpost-double.glb-031e450b12b71d8a026484924d4266cd.scn"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://m28dpefeag42"
-path="res://.godot/imported/flower_redB.obj-41cf3a7c68e97b60b2779786e84bac3e.mesh"
+path="res://.godot/imported/flower_redB.obj-d7eb8e7a4f2894d46bc023536ab5ba59.mesh"
 
 [deps]
 
-files=["res://.godot/imported/flower_redB.obj-41cf3a7c68e97b60b2779786e84bac3e.mesh"]
+files=["res://.godot/imported/flower_redB.obj-d7eb8e7a4f2894d46bc023536ab5ba59.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/flower_redB.obj"
-dest_files=["res://.godot/imported/flower_redB.obj-41cf3a7c68e97b60b2779786e84bac3e.mesh", "res://.godot/imported/flower_redB.obj-41cf3a7c68e97b60b2779786e84bac3e.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/flower_redB.obj"
+dest_files=["res://.godot/imported/flower_redB.obj-d7eb8e7a4f2894d46bc023536ab5ba59.mesh", "res://.godot/imported/flower_redB.obj-d7eb8e7a4f2894d46bc023536ab5ba59.mesh"]
 
 [params]
 

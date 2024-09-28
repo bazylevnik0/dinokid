@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://chvhmpb303iox"
-path="res://.godot/imported/gravestone-round.obj-19022fd393c7058c2666c41459a1a39e.mesh"
+path="res://.godot/imported/gravestone-round.obj-9783b74bd3bc00506153b682084d9820.mesh"
 
 [deps]
 
-files=["res://.godot/imported/gravestone-round.obj-19022fd393c7058c2666c41459a1a39e.mesh"]
+files=["res://.godot/imported/gravestone-round.obj-9783b74bd3bc00506153b682084d9820.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/gravestone-round.obj"
-dest_files=["res://.godot/imported/gravestone-round.obj-19022fd393c7058c2666c41459a1a39e.mesh", "res://.godot/imported/gravestone-round.obj-19022fd393c7058c2666c41459a1a39e.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/gravestone-round.obj"
+dest_files=["res://.godot/imported/gravestone-round.obj-9783b74bd3bc00506153b682084d9820.mesh", "res://.godot/imported/gravestone-round.obj-9783b74bd3bc00506153b682084d9820.mesh"]
 
 [params]
 

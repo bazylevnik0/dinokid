@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c34knenssmy61"
-path="res://.godot/imported/block-snow-large.obj-e22e866eb2a6a19a0f75066b22253ea0.mesh"
+path="res://.godot/imported/block-snow-large.obj-ad2fda2735c94b8eb3f6596aad29bfd1.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-large.obj-e22e866eb2a6a19a0f75066b22253ea0.mesh"]
+files=["res://.godot/imported/block-snow-large.obj-ad2fda2735c94b8eb3f6596aad29bfd1.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-snow-large.obj"
-dest_files=["res://.godot/imported/block-snow-large.obj-e22e866eb2a6a19a0f75066b22253ea0.mesh", "res://.godot/imported/block-snow-large.obj-e22e866eb2a6a19a0f75066b22253ea0.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/block-snow-large.obj"
+dest_files=["res://.godot/imported/block-snow-large.obj-ad2fda2735c94b8eb3f6596aad29bfd1.mesh", "res://.godot/imported/block-snow-large.obj-ad2fda2735c94b8eb3f6596aad29bfd1.mesh"]
 
 [params]
 

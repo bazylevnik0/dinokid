@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bse1yomgbelv1"
-path="res://.godot/imported/iron-fence.glb-3fc8b3e0ff27bd58d5e5498dc379ddd2.scn"
+path="res://.godot/imported/iron-fence.glb-719e233dfe061abbd7f86c3ad1c7a01b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/iron-fence.glb"
-dest_files=["res://.godot/imported/iron-fence.glb-3fc8b3e0ff27bd58d5e5498dc379ddd2.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/iron-fence.glb"
+dest_files=["res://.godot/imported/iron-fence.glb-719e233dfe061abbd7f86c3ad1c7a01b.scn"]
 
 [params]
 

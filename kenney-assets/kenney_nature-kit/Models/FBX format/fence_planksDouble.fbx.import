@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dy8e8enncnvyl"
-path="res://.godot/imported/fence_planksDouble.fbx-f793ffa9b4ee1f969f7fd685106bbc33.scn"
+path="res://.godot/imported/fence_planksDouble.fbx-c264ae75be958abb32af5746fbfee1da.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/fence_planksDouble.fbx"
-dest_files=["res://.godot/imported/fence_planksDouble.fbx-f793ffa9b4ee1f969f7fd685106bbc33.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/fence_planksDouble.fbx"
+dest_files=["res://.godot/imported/fence_planksDouble.fbx-c264ae75be958abb32af5746fbfee1da.scn"]
 
 [params]
 

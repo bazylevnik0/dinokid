@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://rgb117fgn3uj"
-path="res://.godot/imported/bench-damaged.obj-0739eea582b9f7d3748c687a48a1c2ab.mesh"
+path="res://.godot/imported/bench-damaged.obj-5b4a63f93586ee0cd61e360d16d244bc.mesh"
 
 [deps]
 
-files=["res://.godot/imported/bench-damaged.obj-0739eea582b9f7d3748c687a48a1c2ab.mesh"]
+files=["res://.godot/imported/bench-damaged.obj-5b4a63f93586ee0cd61e360d16d244bc.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/bench-damaged.obj"
-dest_files=["res://.godot/imported/bench-damaged.obj-0739eea582b9f7d3748c687a48a1c2ab.mesh", "res://.godot/imported/bench-damaged.obj-0739eea582b9f7d3748c687a48a1c2ab.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/bench-damaged.obj"
+dest_files=["res://.godot/imported/bench-damaged.obj-5b4a63f93586ee0cd61e360d16d244bc.mesh", "res://.godot/imported/bench-damaged.obj-5b4a63f93586ee0cd61e360d16d244bc.mesh"]
 
 [params]
 

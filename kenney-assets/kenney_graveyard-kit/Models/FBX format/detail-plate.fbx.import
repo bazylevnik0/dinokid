@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bwmeerdmd3uix"
-path="res://.godot/imported/detail-plate.fbx-f5d7f64c34f568db4c57af749156c49c.scn"
+path="res://.godot/imported/detail-plate.fbx-faec34976d578f430aea325a2dce459a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/detail-plate.fbx"
-dest_files=["res://.godot/imported/detail-plate.fbx-f5d7f64c34f568db4c57af749156c49c.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/detail-plate.fbx"
+dest_files=["res://.godot/imported/detail-plate.fbx-faec34976d578f430aea325a2dce459a.scn"]
 
 [params]
 

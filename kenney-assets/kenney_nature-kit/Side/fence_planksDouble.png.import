@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bng5nuxdnfqi3"
-path="res://.godot/imported/fence_planksDouble.png-2043833b0ce921443ba5f7e6fe67b2b8.ctex"
+path="res://.godot/imported/fence_planksDouble.png-c7a793791effd45e394baa32d2623e0a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/fence_planksDouble.png"
-dest_files=["res://.godot/imported/fence_planksDouble.png-2043833b0ce921443ba5f7e6fe67b2b8.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/fence_planksDouble.png"
+dest_files=["res://.godot/imported/fence_planksDouble.png-c7a793791effd45e394baa32d2623e0a.ctex"]
 
 [params]
 

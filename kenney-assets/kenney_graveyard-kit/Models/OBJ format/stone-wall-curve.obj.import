@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://oe4matio4m20"
-path="res://.godot/imported/stone-wall-curve.obj-455c0e412124dbe8ff8304d88d922b8b.mesh"
+path="res://.godot/imported/stone-wall-curve.obj-cc6a5d0c83c88a45873ceff5e3999042.mesh"
 
 [deps]
 
-files=["res://.godot/imported/stone-wall-curve.obj-455c0e412124dbe8ff8304d88d922b8b.mesh"]
+files=["res://.godot/imported/stone-wall-curve.obj-cc6a5d0c83c88a45873ceff5e3999042.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/stone-wall-curve.obj"
-dest_files=["res://.godot/imported/stone-wall-curve.obj-455c0e412124dbe8ff8304d88d922b8b.mesh", "res://.godot/imported/stone-wall-curve.obj-455c0e412124dbe8ff8304d88d922b8b.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/stone-wall-curve.obj"
+dest_files=["res://.godot/imported/stone-wall-curve.obj-cc6a5d0c83c88a45873ceff5e3999042.mesh", "res://.godot/imported/stone-wall-curve.obj-cc6a5d0c83c88a45873ceff5e3999042.mesh"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cnfq8e3dmdxp4"
-path="res://.godot/imported/platform.obj-166a00c661abd23ffda9f56b5bd24a5d.mesh"
+path="res://.godot/imported/platform.obj-d45d85315460ed434361348bb5216809.mesh"
 
 [deps]
 
-files=["res://.godot/imported/platform.obj-166a00c661abd23ffda9f56b5bd24a5d.mesh"]
+files=["res://.godot/imported/platform.obj-d45d85315460ed434361348bb5216809.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/platform.obj"
-dest_files=["res://.godot/imported/platform.obj-166a00c661abd23ffda9f56b5bd24a5d.mesh", "res://.godot/imported/platform.obj-166a00c661abd23ffda9f56b5bd24a5d.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/platform.obj"
+dest_files=["res://.godot/imported/platform.obj-d45d85315460ed434361348bb5216809.mesh", "res://.godot/imported/platform.obj-d45d85315460ed434361348bb5216809.mesh"]
 
 [params]
 

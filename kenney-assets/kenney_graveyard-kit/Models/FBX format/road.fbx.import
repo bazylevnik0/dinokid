@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bsoa5gg044f15"
-path="res://.godot/imported/road.fbx-317bca8d7027c418394ffcb41324c3ef.scn"
+path="res://.godot/imported/road.fbx-75a03f9b8dc86054d462f3e969e161b5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/road.fbx"
-dest_files=["res://.godot/imported/road.fbx-317bca8d7027c418394ffcb41324c3ef.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/road.fbx"
+dest_files=["res://.godot/imported/road.fbx-75a03f9b8dc86054d462f3e969e161b5.scn"]
 
 [params]
 

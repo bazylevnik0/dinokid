@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dpfmwwu5umahe"
-path="res://.godot/imported/cactus_short.dae-6e5da917f4750af1e317ff4ea1d328e7.scn"
+path="res://.godot/imported/cactus_short.dae-35eeb7548352646a94a7d1205f24dcb4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/cactus_short.dae"
-dest_files=["res://.godot/imported/cactus_short.dae-6e5da917f4750af1e317ff4ea1d328e7.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/cactus_short.dae"
+dest_files=["res://.godot/imported/cactus_short.dae-35eeb7548352646a94a7d1205f24dcb4.scn"]
 
 [params]
 

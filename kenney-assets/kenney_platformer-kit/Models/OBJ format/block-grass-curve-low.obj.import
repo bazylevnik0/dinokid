@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://7aa2bwrr7uyq"
-path="res://.godot/imported/block-grass-curve-low.obj-95b8b96542111128fd8672dd4cf06953.mesh"
+path="res://.godot/imported/block-grass-curve-low.obj-abbbaf8887f2a32b654a18fafb809900.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-grass-curve-low.obj-95b8b96542111128fd8672dd4cf06953.mesh"]
+files=["res://.godot/imported/block-grass-curve-low.obj-abbbaf8887f2a32b654a18fafb809900.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-curve-low.obj"
-dest_files=["res://.godot/imported/block-grass-curve-low.obj-95b8b96542111128fd8672dd4cf06953.mesh", "res://.godot/imported/block-grass-curve-low.obj-95b8b96542111128fd8672dd4cf06953.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/block-grass-curve-low.obj"
+dest_files=["res://.godot/imported/block-grass-curve-low.obj-abbbaf8887f2a32b654a18fafb809900.mesh", "res://.godot/imported/block-grass-curve-low.obj-abbbaf8887f2a32b654a18fafb809900.mesh"]
 
 [params]
 

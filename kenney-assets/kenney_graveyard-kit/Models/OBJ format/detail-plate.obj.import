@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c330j25wn15rb"
-path="res://.godot/imported/detail-plate.obj-82a8e32097fb66c700f13dd554cebf18.mesh"
+path="res://.godot/imported/detail-plate.obj-567d4471e81b5fe1b1feb15e9c3d893e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/detail-plate.obj-82a8e32097fb66c700f13dd554cebf18.mesh"]
+files=["res://.godot/imported/detail-plate.obj-567d4471e81b5fe1b1feb15e9c3d893e.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/detail-plate.obj"
-dest_files=["res://.godot/imported/detail-plate.obj-82a8e32097fb66c700f13dd554cebf18.mesh", "res://.godot/imported/detail-plate.obj-82a8e32097fb66c700f13dd554cebf18.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/detail-plate.obj"
+dest_files=["res://.godot/imported/detail-plate.obj-567d4471e81b5fe1b1feb15e9c3d893e.mesh", "res://.godot/imported/detail-plate.obj-567d4471e81b5fe1b1feb15e9c3d893e.mesh"]
 
 [params]
 

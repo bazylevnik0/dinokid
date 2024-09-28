@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gc0phhaufel5"
-path="res://.godot/imported/tree_cone.png-e6a2ca22d7faf308766ce349faf659b7.ctex"
+path="res://.godot/imported/tree_cone.png-436cfe5ff820424f04767fef730bb8cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/tree_cone.png"
-dest_files=["res://.godot/imported/tree_cone.png-e6a2ca22d7faf308766ce349faf659b7.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/tree_cone.png"
+dest_files=["res://.godot/imported/tree_cone.png-436cfe5ff820424f04767fef730bb8cc.ctex"]
 
 [params]
 

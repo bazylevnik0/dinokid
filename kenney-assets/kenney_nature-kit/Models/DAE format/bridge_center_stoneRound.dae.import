@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://delojws8dpuct"
-path="res://.godot/imported/bridge_center_stoneRound.dae-3b8f8240d71cd240735832f5be27dbbb.scn"
+path="res://.godot/imported/bridge_center_stoneRound.dae-d9fad652b9bfdeda2258bcf2ebfed2ad.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/bridge_center_stoneRound.dae"
-dest_files=["res://.godot/imported/bridge_center_stoneRound.dae-3b8f8240d71cd240735832f5be27dbbb.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/bridge_center_stoneRound.dae"
+dest_files=["res://.godot/imported/bridge_center_stoneRound.dae-d9fad652b9bfdeda2258bcf2ebfed2ad.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bsyrqtbopc4vt"
-path="res://.godot/imported/pillar-obelisk.fbx-5f6944ba3775b8e53365b55e3f737a29.scn"
+path="res://.godot/imported/pillar-obelisk.fbx-850abaaa13fccafea852a478bb3de25c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/pillar-obelisk.fbx"
-dest_files=["res://.godot/imported/pillar-obelisk.fbx-5f6944ba3775b8e53365b55e3f737a29.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/pillar-obelisk.fbx"
+dest_files=["res://.godot/imported/pillar-obelisk.fbx-850abaaa13fccafea852a478bb3de25c.scn"]
 
 [params]
 

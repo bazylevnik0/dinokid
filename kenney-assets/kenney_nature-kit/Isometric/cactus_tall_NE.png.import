@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b46eo24urxlss"
-path="res://.godot/imported/cactus_tall_NE.png-35f981594dd9145bccbe584eae49b4d2.ctex"
+path="res://.godot/imported/cactus_tall_NE.png-e508c51a277c5bc6af21a614ac7c69a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/cactus_tall_NE.png"
-dest_files=["res://.godot/imported/cactus_tall_NE.png-35f981594dd9145bccbe584eae49b4d2.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/cactus_tall_NE.png"
+dest_files=["res://.godot/imported/cactus_tall_NE.png-e508c51a277c5bc6af21a614ac7c69a9.ctex"]
 
 [params]
 

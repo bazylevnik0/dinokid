@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dom04pw0ebq0e"
-path="res://.godot/imported/lightpost-double.obj-b5608b680bd7927a5844aa314caf1b3b.mesh"
+path="res://.godot/imported/lightpost-double.obj-3e41a523ca49950fafcb72afe53e6c6e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/lightpost-double.obj-b5608b680bd7927a5844aa314caf1b3b.mesh"]
+files=["res://.godot/imported/lightpost-double.obj-3e41a523ca49950fafcb72afe53e6c6e.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/lightpost-double.obj"
-dest_files=["res://.godot/imported/lightpost-double.obj-b5608b680bd7927a5844aa314caf1b3b.mesh", "res://.godot/imported/lightpost-double.obj-b5608b680bd7927a5844aa314caf1b3b.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/lightpost-double.obj"
+dest_files=["res://.godot/imported/lightpost-double.obj-3e41a523ca49950fafcb72afe53e6c6e.mesh", "res://.godot/imported/lightpost-double.obj-3e41a523ca49950fafcb72afe53e6c6e.mesh"]
 
 [params]
 

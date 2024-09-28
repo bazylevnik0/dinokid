@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://di1ipg5bg3drd"
-path="res://.godot/imported/tree_pineRoundA.fbx-d2e29e5bc2a00eed88db7c2266f48bea.scn"
+path="res://.godot/imported/tree_pineRoundA.fbx-98d392de5d98aabd69fbfff150024a8d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/tree_pineRoundA.fbx"
-dest_files=["res://.godot/imported/tree_pineRoundA.fbx-d2e29e5bc2a00eed88db7c2266f48bea.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/tree_pineRoundA.fbx"
+dest_files=["res://.godot/imported/tree_pineRoundA.fbx-98d392de5d98aabd69fbfff150024a8d.scn"]
 
 [params]
 

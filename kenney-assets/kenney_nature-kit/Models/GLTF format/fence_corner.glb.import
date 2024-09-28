@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b5byksgj5gfe"
-path="res://.godot/imported/fence_corner.glb-8f8b4b2f76f71dba6741f8649e363ec8.scn"
+path="res://.godot/imported/fence_corner.glb-110f7410f1aaa8f3b11bd4fcfc8b6785.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/fence_corner.glb"
-dest_files=["res://.godot/imported/fence_corner.glb-8f8b4b2f76f71dba6741f8649e363ec8.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/fence_corner.glb"
+dest_files=["res://.godot/imported/fence_corner.glb-110f7410f1aaa8f3b11bd4fcfc8b6785.scn"]
 
 [params]
 

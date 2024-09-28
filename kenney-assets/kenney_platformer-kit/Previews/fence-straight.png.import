@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wlt6rlwy2xo4"
-path="res://.godot/imported/fence-straight.png-a2317e21854dea638e35fd4faf83eac3.ctex"
+path="res://.godot/imported/fence-straight.png-1af83cd5b2b760ec3d317af1f3bbd2c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/fence-straight.png"
-dest_files=["res://.godot/imported/fence-straight.png-a2317e21854dea638e35fd4faf83eac3.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/fence-straight.png"
+dest_files=["res://.godot/imported/fence-straight.png-1af83cd5b2b760ec3d317af1f3bbd2c3.ctex"]
 
 [params]
 

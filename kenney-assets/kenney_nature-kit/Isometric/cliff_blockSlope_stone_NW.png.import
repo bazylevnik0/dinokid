@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://icna2kk5e6m3"
-path="res://.godot/imported/cliff_blockSlope_stone_NW.png-ff6b90a5ea2d2f72d0457446bc3fd590.ctex"
+path="res://.godot/imported/cliff_blockSlope_stone_NW.png-b8f10584325ec1d19e5dcd54a860d050.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/cliff_blockSlope_stone_NW.png"
-dest_files=["res://.godot/imported/cliff_blockSlope_stone_NW.png-ff6b90a5ea2d2f72d0457446bc3fd590.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/cliff_blockSlope_stone_NW.png"
+dest_files=["res://.godot/imported/cliff_blockSlope_stone_NW.png-b8f10584325ec1d19e5dcd54a860d050.ctex"]
 
 [params]
 

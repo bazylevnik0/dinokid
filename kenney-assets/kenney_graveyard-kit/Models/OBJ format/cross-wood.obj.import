@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dqtaxko7pfoyn"
-path="res://.godot/imported/cross-wood.obj-19e57f06c55f1ac054cb8a68a529b6e7.mesh"
+path="res://.godot/imported/cross-wood.obj-95a4d022f59801af1e473efd09605017.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cross-wood.obj-19e57f06c55f1ac054cb8a68a529b6e7.mesh"]
+files=["res://.godot/imported/cross-wood.obj-95a4d022f59801af1e473efd09605017.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/cross-wood.obj"
-dest_files=["res://.godot/imported/cross-wood.obj-19e57f06c55f1ac054cb8a68a529b6e7.mesh", "res://.godot/imported/cross-wood.obj-19e57f06c55f1ac054cb8a68a529b6e7.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/cross-wood.obj"
+dest_files=["res://.godot/imported/cross-wood.obj-95a4d022f59801af1e473efd09605017.mesh", "res://.godot/imported/cross-wood.obj-95a4d022f59801af1e473efd09605017.mesh"]
 
 [params]
 

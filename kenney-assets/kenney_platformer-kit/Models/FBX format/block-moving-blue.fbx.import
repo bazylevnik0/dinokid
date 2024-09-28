@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://n2dq5woml2s3"
-path="res://.godot/imported/block-moving-blue.fbx-8e76121597d2404972afeb67e066d506.scn"
+path="res://.godot/imported/block-moving-blue.fbx-90889412261e5ede38d37bf646ef0455.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-moving-blue.fbx"
-dest_files=["res://.godot/imported/block-moving-blue.fbx-8e76121597d2404972afeb67e066d506.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/FBX format/block-moving-blue.fbx"
+dest_files=["res://.godot/imported/block-moving-blue.fbx-90889412261e5ede38d37bf646ef0455.scn"]
 
 [params]
 

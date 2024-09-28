@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://8k44pgg1bwvv"
-path="res://.godot/imported/fence_simple.obj-83a9809aefd6747c4295b2a317c7700e.mesh"
+path="res://.godot/imported/fence_simple.obj-ec711ee788530af1d66432f0845d6f58.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence_simple.obj-83a9809aefd6747c4295b2a317c7700e.mesh"]
+files=["res://.godot/imported/fence_simple.obj-ec711ee788530af1d66432f0845d6f58.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/fence_simple.obj"
-dest_files=["res://.godot/imported/fence_simple.obj-83a9809aefd6747c4295b2a317c7700e.mesh", "res://.godot/imported/fence_simple.obj-83a9809aefd6747c4295b2a317c7700e.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/fence_simple.obj"
+dest_files=["res://.godot/imported/fence_simple.obj-ec711ee788530af1d66432f0845d6f58.mesh", "res://.godot/imported/fence_simple.obj-ec711ee788530af1d66432f0845d6f58.mesh"]
 
 [params]
 

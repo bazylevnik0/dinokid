@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btp0ywxvusqif"
-path="res://.godot/imported/tree_plateau_dark_SW.png-bc94c5bd85e0808415a70a583b008f77.ctex"
+path="res://.godot/imported/tree_plateau_dark_SW.png-3fb77246bb0ee34049ca8aba02b5aba0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_plateau_dark_SW.png"
-dest_files=["res://.godot/imported/tree_plateau_dark_SW.png-bc94c5bd85e0808415a70a583b008f77.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/tree_plateau_dark_SW.png"
+dest_files=["res://.godot/imported/tree_plateau_dark_SW.png-3fb77246bb0ee34049ca8aba02b5aba0.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bm8u077xijjef"
-path="res://.godot/imported/pumpkin-carved.fbx-b7bd69cb4a5f49f4c705089874f70519.scn"
+path="res://.godot/imported/pumpkin-carved.fbx-98243b157d83e69e3c749e9846cb6433.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/pumpkin-carved.fbx"
-dest_files=["res://.godot/imported/pumpkin-carved.fbx-b7bd69cb4a5f49f4c705089874f70519.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/pumpkin-carved.fbx"
+dest_files=["res://.godot/imported/pumpkin-carved.fbx-98243b157d83e69e3c749e9846cb6433.scn"]
 
 [params]
 

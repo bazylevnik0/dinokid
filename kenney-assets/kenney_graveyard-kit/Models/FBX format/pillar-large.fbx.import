@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b6gl1wl4keotr"
-path="res://.godot/imported/pillar-large.fbx-cb4c8fe8e99c98619f637df90f66a28b.scn"
+path="res://.godot/imported/pillar-large.fbx-40ce6a17a32493d049b4ccb5fac862b4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/pillar-large.fbx"
-dest_files=["res://.godot/imported/pillar-large.fbx-cb4c8fe8e99c98619f637df90f66a28b.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/pillar-large.fbx"
+dest_files=["res://.godot/imported/pillar-large.fbx-40ce6a17a32493d049b4ccb5fac862b4.scn"]
 
 [params]
 

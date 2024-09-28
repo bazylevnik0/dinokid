@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://caipyduorxlm8"
-path="res://.godot/imported/hanging_moss.fbx-17aed99cb37b4e2840b8809a5b5dac37.scn"
+path="res://.godot/imported/hanging_moss.fbx-bebaf81406596200801e6d77c06155b4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/hanging_moss.fbx"
-dest_files=["res://.godot/imported/hanging_moss.fbx-17aed99cb37b4e2840b8809a5b5dac37.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/hanging_moss.fbx"
+dest_files=["res://.godot/imported/hanging_moss.fbx-bebaf81406596200801e6d77c06155b4.scn"]
 
 [params]
 

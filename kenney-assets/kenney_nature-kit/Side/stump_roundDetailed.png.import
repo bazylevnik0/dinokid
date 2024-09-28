@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://omxfrhroxcfb"
-path="res://.godot/imported/stump_roundDetailed.png-79b845683a905906c9a226a303516424.ctex"
+path="res://.godot/imported/stump_roundDetailed.png-6bd0b82465e603afc05a772b5703a6f6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/stump_roundDetailed.png"
-dest_files=["res://.godot/imported/stump_roundDetailed.png-79b845683a905906c9a226a303516424.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/stump_roundDetailed.png"
+dest_files=["res://.godot/imported/stump_roundDetailed.png-6bd0b82465e603afc05a772b5703a6f6.ctex"]
 
 [params]
 

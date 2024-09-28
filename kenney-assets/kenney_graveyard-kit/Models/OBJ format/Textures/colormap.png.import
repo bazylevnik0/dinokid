@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8sy4ryc0hsfk"
-path="res://.godot/imported/colormap.png-5cff4d2a8c76f9a2bc50a416ba4ac09e.ctex"
+path="res://.godot/imported/colormap.png-c3ca043c01625b385540c7f5176504d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/Textures/colormap.png"
-dest_files=["res://.godot/imported/colormap.png-5cff4d2a8c76f9a2bc50a416ba4ac09e.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/Textures/colormap.png"
+dest_files=["res://.godot/imported/colormap.png-c3ca043c01625b385540c7f5176504d9.ctex"]
 
 [params]
 

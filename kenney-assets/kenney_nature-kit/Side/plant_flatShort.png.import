@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dckyr722xmkf6"
-path="res://.godot/imported/plant_flatShort.png-bfd63c85269169b5d4d145758b117374.ctex"
+path="res://.godot/imported/plant_flatShort.png-55495df11caf2d51a8e9b0ce05a3fd43.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/plant_flatShort.png"
-dest_files=["res://.godot/imported/plant_flatShort.png-bfd63c85269169b5d4d145758b117374.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/plant_flatShort.png"
+dest_files=["res://.godot/imported/plant_flatShort.png-55495df11caf2d51a8e9b0ce05a3fd43.ctex"]
 
 [params]
 

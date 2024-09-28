@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dldvcmoexk25k"
-path="res://.godot/imported/pine.fbx-a1ac03e338444647db080dc84ea1cf32.scn"
+path="res://.godot/imported/pine.fbx-9f396b90a670020202c6c4f50743e9e1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/pine.fbx"
-dest_files=["res://.godot/imported/pine.fbx-a1ac03e338444647db080dc84ea1cf32.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/pine.fbx"
+dest_files=["res://.godot/imported/pine.fbx-9f396b90a670020202c6c4f50743e9e1.scn"]
 
 [params]
 

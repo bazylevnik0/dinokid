@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dxc7qlr3v12cy"
-path="res://.godot/imported/path_woodCorner.fbx-7a68622500c2bfba24e966b2260fac25.scn"
+path="res://.godot/imported/path_woodCorner.fbx-553518728805260f65fd6ad91c9bcdbd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/path_woodCorner.fbx"
-dest_files=["res://.godot/imported/path_woodCorner.fbx-7a68622500c2bfba24e966b2260fac25.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/path_woodCorner.fbx"
+dest_files=["res://.godot/imported/path_woodCorner.fbx-553518728805260f65fd6ad91c9bcdbd.scn"]
 
 [params]
 

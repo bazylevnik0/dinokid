@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://of0x8pgravsc"
-path="res://.godot/imported/iron-fence.obj-45e9bf6f32d7d220374c4403fb8c627c.mesh"
+path="res://.godot/imported/iron-fence.obj-d4f4975b5efc2b255aab71abeea3d2ab.mesh"
 
 [deps]
 
-files=["res://.godot/imported/iron-fence.obj-45e9bf6f32d7d220374c4403fb8c627c.mesh"]
+files=["res://.godot/imported/iron-fence.obj-d4f4975b5efc2b255aab71abeea3d2ab.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/iron-fence.obj"
-dest_files=["res://.godot/imported/iron-fence.obj-45e9bf6f32d7d220374c4403fb8c627c.mesh", "res://.godot/imported/iron-fence.obj-45e9bf6f32d7d220374c4403fb8c627c.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/iron-fence.obj"
+dest_files=["res://.godot/imported/iron-fence.obj-d4f4975b5efc2b255aab71abeea3d2ab.mesh", "res://.godot/imported/iron-fence.obj-d4f4975b5efc2b255aab71abeea3d2ab.mesh"]
 
 [params]
 

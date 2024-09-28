@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bh7fxejor5gxl"
-path="res://.godot/imported/debris-wood.glb-ce0e92b3a17a65489c37f3315c2b9c84.scn"
+path="res://.godot/imported/debris-wood.glb-cdfa5a8e6cd51761080b7c718f9144cd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/debris-wood.glb"
-dest_files=["res://.godot/imported/debris-wood.glb-ce0e92b3a17a65489c37f3315c2b9c84.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/debris-wood.glb"
+dest_files=["res://.godot/imported/debris-wood.glb-cdfa5a8e6cd51761080b7c718f9144cd.scn"]
 
 [params]
 

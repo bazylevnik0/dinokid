@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cgsi5juerikv5"
-path="res://.godot/imported/rock_largeC.fbx-c0fa9df1e6eb030fd5141ef964effc38.scn"
+path="res://.godot/imported/rock_largeC.fbx-84f9b2bb3e8a86ae9c2c8fb1bded0ab4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/rock_largeC.fbx"
-dest_files=["res://.godot/imported/rock_largeC.fbx-c0fa9df1e6eb030fd5141ef964effc38.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/rock_largeC.fbx"
+dest_files=["res://.godot/imported/rock_largeC.fbx-84f9b2bb3e8a86ae9c2c8fb1bded0ab4.scn"]
 
 [params]
 

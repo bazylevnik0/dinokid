@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://r8jet7vgswqb"
-path="res://.godot/imported/bridge_woodNarrow.fbx-6f1609eb8db299befdf0c205d8a131ef.scn"
+path="res://.godot/imported/bridge_woodNarrow.fbx-a1da785a89896390f6e9e249ae2d6974.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/bridge_woodNarrow.fbx"
-dest_files=["res://.godot/imported/bridge_woodNarrow.fbx-6f1609eb8db299befdf0c205d8a131ef.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/bridge_woodNarrow.fbx"
+dest_files=["res://.godot/imported/bridge_woodNarrow.fbx-a1da785a89896390f6e9e249ae2d6974.scn"]
 
 [params]
 

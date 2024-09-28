@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://mdq4i0g5mcb1"
-path="res://.godot/imported/statue_ring.fbx-d7c0e45da47ab1e1f039613e8844b272.scn"
+path="res://.godot/imported/statue_ring.fbx-4edcdb704c8153c36c4a87c86d9185ed.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/statue_ring.fbx"
-dest_files=["res://.godot/imported/statue_ring.fbx-d7c0e45da47ab1e1f039613e8844b272.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/statue_ring.fbx"
+dest_files=["res://.godot/imported/statue_ring.fbx-4edcdb704c8153c36c4a87c86d9185ed.scn"]
 
 [params]
 

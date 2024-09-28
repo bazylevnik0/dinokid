@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c00ossfv8nia7"
-path="res://.godot/imported/tree_palmBend.dae-8fc89496443b4727fef06e2005066047.scn"
+path="res://.godot/imported/tree_palmBend.dae-87beaa7573b4912a63074b9da4e7f6f5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/tree_palmBend.dae"
-dest_files=["res://.godot/imported/tree_palmBend.dae-8fc89496443b4727fef06e2005066047.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/tree_palmBend.dae"
+dest_files=["res://.godot/imported/tree_palmBend.dae-87beaa7573b4912a63074b9da4e7f6f5.scn"]
 
 [params]
 

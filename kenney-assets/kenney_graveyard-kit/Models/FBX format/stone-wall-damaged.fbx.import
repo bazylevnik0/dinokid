@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bt7g48bt26c8w"
-path="res://.godot/imported/stone-wall-damaged.fbx-d2b2c06e164a29df7e7a4de65638fefb.scn"
+path="res://.godot/imported/stone-wall-damaged.fbx-6f471494d6f57cab074dcf4bc225f5dc.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/stone-wall-damaged.fbx"
-dest_files=["res://.godot/imported/stone-wall-damaged.fbx-d2b2c06e164a29df7e7a4de65638fefb.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/stone-wall-damaged.fbx"
+dest_files=["res://.godot/imported/stone-wall-damaged.fbx-6f471494d6f57cab074dcf4bc225f5dc.scn"]
 
 [params]
 

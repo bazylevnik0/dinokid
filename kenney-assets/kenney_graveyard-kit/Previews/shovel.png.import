@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy5uke1cf0dev"
-path="res://.godot/imported/shovel.png-233727d6c66292a4c8b08391a845449b.ctex"
+path="res://.godot/imported/shovel.png-0e5e96957c59bb49bf8bdb47d1256743.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/shovel.png"
-dest_files=["res://.godot/imported/shovel.png-233727d6c66292a4c8b08391a845449b.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/shovel.png"
+dest_files=["res://.godot/imported/shovel.png-0e5e96957c59bb49bf8bdb47d1256743.ctex"]
 
 [params]
 

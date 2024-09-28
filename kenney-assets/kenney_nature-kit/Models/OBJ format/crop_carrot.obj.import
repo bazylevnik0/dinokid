@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bjei1m3vikdv5"
-path="res://.godot/imported/crop_carrot.obj-4d9e1be3eb16527ec97a855aeec39ac5.mesh"
+path="res://.godot/imported/crop_carrot.obj-b002f86337deda752631ee211f80775e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/crop_carrot.obj-4d9e1be3eb16527ec97a855aeec39ac5.mesh"]
+files=["res://.godot/imported/crop_carrot.obj-b002f86337deda752631ee211f80775e.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/crop_carrot.obj"
-dest_files=["res://.godot/imported/crop_carrot.obj-4d9e1be3eb16527ec97a855aeec39ac5.mesh", "res://.godot/imported/crop_carrot.obj-4d9e1be3eb16527ec97a855aeec39ac5.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/crop_carrot.obj"
+dest_files=["res://.godot/imported/crop_carrot.obj-b002f86337deda752631ee211f80775e.mesh", "res://.godot/imported/crop_carrot.obj-b002f86337deda752631ee211f80775e.mesh"]
 
 [params]
 

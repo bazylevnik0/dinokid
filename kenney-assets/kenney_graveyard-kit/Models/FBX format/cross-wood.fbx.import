@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://gtxponqa2m5p"
-path="res://.godot/imported/cross-wood.fbx-6df290e6d1fc579de956cb57c0f1fcc4.scn"
+path="res://.godot/imported/cross-wood.fbx-5db3bbdfcd8d41b4f39e81d99a8d56be.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/cross-wood.fbx"
-dest_files=["res://.godot/imported/cross-wood.fbx-6df290e6d1fc579de956cb57c0f1fcc4.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/cross-wood.fbx"
+dest_files=["res://.godot/imported/cross-wood.fbx-5db3bbdfcd8d41b4f39e81d99a8d56be.scn"]
 
 [params]
 

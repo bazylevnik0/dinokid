@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://3fiwoc02rf5g"
-path="res://.godot/imported/cliff_halfCorner_rock.dae-dff3637f2facb7eadece28eeb7af7e1b.scn"
+path="res://.godot/imported/cliff_halfCorner_rock.dae-1257ee1f311f4fe7caf453350c0de713.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_halfCorner_rock.dae"
-dest_files=["res://.godot/imported/cliff_halfCorner_rock.dae-dff3637f2facb7eadece28eeb7af7e1b.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/cliff_halfCorner_rock.dae"
+dest_files=["res://.godot/imported/cliff_halfCorner_rock.dae-1257ee1f311f4fe7caf453350c0de713.scn"]
 
 [params]
 

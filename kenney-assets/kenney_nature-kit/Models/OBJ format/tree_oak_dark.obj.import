@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cwkuwod3cmfe4"
-path="res://.godot/imported/tree_oak_dark.obj-21b562d5e3d0fb3d46ac4f2a2108d0b2.mesh"
+path="res://.godot/imported/tree_oak_dark.obj-2d3ec1926ec72d34da1329b7672eec3d.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree_oak_dark.obj-21b562d5e3d0fb3d46ac4f2a2108d0b2.mesh"]
+files=["res://.godot/imported/tree_oak_dark.obj-2d3ec1926ec72d34da1329b7672eec3d.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_oak_dark.obj"
-dest_files=["res://.godot/imported/tree_oak_dark.obj-21b562d5e3d0fb3d46ac4f2a2108d0b2.mesh", "res://.godot/imported/tree_oak_dark.obj-21b562d5e3d0fb3d46ac4f2a2108d0b2.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_oak_dark.obj"
+dest_files=["res://.godot/imported/tree_oak_dark.obj-2d3ec1926ec72d34da1329b7672eec3d.mesh", "res://.godot/imported/tree_oak_dark.obj-2d3ec1926ec72d34da1329b7672eec3d.mesh"]
 
 [params]
 

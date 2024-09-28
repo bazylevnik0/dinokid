@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c373pfeate1i1"
-path="res://.godot/imported/border-pillar.obj-59b32c168d4b6114af8642a704441d95.mesh"
+path="res://.godot/imported/border-pillar.obj-81f7550ae20dac20bdba8b9abb1a5020.mesh"
 
 [deps]
 
-files=["res://.godot/imported/border-pillar.obj-59b32c168d4b6114af8642a704441d95.mesh"]
+files=["res://.godot/imported/border-pillar.obj-81f7550ae20dac20bdba8b9abb1a5020.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/border-pillar.obj"
-dest_files=["res://.godot/imported/border-pillar.obj-59b32c168d4b6114af8642a704441d95.mesh", "res://.godot/imported/border-pillar.obj-59b32c168d4b6114af8642a704441d95.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/border-pillar.obj"
+dest_files=["res://.godot/imported/border-pillar.obj-81f7550ae20dac20bdba8b9abb1a5020.mesh", "res://.godot/imported/border-pillar.obj-81f7550ae20dac20bdba8b9abb1a5020.mesh"]
 
 [params]
 

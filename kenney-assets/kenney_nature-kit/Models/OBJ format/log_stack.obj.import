@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cfw4jrcsyrjtn"
-path="res://.godot/imported/log_stack.obj-0c3d541ce21ffa13fcfafe35e7d5f295.mesh"
+path="res://.godot/imported/log_stack.obj-228e958c79c31c72484fecdeb7572ad9.mesh"
 
 [deps]
 
-files=["res://.godot/imported/log_stack.obj-0c3d541ce21ffa13fcfafe35e7d5f295.mesh"]
+files=["res://.godot/imported/log_stack.obj-228e958c79c31c72484fecdeb7572ad9.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/log_stack.obj"
-dest_files=["res://.godot/imported/log_stack.obj-0c3d541ce21ffa13fcfafe35e7d5f295.mesh", "res://.godot/imported/log_stack.obj-0c3d541ce21ffa13fcfafe35e7d5f295.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/log_stack.obj"
+dest_files=["res://.godot/imported/log_stack.obj-228e958c79c31c72484fecdeb7572ad9.mesh", "res://.godot/imported/log_stack.obj-228e958c79c31c72484fecdeb7572ad9.mesh"]
 
 [params]
 

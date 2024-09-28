@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs8whefjyqc31"
-path="res://.godot/imported/crop_pumpkin_SW.png-a8e7d5a846b5e422931a78e2f797f383.ctex"
+path="res://.godot/imported/crop_pumpkin_SW.png-57eab64d09223ad324efb23e081f54f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crop_pumpkin_SW.png"
-dest_files=["res://.godot/imported/crop_pumpkin_SW.png-a8e7d5a846b5e422931a78e2f797f383.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/crop_pumpkin_SW.png"
+dest_files=["res://.godot/imported/crop_pumpkin_SW.png-57eab64d09223ad324efb23e081f54f5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6ppabw0i7b2h"
-path="res://.godot/imported/crop_carrot_NE.png-b67b05cda4ab21bf2ed1b22f34ad40e1.ctex"
+path="res://.godot/imported/crop_carrot_NE.png-01def8a76003b79f1ab04f15ca546631.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crop_carrot_NE.png"
-dest_files=["res://.godot/imported/crop_carrot_NE.png-b67b05cda4ab21bf2ed1b22f34ad40e1.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/crop_carrot_NE.png"
+dest_files=["res://.godot/imported/crop_carrot_NE.png-01def8a76003b79f1ab04f15ca546631.ctex"]
 
 [params]
 

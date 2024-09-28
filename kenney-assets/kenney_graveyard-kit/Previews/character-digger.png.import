@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b27pf8boru0mv"
-path="res://.godot/imported/character-digger.png-0854bed92c5708036786e70ade414356.ctex"
+path="res://.godot/imported/character-digger.png-9990dd848a3de418d183146ffab08f61.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/character-digger.png"
-dest_files=["res://.godot/imported/character-digger.png-0854bed92c5708036786e70ade414356.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/character-digger.png"
+dest_files=["res://.godot/imported/character-digger.png-9990dd848a3de418d183146ffab08f61.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dshnrutdran8o"
-path="res://.godot/imported/gravestone-decorative.png-56cedfa076dcf9ad4a44cd88079ce710.ctex"
+path="res://.godot/imported/gravestone-decorative.png-397fa61d6f82f62c4f44618317ded40a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/gravestone-decorative.png"
-dest_files=["res://.godot/imported/gravestone-decorative.png-56cedfa076dcf9ad4a44cd88079ce710.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/gravestone-decorative.png"
+dest_files=["res://.godot/imported/gravestone-decorative.png-397fa61d6f82f62c4f44618317ded40a.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c5ejaxoxkks5o"
-path="res://.godot/imported/crop_melon.obj-613e57835f7ffcb1720bb62953d9db7d.mesh"
+path="res://.godot/imported/crop_melon.obj-d4e74179fd51e4d8a2fbd90e77dff22b.mesh"
 
 [deps]
 
-files=["res://.godot/imported/crop_melon.obj-613e57835f7ffcb1720bb62953d9db7d.mesh"]
+files=["res://.godot/imported/crop_melon.obj-d4e74179fd51e4d8a2fbd90e77dff22b.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/crop_melon.obj"
-dest_files=["res://.godot/imported/crop_melon.obj-613e57835f7ffcb1720bb62953d9db7d.mesh", "res://.godot/imported/crop_melon.obj-613e57835f7ffcb1720bb62953d9db7d.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/crop_melon.obj"
+dest_files=["res://.godot/imported/crop_melon.obj-d4e74179fd51e4d8a2fbd90e77dff22b.mesh", "res://.godot/imported/crop_melon.obj-d4e74179fd51e4d8a2fbd90e77dff22b.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvp0kwy4cimp6"
-path="res://.godot/imported/cliff_blockSlope_stone.png-63217bd86913a9d100992c95c50b2ccb.ctex"
+path="res://.godot/imported/cliff_blockSlope_stone.png-9d450bcac2c48213f4248cf36e5bee54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/cliff_blockSlope_stone.png"
-dest_files=["res://.godot/imported/cliff_blockSlope_stone.png-63217bd86913a9d100992c95c50b2ccb.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/cliff_blockSlope_stone.png"
+dest_files=["res://.godot/imported/cliff_blockSlope_stone.png-9d450bcac2c48213f4248cf36e5bee54.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://7anbt2ggilhn"
-path="res://.godot/imported/cliff_blockSlopeHalfWalls_rock.obj-6a9109395e34bb3da4adec37805b293d.mesh"
+path="res://.godot/imported/cliff_blockSlopeHalfWalls_rock.obj-5c4e8fcd21288a608eaac61d37100820.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_blockSlopeHalfWalls_rock.obj-6a9109395e34bb3da4adec37805b293d.mesh"]
+files=["res://.godot/imported/cliff_blockSlopeHalfWalls_rock.obj-5c4e8fcd21288a608eaac61d37100820.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_blockSlopeHalfWalls_rock.obj"
-dest_files=["res://.godot/imported/cliff_blockSlopeHalfWalls_rock.obj-6a9109395e34bb3da4adec37805b293d.mesh", "res://.godot/imported/cliff_blockSlopeHalfWalls_rock.obj-6a9109395e34bb3da4adec37805b293d.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_blockSlopeHalfWalls_rock.obj"
+dest_files=["res://.godot/imported/cliff_blockSlopeHalfWalls_rock.obj-5c4e8fcd21288a608eaac61d37100820.mesh", "res://.godot/imported/cliff_blockSlopeHalfWalls_rock.obj-5c4e8fcd21288a608eaac61d37100820.mesh"]
 
 [params]
 

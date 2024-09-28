@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqxg4a41ua1xn"
-path="res://.godot/imported/fence-corner.fbx-f68e09d32638a57a11ad1b49a7594c36.scn"
+path="res://.godot/imported/fence-corner.fbx-c9be52997ead2ba292ecda48b572562d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/fence-corner.fbx"
-dest_files=["res://.godot/imported/fence-corner.fbx-f68e09d32638a57a11ad1b49a7594c36.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/FBX format/fence-corner.fbx"
+dest_files=["res://.godot/imported/fence-corner.fbx-c9be52997ead2ba292ecda48b572562d.scn"]
 
 [params]
 

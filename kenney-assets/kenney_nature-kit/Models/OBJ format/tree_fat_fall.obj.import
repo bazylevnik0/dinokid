@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dqxxng5ugaswm"
-path="res://.godot/imported/tree_fat_fall.obj-7dec6154460614e4ef2b65af59cb6d54.mesh"
+path="res://.godot/imported/tree_fat_fall.obj-789e4a542f05f6f714cd352d9ed88328.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree_fat_fall.obj-7dec6154460614e4ef2b65af59cb6d54.mesh"]
+files=["res://.godot/imported/tree_fat_fall.obj-789e4a542f05f6f714cd352d9ed88328.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_fat_fall.obj"
-dest_files=["res://.godot/imported/tree_fat_fall.obj-7dec6154460614e4ef2b65af59cb6d54.mesh", "res://.godot/imported/tree_fat_fall.obj-7dec6154460614e4ef2b65af59cb6d54.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_fat_fall.obj"
+dest_files=["res://.godot/imported/tree_fat_fall.obj-789e4a542f05f6f714cd352d9ed88328.mesh", "res://.godot/imported/tree_fat_fall.obj-789e4a542f05f6f714cd352d9ed88328.mesh"]
 
 [params]
 

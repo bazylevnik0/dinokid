@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cffscisafxo71"
-path="res://.godot/imported/lantern-candle.png-2f7f5b75272f5e8ea71b3afe9b5c270b.ctex"
+path="res://.godot/imported/lantern-candle.png-d4dcbbfa413c6a41f6892ae1fcce1f67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/lantern-candle.png"
-dest_files=["res://.godot/imported/lantern-candle.png-2f7f5b75272f5e8ea71b3afe9b5c270b.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/lantern-candle.png"
+dest_files=["res://.godot/imported/lantern-candle.png-d4dcbbfa413c6a41f6892ae1fcce1f67.ctex"]
 
 [params]
 

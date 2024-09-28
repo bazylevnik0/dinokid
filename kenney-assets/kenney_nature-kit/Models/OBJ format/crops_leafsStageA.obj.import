@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://chbijt41tw35k"
-path="res://.godot/imported/crops_leafsStageA.obj-9e25164e9accbedee9636e223f81be02.mesh"
+path="res://.godot/imported/crops_leafsStageA.obj-891dfc3a98562a59ee89bcd215beee05.mesh"
 
 [deps]
 
-files=["res://.godot/imported/crops_leafsStageA.obj-9e25164e9accbedee9636e223f81be02.mesh"]
+files=["res://.godot/imported/crops_leafsStageA.obj-891dfc3a98562a59ee89bcd215beee05.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/crops_leafsStageA.obj"
-dest_files=["res://.godot/imported/crops_leafsStageA.obj-9e25164e9accbedee9636e223f81be02.mesh", "res://.godot/imported/crops_leafsStageA.obj-9e25164e9accbedee9636e223f81be02.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/crops_leafsStageA.obj"
+dest_files=["res://.godot/imported/crops_leafsStageA.obj-891dfc3a98562a59ee89bcd215beee05.mesh", "res://.godot/imported/crops_leafsStageA.obj-891dfc3a98562a59ee89bcd215beee05.mesh"]
 
 [params]
 

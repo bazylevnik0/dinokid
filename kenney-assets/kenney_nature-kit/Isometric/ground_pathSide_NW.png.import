@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v8rigwoo6tis"
-path="res://.godot/imported/ground_pathSide_NW.png-b49510076ad3c2878fc39fa4d8b68e9b.ctex"
+path="res://.godot/imported/ground_pathSide_NW.png-5b61955ba73adb9226678e005d31c6ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/ground_pathSide_NW.png"
-dest_files=["res://.godot/imported/ground_pathSide_NW.png-b49510076ad3c2878fc39fa4d8b68e9b.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/ground_pathSide_NW.png"
+dest_files=["res://.godot/imported/ground_pathSide_NW.png-5b61955ba73adb9226678e005d31c6ca.ctex"]
 
 [params]
 

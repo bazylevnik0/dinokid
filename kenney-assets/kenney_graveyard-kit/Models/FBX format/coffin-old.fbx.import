@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://du4ffxmxsfack"
-path="res://.godot/imported/coffin-old.fbx-75dc64b1972666103b83e133d34418bf.scn"
+path="res://.godot/imported/coffin-old.fbx-30164ed0612ac1af00a6a2883f56f408.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/coffin-old.fbx"
-dest_files=["res://.godot/imported/coffin-old.fbx-75dc64b1972666103b83e133d34418bf.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/coffin-old.fbx"
+dest_files=["res://.godot/imported/coffin-old.fbx-30164ed0612ac1af00a6a2883f56f408.scn"]
 
 [params]
 

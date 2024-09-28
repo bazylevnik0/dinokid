@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://nakt5d4vr2on"
-path="res://.godot/imported/crops_bambooStageA.obj-5cc26262d4f8dc7e881b1a8fc40fc28e.mesh"
+path="res://.godot/imported/crops_bambooStageA.obj-a0d5f1f06b70f04ef8f7008884d77582.mesh"
 
 [deps]
 
-files=["res://.godot/imported/crops_bambooStageA.obj-5cc26262d4f8dc7e881b1a8fc40fc28e.mesh"]
+files=["res://.godot/imported/crops_bambooStageA.obj-a0d5f1f06b70f04ef8f7008884d77582.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/crops_bambooStageA.obj"
-dest_files=["res://.godot/imported/crops_bambooStageA.obj-5cc26262d4f8dc7e881b1a8fc40fc28e.mesh", "res://.godot/imported/crops_bambooStageA.obj-5cc26262d4f8dc7e881b1a8fc40fc28e.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/crops_bambooStageA.obj"
+dest_files=["res://.godot/imported/crops_bambooStageA.obj-a0d5f1f06b70f04ef8f7008884d77582.mesh", "res://.godot/imported/crops_bambooStageA.obj-a0d5f1f06b70f04ef8f7008884d77582.mesh"]
 
 [params]
 

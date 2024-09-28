@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7rs6kuw4p8mk"
-path="res://.godot/imported/ground_pathStraight.png-ad3a61a5f109415c9c16d71264888d18.ctex"
+path="res://.godot/imported/ground_pathStraight.png-cf08d19e2dbfb05fc89bfbd3b90894b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/ground_pathStraight.png"
-dest_files=["res://.godot/imported/ground_pathStraight.png-ad3a61a5f109415c9c16d71264888d18.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/ground_pathStraight.png"
+dest_files=["res://.godot/imported/ground_pathStraight.png-cf08d19e2dbfb05fc89bfbd3b90894b4.ctex"]
 
 [params]
 

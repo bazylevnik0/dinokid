@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f5jodqec26ju"
-path="res://.godot/imported/crop_turnip_NE.png-bfee6a478947e8e23fc524d21f1d786c.ctex"
+path="res://.godot/imported/crop_turnip_NE.png-7e4d3c43aaaf8a913669b087a05c8808.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crop_turnip_NE.png"
-dest_files=["res://.godot/imported/crop_turnip_NE.png-bfee6a478947e8e23fc524d21f1d786c.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/crop_turnip_NE.png"
+dest_files=["res://.godot/imported/crop_turnip_NE.png-7e4d3c43aaaf8a913669b087a05c8808.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bgw3wgwrrsfc"
-path="res://.godot/imported/tent_smallClosed.fbx-a81d43901efbdde0ce4ac04a7a72ea88.scn"
+path="res://.godot/imported/tent_smallClosed.fbx-fd2628c07b0d676c3b5ba4040b37a25b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/tent_smallClosed.fbx"
-dest_files=["res://.godot/imported/tent_smallClosed.fbx-a81d43901efbdde0ce4ac04a7a72ea88.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/tent_smallClosed.fbx"
+dest_files=["res://.godot/imported/tent_smallClosed.fbx-fd2628c07b0d676c3b5ba4040b37a25b.scn"]
 
 [params]
 

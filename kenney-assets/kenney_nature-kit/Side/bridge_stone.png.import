@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5ufybjgd840y"
-path="res://.godot/imported/bridge_stone.png-8a1528bab1844151177553dd161268a8.ctex"
+path="res://.godot/imported/bridge_stone.png-20fc75998bcfd97a18200d54ec20329d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/bridge_stone.png"
-dest_files=["res://.godot/imported/bridge_stone.png-8a1528bab1844151177553dd161268a8.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/bridge_stone.png"
+dest_files=["res://.godot/imported/bridge_stone.png-20fc75998bcfd97a18200d54ec20329d.ctex"]
 
 [params]
 

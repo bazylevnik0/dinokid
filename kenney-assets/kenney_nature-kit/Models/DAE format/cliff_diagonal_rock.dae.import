@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bho4jk2s63g7s"
-path="res://.godot/imported/cliff_diagonal_rock.dae-42bf0abff269ef6dff56028a19e61231.scn"
+path="res://.godot/imported/cliff_diagonal_rock.dae-aa9ad49d68466fa84af3687f06fb0459.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_diagonal_rock.dae"
-dest_files=["res://.godot/imported/cliff_diagonal_rock.dae-42bf0abff269ef6dff56028a19e61231.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/cliff_diagonal_rock.dae"
+dest_files=["res://.godot/imported/cliff_diagonal_rock.dae-aa9ad49d68466fa84af3687f06fb0459.scn"]
 
 [params]
 

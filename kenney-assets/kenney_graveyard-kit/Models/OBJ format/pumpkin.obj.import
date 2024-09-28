@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cec4oyv1aclx6"
-path="res://.godot/imported/pumpkin.obj-03f041ee8adabb16e4c4e528d0a3de67.mesh"
+path="res://.godot/imported/pumpkin.obj-8822f65f852c96f982b8511c82d0421c.mesh"
 
 [deps]
 
-files=["res://.godot/imported/pumpkin.obj-03f041ee8adabb16e4c4e528d0a3de67.mesh"]
+files=["res://.godot/imported/pumpkin.obj-8822f65f852c96f982b8511c82d0421c.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/pumpkin.obj"
-dest_files=["res://.godot/imported/pumpkin.obj-03f041ee8adabb16e4c4e528d0a3de67.mesh", "res://.godot/imported/pumpkin.obj-03f041ee8adabb16e4c4e528d0a3de67.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/pumpkin.obj"
+dest_files=["res://.godot/imported/pumpkin.obj-8822f65f852c96f982b8511c82d0421c.mesh", "res://.godot/imported/pumpkin.obj-8822f65f852c96f982b8511c82d0421c.mesh"]
 
 [params]
 

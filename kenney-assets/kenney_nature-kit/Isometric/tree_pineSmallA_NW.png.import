@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dooswbn71voyc"
-path="res://.godot/imported/tree_pineSmallA_NW.png-8c70af4bc3b6a4c04fb1b884bc8d5c36.ctex"
+path="res://.godot/imported/tree_pineSmallA_NW.png-70095576c211398460189135cc510908.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_pineSmallA_NW.png"
-dest_files=["res://.godot/imported/tree_pineSmallA_NW.png-8c70af4bc3b6a4c04fb1b884bc8d5c36.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/tree_pineSmallA_NW.png"
+dest_files=["res://.godot/imported/tree_pineSmallA_NW.png-70095576c211398460189135cc510908.ctex"]
 
 [params]
 

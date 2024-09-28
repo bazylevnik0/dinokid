@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c63bod5k0a65i"
-path="res://.godot/imported/hedge-corner.png-7f18178208b002c9d726ec392c0e4400.ctex"
+path="res://.godot/imported/hedge-corner.png-bdde1da11a425bba7c9ca5e32a4cb9cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/hedge-corner.png"
-dest_files=["res://.godot/imported/hedge-corner.png-7f18178208b002c9d726ec392c0e4400.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/hedge-corner.png"
+dest_files=["res://.godot/imported/hedge-corner.png-bdde1da11a425bba7c9ca5e32a4cb9cc.ctex"]
 
 [params]
 

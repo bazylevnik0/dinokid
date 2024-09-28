@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx2vumkrh2b"
-path="res://.godot/imported/cliff_waterfallTop_rock_SE.png-5044eb03d79bf4f254445f694458838f.ctex"
+path="res://.godot/imported/cliff_waterfallTop_rock_SE.png-926ed186da639b2cbd92b7fadd985402.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/cliff_waterfallTop_rock_SE.png"
-dest_files=["res://.godot/imported/cliff_waterfallTop_rock_SE.png-5044eb03d79bf4f254445f694458838f.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/cliff_waterfallTop_rock_SE.png"
+dest_files=["res://.godot/imported/cliff_waterfallTop_rock_SE.png-926ed186da639b2cbd92b7fadd985402.ctex"]
 
 [params]
 

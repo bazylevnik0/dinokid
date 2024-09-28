@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jukc6530x2oy"
-path="res://.godot/imported/crate-strong.png-73d794e3a6bd41b44c6dba98767079c5.ctex"
+path="res://.godot/imported/crate-strong.png-f0e3a1c6ce7043be6ced4d5f00721e5d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/crate-strong.png"
-dest_files=["res://.godot/imported/crate-strong.png-73d794e3a6bd41b44c6dba98767079c5.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/crate-strong.png"
+dest_files=["res://.godot/imported/crate-strong.png-f0e3a1c6ce7043be6ced4d5f00721e5d.ctex"]
 
 [params]
 

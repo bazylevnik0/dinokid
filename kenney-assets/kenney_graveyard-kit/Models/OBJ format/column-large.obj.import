@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bx2oofdvulgw2"
-path="res://.godot/imported/column-large.obj-f5d10807235811b2312c72c028897282.mesh"
+path="res://.godot/imported/column-large.obj-2b43f01f2ce511eb943caa2d6f85dc0b.mesh"
 
 [deps]
 
-files=["res://.godot/imported/column-large.obj-f5d10807235811b2312c72c028897282.mesh"]
+files=["res://.godot/imported/column-large.obj-2b43f01f2ce511eb943caa2d6f85dc0b.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/column-large.obj"
-dest_files=["res://.godot/imported/column-large.obj-f5d10807235811b2312c72c028897282.mesh", "res://.godot/imported/column-large.obj-f5d10807235811b2312c72c028897282.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/column-large.obj"
+dest_files=["res://.godot/imported/column-large.obj-2b43f01f2ce511eb943caa2d6f85dc0b.mesh", "res://.godot/imported/column-large.obj-2b43f01f2ce511eb943caa2d6f85dc0b.mesh"]
 
 [params]
 

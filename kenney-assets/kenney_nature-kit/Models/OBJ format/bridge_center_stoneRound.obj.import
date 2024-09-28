@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b7hh4jf6t2hxf"
-path="res://.godot/imported/bridge_center_stoneRound.obj-2b39a88c0fee4cb1b153d77b98fb44ff.mesh"
+path="res://.godot/imported/bridge_center_stoneRound.obj-ce21cea2af8910a2faf79ba20114f80e.mesh"
 
 [deps]
 
-files=["res://.godot/imported/bridge_center_stoneRound.obj-2b39a88c0fee4cb1b153d77b98fb44ff.mesh"]
+files=["res://.godot/imported/bridge_center_stoneRound.obj-ce21cea2af8910a2faf79ba20114f80e.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/bridge_center_stoneRound.obj"
-dest_files=["res://.godot/imported/bridge_center_stoneRound.obj-2b39a88c0fee4cb1b153d77b98fb44ff.mesh", "res://.godot/imported/bridge_center_stoneRound.obj-2b39a88c0fee4cb1b153d77b98fb44ff.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/bridge_center_stoneRound.obj"
+dest_files=["res://.godot/imported/bridge_center_stoneRound.obj-ce21cea2af8910a2faf79ba20114f80e.mesh", "res://.godot/imported/bridge_center_stoneRound.obj-ce21cea2af8910a2faf79ba20114f80e.mesh"]
 
 [params]
 

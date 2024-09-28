@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlnppsy68ajsu"
-path="res://.godot/imported/stump_oldTall_NE.png-b7685e318152b2670f9cd4910c6449f9.ctex"
+path="res://.godot/imported/stump_oldTall_NE.png-a58c92803d6056c5fc681563bf32ebb9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/stump_oldTall_NE.png"
-dest_files=["res://.godot/imported/stump_oldTall_NE.png-b7685e318152b2670f9cd4910c6449f9.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/stump_oldTall_NE.png"
+dest_files=["res://.godot/imported/stump_oldTall_NE.png-a58c92803d6056c5fc681563bf32ebb9.ctex"]
 
 [params]
 

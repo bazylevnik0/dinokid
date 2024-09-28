@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d3rfvvbbhjtu3"
-path="res://.godot/imported/hanging_moss.dae-05d9ed3dea08b3d85461015de172fedb.scn"
+path="res://.godot/imported/hanging_moss.dae-5c25acd98544c22755a72eec907e21ef.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/hanging_moss.dae"
-dest_files=["res://.godot/imported/hanging_moss.dae-05d9ed3dea08b3d85461015de172fedb.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/hanging_moss.dae"
+dest_files=["res://.godot/imported/hanging_moss.dae-5c25acd98544c22755a72eec907e21ef.scn"]
 
 [params]
 

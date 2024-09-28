@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://sosjsgrsl8k3"
-path="res://.godot/imported/crops_cornStageA.obj-21dcec263f9ffaca86575731e656604a.mesh"
+path="res://.godot/imported/crops_cornStageA.obj-77bcd7f290f38a97f2d12cdb4b1d2915.mesh"
 
 [deps]
 
-files=["res://.godot/imported/crops_cornStageA.obj-21dcec263f9ffaca86575731e656604a.mesh"]
+files=["res://.godot/imported/crops_cornStageA.obj-77bcd7f290f38a97f2d12cdb4b1d2915.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/crops_cornStageA.obj"
-dest_files=["res://.godot/imported/crops_cornStageA.obj-21dcec263f9ffaca86575731e656604a.mesh", "res://.godot/imported/crops_cornStageA.obj-21dcec263f9ffaca86575731e656604a.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/crops_cornStageA.obj"
+dest_files=["res://.godot/imported/crops_cornStageA.obj-77bcd7f290f38a97f2d12cdb4b1d2915.mesh", "res://.godot/imported/crops_cornStageA.obj-77bcd7f290f38a97f2d12cdb4b1d2915.mesh"]
 
 [params]
 

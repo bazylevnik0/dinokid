@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btnww8torwp4o"
-path="res://.godot/imported/statue_columnDamaged_SW.png-798aa7b19da45e35c89ea9f1b7bb0f18.ctex"
+path="res://.godot/imported/statue_columnDamaged_SW.png-a2bbce0fc91f5caab211b7fd204e2992.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/statue_columnDamaged_SW.png"
-dest_files=["res://.godot/imported/statue_columnDamaged_SW.png-798aa7b19da45e35c89ea9f1b7bb0f18.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/statue_columnDamaged_SW.png"
+dest_files=["res://.godot/imported/statue_columnDamaged_SW.png-a2bbce0fc91f5caab211b7fd204e2992.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6m32t370ityc"
-path="res://.godot/imported/crops_leafsStageA_NW.png-77e80d55205975de2903a3b57707f5d4.ctex"
+path="res://.godot/imported/crops_leafsStageA_NW.png-272ab821db615809979228048766f570.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/crops_leafsStageA_NW.png"
-dest_files=["res://.godot/imported/crops_leafsStageA_NW.png-77e80d55205975de2903a3b57707f5d4.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/crops_leafsStageA_NW.png"
+dest_files=["res://.godot/imported/crops_leafsStageA_NW.png-272ab821db615809979228048766f570.ctex"]
 
 [params]
 

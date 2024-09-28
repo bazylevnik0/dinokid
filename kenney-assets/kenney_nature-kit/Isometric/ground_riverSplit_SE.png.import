@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2yeeup4mwaj2"
-path="res://.godot/imported/ground_riverSplit_SE.png-5808a0594325e7072333d3e17e764dcb.ctex"
+path="res://.godot/imported/ground_riverSplit_SE.png-73d33100511fff0e18d6ada71267cdd5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/ground_riverSplit_SE.png"
-dest_files=["res://.godot/imported/ground_riverSplit_SE.png-5808a0594325e7072333d3e17e764dcb.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/ground_riverSplit_SE.png"
+dest_files=["res://.godot/imported/ground_riverSplit_SE.png-73d33100511fff0e18d6ada71267cdd5.ctex"]
 
 [params]
 

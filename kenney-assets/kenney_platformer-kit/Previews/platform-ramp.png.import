@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvqk8ns7dtvwf"
-path="res://.godot/imported/platform-ramp.png-44ffc7081aadec300a17deb08321238f.ctex"
+path="res://.godot/imported/platform-ramp.png-ba40ad50cdb95d46202b9c3e9be2fb6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/platform-ramp.png"
-dest_files=["res://.godot/imported/platform-ramp.png-44ffc7081aadec300a17deb08321238f.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/platform-ramp.png"
+dest_files=["res://.godot/imported/platform-ramp.png-ba40ad50cdb95d46202b9c3e9be2fb6d.ctex"]
 
 [params]
 

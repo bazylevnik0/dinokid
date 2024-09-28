@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4lf2j0cyqkx7"
-path="res://.godot/imported/tree.png-603f27417b9688916abc5a197e91c540.ctex"
+path="res://.godot/imported/tree.png-1c7d159611abfb73379380195959f241.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/tree.png"
-dest_files=["res://.godot/imported/tree.png-603f27417b9688916abc5a197e91c540.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/tree.png"
+dest_files=["res://.godot/imported/tree.png-1c7d159611abfb73379380195959f241.ctex"]
 
 [params]
 

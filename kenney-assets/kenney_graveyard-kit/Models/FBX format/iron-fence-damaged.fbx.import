@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmuy4bgti5v48"
-path="res://.godot/imported/iron-fence-damaged.fbx-b0a6a9ac8dae6c8d281546d16e87db37.scn"
+path="res://.godot/imported/iron-fence-damaged.fbx-15f9633d81083cfc9121af2973c8bc00.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/iron-fence-damaged.fbx"
-dest_files=["res://.godot/imported/iron-fence-damaged.fbx-b0a6a9ac8dae6c8d281546d16e87db37.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/iron-fence-damaged.fbx"
+dest_files=["res://.godot/imported/iron-fence-damaged.fbx-15f9633d81083cfc9121af2973c8bc00.scn"]
 
 [params]
 

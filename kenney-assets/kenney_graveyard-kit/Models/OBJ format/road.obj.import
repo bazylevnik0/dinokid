@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://drs74k33or20c"
-path="res://.godot/imported/road.obj-00bbb489e1a5271a0ad9af28a064287c.mesh"
+path="res://.godot/imported/road.obj-1fb79ba2d9219b113b1d45f0f9553ebc.mesh"
 
 [deps]
 
-files=["res://.godot/imported/road.obj-00bbb489e1a5271a0ad9af28a064287c.mesh"]
+files=["res://.godot/imported/road.obj-1fb79ba2d9219b113b1d45f0f9553ebc.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/road.obj"
-dest_files=["res://.godot/imported/road.obj-00bbb489e1a5271a0ad9af28a064287c.mesh", "res://.godot/imported/road.obj-00bbb489e1a5271a0ad9af28a064287c.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/road.obj"
+dest_files=["res://.godot/imported/road.obj-1fb79ba2d9219b113b1d45f0f9553ebc.mesh", "res://.godot/imported/road.obj-1fb79ba2d9219b113b1d45f0f9553ebc.mesh"]
 
 [params]
 

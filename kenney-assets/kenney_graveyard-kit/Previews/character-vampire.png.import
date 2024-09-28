@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhqa6s7ti1rcn"
-path="res://.godot/imported/character-vampire.png-30dded6928b70da4a699b5a107bd0e3b.ctex"
+path="res://.godot/imported/character-vampire.png-ba888729ce3caee3c2dc596e43c73d99.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/character-vampire.png"
-dest_files=["res://.godot/imported/character-vampire.png-30dded6928b70da4a699b5a107bd0e3b.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/character-vampire.png"
+dest_files=["res://.godot/imported/character-vampire.png-ba888729ce3caee3c2dc596e43c73d99.ctex"]
 
 [params]
 

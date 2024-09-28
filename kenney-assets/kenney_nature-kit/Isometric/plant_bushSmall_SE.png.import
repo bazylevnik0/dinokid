@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://baboorqckdomn"
-path="res://.godot/imported/plant_bushSmall_SE.png-2fcaa589b1dffa219404367e8f12542e.ctex"
+path="res://.godot/imported/plant_bushSmall_SE.png-2d85c9bd174e5ba0dfba0d5337187094.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/plant_bushSmall_SE.png"
-dest_files=["res://.godot/imported/plant_bushSmall_SE.png-2fcaa589b1dffa219404367e8f12542e.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/plant_bushSmall_SE.png"
+dest_files=["res://.godot/imported/plant_bushSmall_SE.png-2d85c9bd174e5ba0dfba0d5337187094.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://vaqksnuobuii"
-path="res://.godot/imported/iron-fence-border-column.obj-bce62face30368238b0038e561be84da.mesh"
+path="res://.godot/imported/iron-fence-border-column.obj-7a1f28136b0aa5f17cdfe7a63ab7b114.mesh"
 
 [deps]
 
-files=["res://.godot/imported/iron-fence-border-column.obj-bce62face30368238b0038e561be84da.mesh"]
+files=["res://.godot/imported/iron-fence-border-column.obj-7a1f28136b0aa5f17cdfe7a63ab7b114.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/iron-fence-border-column.obj"
-dest_files=["res://.godot/imported/iron-fence-border-column.obj-bce62face30368238b0038e561be84da.mesh", "res://.godot/imported/iron-fence-border-column.obj-bce62face30368238b0038e561be84da.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/iron-fence-border-column.obj"
+dest_files=["res://.godot/imported/iron-fence-border-column.obj-7a1f28136b0aa5f17cdfe7a63ab7b114.mesh", "res://.godot/imported/iron-fence-border-column.obj-7a1f28136b0aa5f17cdfe7a63ab7b114.mesh"]
 
 [params]
 

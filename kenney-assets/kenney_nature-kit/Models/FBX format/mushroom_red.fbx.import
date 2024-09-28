@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bhiobwxvrkfda"
-path="res://.godot/imported/mushroom_red.fbx-5046399d273b37dd08f7eb35e8a74f19.scn"
+path="res://.godot/imported/mushroom_red.fbx-3cbd98b1e1ca67e724a00fe9b62c1f86.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/mushroom_red.fbx"
-dest_files=["res://.godot/imported/mushroom_red.fbx-5046399d273b37dd08f7eb35e8a74f19.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/mushroom_red.fbx"
+dest_files=["res://.godot/imported/mushroom_red.fbx-3cbd98b1e1ca67e724a00fe9b62c1f86.scn"]
 
 [params]
 

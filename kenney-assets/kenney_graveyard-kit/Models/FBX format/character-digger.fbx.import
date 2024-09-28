@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://behrjl5wofkra"
-path="res://.godot/imported/character-digger.fbx-03020c01c0f535ea458f8f79352a2255.scn"
+path="res://.godot/imported/character-digger.fbx-81e9e8a4256dbb4da32f64ff50c50492.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/character-digger.fbx"
-dest_files=["res://.godot/imported/character-digger.fbx-03020c01c0f535ea458f8f79352a2255.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/character-digger.fbx"
+dest_files=["res://.godot/imported/character-digger.fbx-81e9e8a4256dbb4da32f64ff50c50492.scn"]
 
 [params]
 

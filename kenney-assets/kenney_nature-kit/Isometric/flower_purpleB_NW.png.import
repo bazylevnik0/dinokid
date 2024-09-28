@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5xw7a86xkaa6"
-path="res://.godot/imported/flower_purpleB_NW.png-ec09b492ba325fc51b224c17b57e3b63.ctex"
+path="res://.godot/imported/flower_purpleB_NW.png-364278a8da167b6116769369fbf17e25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/flower_purpleB_NW.png"
-dest_files=["res://.godot/imported/flower_purpleB_NW.png-ec09b492ba325fc51b224c17b57e3b63.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/flower_purpleB_NW.png"
+dest_files=["res://.godot/imported/flower_purpleB_NW.png-364278a8da167b6116769369fbf17e25.ctex"]
 
 [params]
 

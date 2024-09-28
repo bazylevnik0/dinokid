@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://crk00s36tssro"
-path="res://.godot/imported/cliff_halfCornerInner_rock.obj-0bc868b5b6f351956ac5a06f28841416.mesh"
+path="res://.godot/imported/cliff_halfCornerInner_rock.obj-775d55f823757c94e703147b0fd1c5ee.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_halfCornerInner_rock.obj-0bc868b5b6f351956ac5a06f28841416.mesh"]
+files=["res://.godot/imported/cliff_halfCornerInner_rock.obj-775d55f823757c94e703147b0fd1c5ee.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_halfCornerInner_rock.obj"
-dest_files=["res://.godot/imported/cliff_halfCornerInner_rock.obj-0bc868b5b6f351956ac5a06f28841416.mesh", "res://.godot/imported/cliff_halfCornerInner_rock.obj-0bc868b5b6f351956ac5a06f28841416.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_halfCornerInner_rock.obj"
+dest_files=["res://.godot/imported/cliff_halfCornerInner_rock.obj-775d55f823757c94e703147b0fd1c5ee.mesh", "res://.godot/imported/cliff_halfCornerInner_rock.obj-775d55f823757c94e703147b0fd1c5ee.mesh"]
 
 [params]
 

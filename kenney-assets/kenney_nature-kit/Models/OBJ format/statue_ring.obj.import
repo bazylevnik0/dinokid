@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c32jcy58whw4s"
-path="res://.godot/imported/statue_ring.obj-56d081e50d5349c755f47b5df9cb871a.mesh"
+path="res://.godot/imported/statue_ring.obj-decc84b589af9abe6255b6f97170de5d.mesh"
 
 [deps]
 
-files=["res://.godot/imported/statue_ring.obj-56d081e50d5349c755f47b5df9cb871a.mesh"]
+files=["res://.godot/imported/statue_ring.obj-decc84b589af9abe6255b6f97170de5d.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/statue_ring.obj"
-dest_files=["res://.godot/imported/statue_ring.obj-56d081e50d5349c755f47b5df9cb871a.mesh", "res://.godot/imported/statue_ring.obj-56d081e50d5349c755f47b5df9cb871a.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/statue_ring.obj"
+dest_files=["res://.godot/imported/statue_ring.obj-decc84b589af9abe6255b6f97170de5d.mesh", "res://.godot/imported/statue_ring.obj-decc84b589af9abe6255b6f97170de5d.mesh"]
 
 [params]
 

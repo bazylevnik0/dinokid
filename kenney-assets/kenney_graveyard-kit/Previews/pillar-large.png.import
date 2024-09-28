@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dapp05fwnunrs"
-path="res://.godot/imported/pillar-large.png-2fc3e272b0d515d184cdbe9c978505fb.ctex"
+path="res://.godot/imported/pillar-large.png-7d4d702a771fb18b7770eafa9864cf92.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/pillar-large.png"
-dest_files=["res://.godot/imported/pillar-large.png-2fc3e272b0d515d184cdbe9c978505fb.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/pillar-large.png"
+dest_files=["res://.godot/imported/pillar-large.png-7d4d702a771fb18b7770eafa9864cf92.ctex"]
 
 [params]
 

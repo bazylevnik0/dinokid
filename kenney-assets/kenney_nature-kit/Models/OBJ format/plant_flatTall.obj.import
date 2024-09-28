@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://475ojiebecor"
-path="res://.godot/imported/plant_flatTall.obj-aa4f3942dc83ce59c1ea220cafe59dcd.mesh"
+path="res://.godot/imported/plant_flatTall.obj-52251f32f2e474abbbc631ecdf4a0b6a.mesh"
 
 [deps]
 
-files=["res://.godot/imported/plant_flatTall.obj-aa4f3942dc83ce59c1ea220cafe59dcd.mesh"]
+files=["res://.godot/imported/plant_flatTall.obj-52251f32f2e474abbbc631ecdf4a0b6a.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/plant_flatTall.obj"
-dest_files=["res://.godot/imported/plant_flatTall.obj-aa4f3942dc83ce59c1ea220cafe59dcd.mesh", "res://.godot/imported/plant_flatTall.obj-aa4f3942dc83ce59c1ea220cafe59dcd.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/plant_flatTall.obj"
+dest_files=["res://.godot/imported/plant_flatTall.obj-52251f32f2e474abbbc631ecdf4a0b6a.mesh", "res://.godot/imported/plant_flatTall.obj-52251f32f2e474abbbc631ecdf4a0b6a.mesh"]
 
 [params]
 

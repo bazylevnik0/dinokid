@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmr70wqeq3n4g"
-path="res://.godot/imported/campfire_bricks.glb-26de8640386752102e9260ccc7c425ac.scn"
+path="res://.godot/imported/campfire_bricks.glb-487ee70d286ecc795e3255868ad35340.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/campfire_bricks.glb"
-dest_files=["res://.godot/imported/campfire_bricks.glb-26de8640386752102e9260ccc7c425ac.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/campfire_bricks.glb"
+dest_files=["res://.godot/imported/campfire_bricks.glb-487ee70d286ecc795e3255868ad35340.scn"]
 
 [params]
 

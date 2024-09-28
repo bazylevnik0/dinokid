@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1w7iih68oo8o"
-path="res://.godot/imported/detail-plate.png-3700e63ee3b5ed931372e08ac8153880.ctex"
+path="res://.godot/imported/detail-plate.png-3d2b3363b718731738c32f9e23f27787.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/detail-plate.png"
-dest_files=["res://.godot/imported/detail-plate.png-3700e63ee3b5ed931372e08ac8153880.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/detail-plate.png"
+dest_files=["res://.godot/imported/detail-plate.png-3d2b3363b718731738c32f9e23f27787.ctex"]
 
 [params]
 

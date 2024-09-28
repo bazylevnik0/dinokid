@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c7n50d7bkaiac"
-path="res://.godot/imported/tree_palmDetailedShort.obj-758be167200b442012b7c1c5efb6e38e.mesh"
+path="res://.godot/imported/tree_palmDetailedShort.obj-578b9eb805458551c3bfb7ee0a567ee5.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree_palmDetailedShort.obj-758be167200b442012b7c1c5efb6e38e.mesh"]
+files=["res://.godot/imported/tree_palmDetailedShort.obj-578b9eb805458551c3bfb7ee0a567ee5.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_palmDetailedShort.obj"
-dest_files=["res://.godot/imported/tree_palmDetailedShort.obj-758be167200b442012b7c1c5efb6e38e.mesh", "res://.godot/imported/tree_palmDetailedShort.obj-758be167200b442012b7c1c5efb6e38e.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_palmDetailedShort.obj"
+dest_files=["res://.godot/imported/tree_palmDetailedShort.obj-578b9eb805458551c3bfb7ee0a567ee5.mesh", "res://.godot/imported/tree_palmDetailedShort.obj-578b9eb805458551c3bfb7ee0a567ee5.mesh"]
 
 [params]
 

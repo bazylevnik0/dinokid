@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://15ldjsp8mwlj"
-path="res://.godot/imported/character-ghost.fbx-c9a242b11db0ba07b94dd59e0e10ccf3.scn"
+path="res://.godot/imported/character-ghost.fbx-7c2dce2788cf449c3b1bb6d3b509ee02.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/character-ghost.fbx"
-dest_files=["res://.godot/imported/character-ghost.fbx-c9a242b11db0ba07b94dd59e0e10ccf3.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/character-ghost.fbx"
+dest_files=["res://.godot/imported/character-ghost.fbx-7c2dce2788cf449c3b1bb6d3b509ee02.scn"]
 
 [params]
 

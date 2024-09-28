@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cofbsaa5cwupf"
-path="res://.godot/imported/button-round.glb-2d7a58bd1eb83b20943297b6b841f51f.scn"
+path="res://.godot/imported/button-round.glb-d1de0f3ba925877a47884c230f97698d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/button-round.glb"
-dest_files=["res://.godot/imported/button-round.glb-2d7a58bd1eb83b20943297b6b841f51f.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/GLB format/button-round.glb"
+dest_files=["res://.godot/imported/button-round.glb-d1de0f3ba925877a47884c230f97698d.scn"]
 
 [params]
 

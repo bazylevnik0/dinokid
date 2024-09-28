@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://05iibncu0ulm"
-path="res://.godot/imported/path_wood.fbx-44634a2c878133d58547b0929f19177d.scn"
+path="res://.godot/imported/path_wood.fbx-8f0a92493b2ca4ccebec755a65fc926f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/path_wood.fbx"
-dest_files=["res://.godot/imported/path_wood.fbx-44634a2c878133d58547b0929f19177d.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/path_wood.fbx"
+dest_files=["res://.godot/imported/path_wood.fbx-8f0a92493b2ca4ccebec755a65fc926f.scn"]
 
 [params]
 

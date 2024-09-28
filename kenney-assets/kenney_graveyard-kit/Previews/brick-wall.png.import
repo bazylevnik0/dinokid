@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djvul3guedc8l"
-path="res://.godot/imported/brick-wall.png-86bc747d90b6275557f8723430e44d4c.ctex"
+path="res://.godot/imported/brick-wall.png-d7553443c1eca7c44739aa80a7950ea6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/brick-wall.png"
-dest_files=["res://.godot/imported/brick-wall.png-86bc747d90b6275557f8723430e44d4c.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/brick-wall.png"
+dest_files=["res://.godot/imported/brick-wall.png-d7553443c1eca7c44739aa80a7950ea6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dj1c2v8e3omdd"
-path="res://.godot/imported/bench-damaged.png-488539d8ef4f422696e5a3e203ceaddb.ctex"
+path="res://.godot/imported/bench-damaged.png-b7ce81b1ff987d7802a810fc64477372.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/bench-damaged.png"
-dest_files=["res://.godot/imported/bench-damaged.png-488539d8ef4f422696e5a3e203ceaddb.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/bench-damaged.png"
+dest_files=["res://.godot/imported/bench-damaged.png-b7ce81b1ff987d7802a810fc64477372.ctex"]
 
 [params]
 

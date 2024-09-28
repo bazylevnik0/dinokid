@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cegigi0lk0r5o"
-path="res://.godot/imported/campfire_planks.obj-85ce43976b1ba059eb22233c9d56b822.mesh"
+path="res://.godot/imported/campfire_planks.obj-f61f65b7adfeed5de63bcd9090d7e7f4.mesh"
 
 [deps]
 
-files=["res://.godot/imported/campfire_planks.obj-85ce43976b1ba059eb22233c9d56b822.mesh"]
+files=["res://.godot/imported/campfire_planks.obj-f61f65b7adfeed5de63bcd9090d7e7f4.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/campfire_planks.obj"
-dest_files=["res://.godot/imported/campfire_planks.obj-85ce43976b1ba059eb22233c9d56b822.mesh", "res://.godot/imported/campfire_planks.obj-85ce43976b1ba059eb22233c9d56b822.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/campfire_planks.obj"
+dest_files=["res://.godot/imported/campfire_planks.obj-f61f65b7adfeed5de63bcd9090d7e7f4.mesh", "res://.godot/imported/campfire_planks.obj-f61f65b7adfeed5de63bcd9090d7e7f4.mesh"]
 
 [params]
 

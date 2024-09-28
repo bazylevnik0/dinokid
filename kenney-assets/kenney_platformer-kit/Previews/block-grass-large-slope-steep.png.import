@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqtbrba1x2taq"
-path="res://.godot/imported/block-grass-large-slope-steep.png-e6089710251e8a3c4f9402109d8b9a50.ctex"
+path="res://.godot/imported/block-grass-large-slope-steep.png-b7709f266358dcfe3537ceba9d6e20e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Previews/block-grass-large-slope-steep.png"
-dest_files=["res://.godot/imported/block-grass-large-slope-steep.png-e6089710251e8a3c4f9402109d8b9a50.ctex"]
+source_file="res://kenney-assets/kenney_platformer-kit/Previews/block-grass-large-slope-steep.png"
+dest_files=["res://.godot/imported/block-grass-large-slope-steep.png-b7709f266358dcfe3537ceba9d6e20e0.ctex"]
 
 [params]
 

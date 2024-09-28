@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd0dc1am71svf"
-path="res://.godot/imported/stump_squareDetailedWide_SW.png-29251e3300952f0b9eff7c2181a3b308.ctex"
+path="res://.godot/imported/stump_squareDetailedWide_SW.png-c4ce29cd7cecfcb50008446b78ac3492.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/stump_squareDetailedWide_SW.png"
-dest_files=["res://.godot/imported/stump_squareDetailedWide_SW.png-29251e3300952f0b9eff7c2181a3b308.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/stump_squareDetailedWide_SW.png"
+dest_files=["res://.godot/imported/stump_squareDetailedWide_SW.png-c4ce29cd7cecfcb50008446b78ac3492.ctex"]
 
 [params]
 

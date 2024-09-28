@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cfsnm513033a6"
-path="res://.godot/imported/ground_riverSide.dae-98ef1e07de7695191e093a3f51b9ec6c.scn"
+path="res://.godot/imported/ground_riverSide.dae-28d40c372eceb4591dc037f5cc34abf5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_riverSide.dae"
-dest_files=["res://.godot/imported/ground_riverSide.dae-98ef1e07de7695191e093a3f51b9ec6c.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/ground_riverSide.dae"
+dest_files=["res://.godot/imported/ground_riverSide.dae-28d40c372eceb4591dc037f5cc34abf5.scn"]
 
 [params]
 

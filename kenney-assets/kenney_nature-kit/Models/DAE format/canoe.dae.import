@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dma7m6bw7y8np"
-path="res://.godot/imported/canoe.dae-ab457b0c26eb7d012d06718bbd989352.scn"
+path="res://.godot/imported/canoe.dae-e84ba8d5586ae849a1642d860a634116.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/canoe.dae"
-dest_files=["res://.godot/imported/canoe.dae-ab457b0c26eb7d012d06718bbd989352.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/canoe.dae"
+dest_files=["res://.godot/imported/canoe.dae-e84ba8d5586ae849a1642d860a634116.scn"]
 
 [params]
 

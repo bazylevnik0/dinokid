@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3evg0k76b4qw"
-path="res://.godot/imported/crypt-small-entrance-alternative.png-e73ad8caced5b38660d6cc34326ef0a1.ctex"
+path="res://.godot/imported/crypt-small-entrance-alternative.png-4390d5b242dfe0b6bfd62464a8157fe4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/crypt-small-entrance-alternative.png"
-dest_files=["res://.godot/imported/crypt-small-entrance-alternative.png-e73ad8caced5b38660d6cc34326ef0a1.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/crypt-small-entrance-alternative.png"
+dest_files=["res://.godot/imported/crypt-small-entrance-alternative.png-4390d5b242dfe0b6bfd62464a8157fe4.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cfyihagaqpjp2"
-path="res://.godot/imported/fence_planksDouble.obj-216c5139d55d2d2c479933098c07c9dd.mesh"
+path="res://.godot/imported/fence_planksDouble.obj-1123381d808be2cfeb64b52d73b09ab4.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence_planksDouble.obj-216c5139d55d2d2c479933098c07c9dd.mesh"]
+files=["res://.godot/imported/fence_planksDouble.obj-1123381d808be2cfeb64b52d73b09ab4.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/fence_planksDouble.obj"
-dest_files=["res://.godot/imported/fence_planksDouble.obj-216c5139d55d2d2c479933098c07c9dd.mesh", "res://.godot/imported/fence_planksDouble.obj-216c5139d55d2d2c479933098c07c9dd.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/fence_planksDouble.obj"
+dest_files=["res://.godot/imported/fence_planksDouble.obj-1123381d808be2cfeb64b52d73b09ab4.mesh", "res://.godot/imported/fence_planksDouble.obj-1123381d808be2cfeb64b52d73b09ab4.mesh"]
 
 [params]
 

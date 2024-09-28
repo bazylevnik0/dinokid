@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpin48dvsoidy"
-path="res://.godot/imported/ground_riverCross_SW.png-cd4d7249923a5f4a37839ecbdc7839b7.ctex"
+path="res://.godot/imported/ground_riverCross_SW.png-629e9149ac4e3fca4c8066d924a12321.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/ground_riverCross_SW.png"
-dest_files=["res://.godot/imported/ground_riverCross_SW.png-cd4d7249923a5f4a37839ecbdc7839b7.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/ground_riverCross_SW.png"
+dest_files=["res://.godot/imported/ground_riverCross_SW.png-629e9149ac4e3fca4c8066d924a12321.ctex"]
 
 [params]
 

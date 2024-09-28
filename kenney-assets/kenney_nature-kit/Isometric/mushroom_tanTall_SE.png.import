@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxlw0uxt1fqxu"
-path="res://.godot/imported/mushroom_tanTall_SE.png-bfeb730825ba7067e583d10cc309e8e3.ctex"
+path="res://.godot/imported/mushroom_tanTall_SE.png-565bb8593b02ce1cde5a49621a5e742f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/mushroom_tanTall_SE.png"
-dest_files=["res://.godot/imported/mushroom_tanTall_SE.png-bfeb730825ba7067e583d10cc309e8e3.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/mushroom_tanTall_SE.png"
+dest_files=["res://.godot/imported/mushroom_tanTall_SE.png-565bb8593b02ce1cde5a49621a5e742f.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddep8ehdbxpe"
-path="res://.godot/imported/stone-wall-column.fbx-a13fa2f82371a22ca6e446d1d9cdd184.scn"
+path="res://.godot/imported/stone-wall-column.fbx-9ea2ec0070ac055a2b76f4d5a85a089c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/stone-wall-column.fbx"
-dest_files=["res://.godot/imported/stone-wall-column.fbx-a13fa2f82371a22ca6e446d1d9cdd184.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/stone-wall-column.fbx"
+dest_files=["res://.godot/imported/stone-wall-column.fbx-9ea2ec0070ac055a2b76f4d5a85a089c.scn"]
 
 [params]
 

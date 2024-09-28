@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dshmlj3e3rj6e"
-path="res://.godot/imported/stone_largeF.dae-e2593dcde5afcc735d7fbe002754b55e.scn"
+path="res://.godot/imported/stone_largeF.dae-429b4244a187124e8d7f92d1342e744d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/stone_largeF.dae"
-dest_files=["res://.godot/imported/stone_largeF.dae-e2593dcde5afcc735d7fbe002754b55e.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/stone_largeF.dae"
+dest_files=["res://.godot/imported/stone_largeF.dae-429b4244a187124e8d7f92d1342e744d.scn"]
 
 [params]
 

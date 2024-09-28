@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dvju2lc40vovw"
-path="res://.godot/imported/fence_bendCenter.dae-b555a6db9d3190e37137b5367f073ca1.scn"
+path="res://.godot/imported/fence_bendCenter.dae-d2e971e6b17cd09c0f8f8b0be5c98bf0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/fence_bendCenter.dae"
-dest_files=["res://.godot/imported/fence_bendCenter.dae-b555a6db9d3190e37137b5367f073ca1.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/fence_bendCenter.dae"
+dest_files=["res://.godot/imported/fence_bendCenter.dae-d2e971e6b17cd09c0f8f8b0be5c98bf0.scn"]
 
 [params]
 

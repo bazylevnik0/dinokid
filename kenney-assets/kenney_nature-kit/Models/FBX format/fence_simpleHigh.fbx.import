@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cbx0tgqk37pw6"
-path="res://.godot/imported/fence_simpleHigh.fbx-b4f30947bd82ed773ff76d6b69659a82.scn"
+path="res://.godot/imported/fence_simpleHigh.fbx-c175e233eaf0ea4c61eff528ade06363.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/fence_simpleHigh.fbx"
-dest_files=["res://.godot/imported/fence_simpleHigh.fbx-b4f30947bd82ed773ff76d6b69659a82.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/fence_simpleHigh.fbx"
+dest_files=["res://.godot/imported/fence_simpleHigh.fbx-c175e233eaf0ea4c61eff528ade06363.scn"]
 
 [params]
 

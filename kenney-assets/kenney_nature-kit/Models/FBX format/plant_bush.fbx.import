@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cyd7fwauoeiqa"
-path="res://.godot/imported/plant_bush.fbx-271fe64de37f135d244f53315aa4bb7c.scn"
+path="res://.godot/imported/plant_bush.fbx-9d1c8f7d3e8106a07c4cb1ff1230de16.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/plant_bush.fbx"
-dest_files=["res://.godot/imported/plant_bush.fbx-271fe64de37f135d244f53315aa4bb7c.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/plant_bush.fbx"
+dest_files=["res://.godot/imported/plant_bush.fbx-9d1c8f7d3e8106a07c4cb1ff1230de16.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv62kmgvs0new"
-path="res://.godot/imported/campfire_stones_NE.png-3bfaac765b8b4555ca5c54c0c4ff512c.ctex"
+path="res://.godot/imported/campfire_stones_NE.png-4561c4ed944455db73d355b60c0bdeff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/campfire_stones_NE.png"
-dest_files=["res://.godot/imported/campfire_stones_NE.png-3bfaac765b8b4555ca5c54c0c4ff512c.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/campfire_stones_NE.png"
+dest_files=["res://.godot/imported/campfire_stones_NE.png-4561c4ed944455db73d355b60c0bdeff.ctex"]
 
 [params]
 

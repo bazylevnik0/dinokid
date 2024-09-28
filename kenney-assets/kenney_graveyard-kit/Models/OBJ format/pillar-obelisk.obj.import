@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c5r8ba3ce85or"
-path="res://.godot/imported/pillar-obelisk.obj-6a0eae6ef46c64ef20a60a01b996d3db.mesh"
+path="res://.godot/imported/pillar-obelisk.obj-cc50774d1506d62caa9624524d160464.mesh"
 
 [deps]
 
-files=["res://.godot/imported/pillar-obelisk.obj-6a0eae6ef46c64ef20a60a01b996d3db.mesh"]
+files=["res://.godot/imported/pillar-obelisk.obj-cc50774d1506d62caa9624524d160464.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/pillar-obelisk.obj"
-dest_files=["res://.godot/imported/pillar-obelisk.obj-6a0eae6ef46c64ef20a60a01b996d3db.mesh", "res://.godot/imported/pillar-obelisk.obj-6a0eae6ef46c64ef20a60a01b996d3db.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/pillar-obelisk.obj"
+dest_files=["res://.godot/imported/pillar-obelisk.obj-cc50774d1506d62caa9624524d160464.mesh", "res://.godot/imported/pillar-obelisk.obj-cc50774d1506d62caa9624524d160464.mesh"]
 
 [params]
 

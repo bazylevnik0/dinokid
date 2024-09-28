@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bjvaxr5pkqwde"
-path="res://.godot/imported/ground_pathCross.obj-9dab8999148d18fe750c7ad94a81ab66.mesh"
+path="res://.godot/imported/ground_pathCross.obj-75fe792b8c8f6566db8e0ef0d5329926.mesh"
 
 [deps]
 
-files=["res://.godot/imported/ground_pathCross.obj-9dab8999148d18fe750c7ad94a81ab66.mesh"]
+files=["res://.godot/imported/ground_pathCross.obj-75fe792b8c8f6566db8e0ef0d5329926.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_pathCross.obj"
-dest_files=["res://.godot/imported/ground_pathCross.obj-9dab8999148d18fe750c7ad94a81ab66.mesh", "res://.godot/imported/ground_pathCross.obj-9dab8999148d18fe750c7ad94a81ab66.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/ground_pathCross.obj"
+dest_files=["res://.godot/imported/ground_pathCross.obj-75fe792b8c8f6566db8e0ef0d5329926.mesh", "res://.godot/imported/ground_pathCross.obj-75fe792b8c8f6566db8e0ef0d5329926.mesh"]
 
 [params]
 

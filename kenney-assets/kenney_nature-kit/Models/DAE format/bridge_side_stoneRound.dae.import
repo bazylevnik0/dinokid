@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dnqet5qqd8qr2"
-path="res://.godot/imported/bridge_side_stoneRound.dae-70d7eafd236ce94dbb88585ee8042fe3.scn"
+path="res://.godot/imported/bridge_side_stoneRound.dae-8c8c480f597fbad70282653f8cf7cf18.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/bridge_side_stoneRound.dae"
-dest_files=["res://.godot/imported/bridge_side_stoneRound.dae-70d7eafd236ce94dbb88585ee8042fe3.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/bridge_side_stoneRound.dae"
+dest_files=["res://.godot/imported/bridge_side_stoneRound.dae-8c8c480f597fbad70282653f8cf7cf18.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://2rmn2acgcyr2"
-path="res://.godot/imported/cliff_large_rock.fbx-14f1005796c115d72f6c939fb4757ec7.scn"
+path="res://.godot/imported/cliff_large_rock.fbx-9bd17cf16828714f1e541b8daaa9d6cc.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/FBX format/cliff_large_rock.fbx"
-dest_files=["res://.godot/imported/cliff_large_rock.fbx-14f1005796c115d72f6c939fb4757ec7.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/FBX format/cliff_large_rock.fbx"
+dest_files=["res://.godot/imported/cliff_large_rock.fbx-9bd17cf16828714f1e541b8daaa9d6cc.scn"]
 
 [params]
 

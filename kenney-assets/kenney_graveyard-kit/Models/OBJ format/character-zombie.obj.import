@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bfotiij8c7lk8"
-path="res://.godot/imported/character-zombie.obj-ce6b80648e73c4c86af508bab39c18aa.mesh"
+path="res://.godot/imported/character-zombie.obj-fbf795295d8db6802875630979cea0aa.mesh"
 
 [deps]
 
-files=["res://.godot/imported/character-zombie.obj-ce6b80648e73c4c86af508bab39c18aa.mesh"]
+files=["res://.godot/imported/character-zombie.obj-fbf795295d8db6802875630979cea0aa.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/character-zombie.obj"
-dest_files=["res://.godot/imported/character-zombie.obj-ce6b80648e73c4c86af508bab39c18aa.mesh", "res://.godot/imported/character-zombie.obj-ce6b80648e73c4c86af508bab39c18aa.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/character-zombie.obj"
+dest_files=["res://.godot/imported/character-zombie.obj-fbf795295d8db6802875630979cea0aa.mesh", "res://.godot/imported/character-zombie.obj-fbf795295d8db6802875630979cea0aa.mesh"]
 
 [params]
 

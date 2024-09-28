@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bthf7a4ivcwu7"
-path="res://.godot/imported/fence-low-broken.obj-df503d0d960990f88b9282044db25641.mesh"
+path="res://.godot/imported/fence-low-broken.obj-eaf94875915532585bef1e2fc190ca8d.mesh"
 
 [deps]
 
-files=["res://.godot/imported/fence-low-broken.obj-df503d0d960990f88b9282044db25641.mesh"]
+files=["res://.godot/imported/fence-low-broken.obj-eaf94875915532585bef1e2fc190ca8d.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/fence-low-broken.obj"
-dest_files=["res://.godot/imported/fence-low-broken.obj-df503d0d960990f88b9282044db25641.mesh", "res://.godot/imported/fence-low-broken.obj-df503d0d960990f88b9282044db25641.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/fence-low-broken.obj"
+dest_files=["res://.godot/imported/fence-low-broken.obj-eaf94875915532585bef1e2fc190ca8d.mesh", "res://.godot/imported/fence-low-broken.obj-eaf94875915532585bef1e2fc190ca8d.mesh"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c4jfruvtnyfvl"
-path="res://.godot/imported/cliff_cornerInnerLarge_stone.obj-1457af65be673de22b8517078e8ca43b.mesh"
+path="res://.godot/imported/cliff_cornerInnerLarge_stone.obj-27297208fe981482f125744baaca1588.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cliff_cornerInnerLarge_stone.obj-1457af65be673de22b8517078e8ca43b.mesh"]
+files=["res://.godot/imported/cliff_cornerInnerLarge_stone.obj-27297208fe981482f125744baaca1588.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cliff_cornerInnerLarge_stone.obj"
-dest_files=["res://.godot/imported/cliff_cornerInnerLarge_stone.obj-1457af65be673de22b8517078e8ca43b.mesh", "res://.godot/imported/cliff_cornerInnerLarge_stone.obj-1457af65be673de22b8517078e8ca43b.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cliff_cornerInnerLarge_stone.obj"
+dest_files=["res://.godot/imported/cliff_cornerInnerLarge_stone.obj-27297208fe981482f125744baaca1588.mesh", "res://.godot/imported/cliff_cornerInnerLarge_stone.obj-27297208fe981482f125744baaca1588.mesh"]
 
 [params]
 

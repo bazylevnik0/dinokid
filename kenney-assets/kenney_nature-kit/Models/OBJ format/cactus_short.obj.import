@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://ctg0cf6dsehim"
-path="res://.godot/imported/cactus_short.obj-24249c3a428d4270fe87750b09cb3661.mesh"
+path="res://.godot/imported/cactus_short.obj-7c5ffc7c6f8c355ea19bb1127ab4bade.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cactus_short.obj-24249c3a428d4270fe87750b09cb3661.mesh"]
+files=["res://.godot/imported/cactus_short.obj-7c5ffc7c6f8c355ea19bb1127ab4bade.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/cactus_short.obj"
-dest_files=["res://.godot/imported/cactus_short.obj-24249c3a428d4270fe87750b09cb3661.mesh", "res://.godot/imported/cactus_short.obj-24249c3a428d4270fe87750b09cb3661.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/cactus_short.obj"
+dest_files=["res://.godot/imported/cactus_short.obj-7c5ffc7c6f8c355ea19bb1127ab4bade.mesh", "res://.godot/imported/cactus_short.obj-7c5ffc7c6f8c355ea19bb1127ab4bade.mesh"]
 
 [params]
 

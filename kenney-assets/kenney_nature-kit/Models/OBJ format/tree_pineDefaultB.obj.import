@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://qle4uw1k28md"
-path="res://.godot/imported/tree_pineDefaultB.obj-0f36a8a4d3fd3e38a7ab7c886bcbde7c.mesh"
+path="res://.godot/imported/tree_pineDefaultB.obj-98d9537bc55c860291e6da343671b3ac.mesh"
 
 [deps]
 
-files=["res://.godot/imported/tree_pineDefaultB.obj-0f36a8a4d3fd3e38a7ab7c886bcbde7c.mesh"]
+files=["res://.godot/imported/tree_pineDefaultB.obj-98d9537bc55c860291e6da343671b3ac.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/tree_pineDefaultB.obj"
-dest_files=["res://.godot/imported/tree_pineDefaultB.obj-0f36a8a4d3fd3e38a7ab7c886bcbde7c.mesh", "res://.godot/imported/tree_pineDefaultB.obj-0f36a8a4d3fd3e38a7ab7c886bcbde7c.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_pineDefaultB.obj"
+dest_files=["res://.godot/imported/tree_pineDefaultB.obj-98d9537bc55c860291e6da343671b3ac.mesh", "res://.godot/imported/tree_pineDefaultB.obj-98d9537bc55c860291e6da343671b3ac.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djxbyu3srst7g"
-path="res://.godot/imported/character-zombie.png-594595733d61d1f78abe190e095e2e2d.ctex"
+path="res://.godot/imported/character-zombie.png-70062fe23c60ccc893d2c069050fc2c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/character-zombie.png"
-dest_files=["res://.godot/imported/character-zombie.png-594595733d61d1f78abe190e095e2e2d.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/character-zombie.png"
+dest_files=["res://.godot/imported/character-zombie.png-70062fe23c60ccc893d2c069050fc2c8.ctex"]
 
 [params]
 

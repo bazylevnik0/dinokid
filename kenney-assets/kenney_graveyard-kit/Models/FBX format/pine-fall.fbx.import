@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cjfqq2w6xn571"
-path="res://.godot/imported/pine-fall.fbx-abd5161ce5b5ea1a5e94c66bdc027831.scn"
+path="res://.godot/imported/pine-fall.fbx-a8263f6566a35013ee893b06a1bc7f5f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/FBX format/pine-fall.fbx"
-dest_files=["res://.godot/imported/pine-fall.fbx-abd5161ce5b5ea1a5e94c66bdc027831.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/FBX format/pine-fall.fbx"
+dest_files=["res://.godot/imported/pine-fall.fbx-a8263f6566a35013ee893b06a1bc7f5f.scn"]
 
 [params]
 

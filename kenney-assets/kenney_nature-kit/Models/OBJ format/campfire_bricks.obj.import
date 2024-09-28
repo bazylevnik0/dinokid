@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dn2yxsfdo4gre"
-path="res://.godot/imported/campfire_bricks.obj-499d0fb9ba461b70c8a74535bccfc884.mesh"
+path="res://.godot/imported/campfire_bricks.obj-52750d4e8ccb3ddd6ff3f4970174d872.mesh"
 
 [deps]
 
-files=["res://.godot/imported/campfire_bricks.obj-499d0fb9ba461b70c8a74535bccfc884.mesh"]
+files=["res://.godot/imported/campfire_bricks.obj-52750d4e8ccb3ddd6ff3f4970174d872.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/campfire_bricks.obj"
-dest_files=["res://.godot/imported/campfire_bricks.obj-499d0fb9ba461b70c8a74535bccfc884.mesh", "res://.godot/imported/campfire_bricks.obj-499d0fb9ba461b70c8a74535bccfc884.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/campfire_bricks.obj"
+dest_files=["res://.godot/imported/campfire_bricks.obj-52750d4e8ccb3ddd6ff3f4970174d872.mesh", "res://.godot/imported/campfire_bricks.obj-52750d4e8ccb3ddd6ff3f4970174d872.mesh"]
 
 [params]
 

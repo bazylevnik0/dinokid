@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dchwmhccwvfcm"
-path="res://.godot/imported/tree_blocks_dark.dae-6433bf806de52d96eefddad8ed505f9e.scn"
+path="res://.godot/imported/tree_blocks_dark.dae-e22b1255bafe8c90dbc29338abce6bf4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/tree_blocks_dark.dae"
-dest_files=["res://.godot/imported/tree_blocks_dark.dae-6433bf806de52d96eefddad8ed505f9e.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/tree_blocks_dark.dae"
+dest_files=["res://.godot/imported/tree_blocks_dark.dae-e22b1255bafe8c90dbc29338abce6bf4.scn"]
 
 [params]
 

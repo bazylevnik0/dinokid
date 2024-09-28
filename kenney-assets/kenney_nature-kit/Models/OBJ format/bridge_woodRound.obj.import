@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://t2kgxueodp17"
-path="res://.godot/imported/bridge_woodRound.obj-9792afa6609506a344a1dd7bcc2ffd16.mesh"
+path="res://.godot/imported/bridge_woodRound.obj-ab3e18c22188670c7f265726e72da9d1.mesh"
 
 [deps]
 
-files=["res://.godot/imported/bridge_woodRound.obj-9792afa6609506a344a1dd7bcc2ffd16.mesh"]
+files=["res://.godot/imported/bridge_woodRound.obj-ab3e18c22188670c7f265726e72da9d1.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/bridge_woodRound.obj"
-dest_files=["res://.godot/imported/bridge_woodRound.obj-9792afa6609506a344a1dd7bcc2ffd16.mesh", "res://.godot/imported/bridge_woodRound.obj-9792afa6609506a344a1dd7bcc2ffd16.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/bridge_woodRound.obj"
+dest_files=["res://.godot/imported/bridge_woodRound.obj-ab3e18c22188670c7f265726e72da9d1.mesh", "res://.godot/imported/bridge_woodRound.obj-ab3e18c22188670c7f265726e72da9d1.mesh"]
 
 [params]
 

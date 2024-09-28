@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxbd7l3082nf8"
-path="res://.godot/imported/fire-basket.png-1359ba1bd49cc2a1f6b9784e9a4f2eed.ctex"
+path="res://.godot/imported/fire-basket.png-257018fecf97ef463aa833824ab18334.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/fire-basket.png"
-dest_files=["res://.godot/imported/fire-basket.png-1359ba1bd49cc2a1f6b9784e9a4f2eed.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/fire-basket.png"
+dest_files=["res://.godot/imported/fire-basket.png-257018fecf97ef463aa833824ab18334.ctex"]
 
 [params]
 

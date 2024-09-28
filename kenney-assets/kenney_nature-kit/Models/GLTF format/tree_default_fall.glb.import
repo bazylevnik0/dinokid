@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bm60b7svvi8vo"
-path="res://.godot/imported/tree_default_fall.glb-fa19461f9bbaeaa8efeb95ab7c5eb6f4.scn"
+path="res://.godot/imported/tree_default_fall.glb-93705caf42da6a654eda48291f01d638.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/tree_default_fall.glb"
-dest_files=["res://.godot/imported/tree_default_fall.glb-fa19461f9bbaeaa8efeb95ab7c5eb6f4.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/tree_default_fall.glb"
+dest_files=["res://.godot/imported/tree_default_fall.glb-93705caf42da6a654eda48291f01d638.scn"]
 
 [params]
 

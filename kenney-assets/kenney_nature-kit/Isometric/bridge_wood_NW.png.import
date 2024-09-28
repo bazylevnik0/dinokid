@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpe0muv0lbwbw"
-path="res://.godot/imported/bridge_wood_NW.png-5f91ca5357e580edbad6df93ba5e95bb.ctex"
+path="res://.godot/imported/bridge_wood_NW.png-30bd41ccc696506c62d87626bd18c90d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/bridge_wood_NW.png"
-dest_files=["res://.godot/imported/bridge_wood_NW.png-5f91ca5357e580edbad6df93ba5e95bb.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/bridge_wood_NW.png"
+dest_files=["res://.godot/imported/bridge_wood_NW.png-30bd41ccc696506c62d87626bd18c90d.ctex"]
 
 [params]
 

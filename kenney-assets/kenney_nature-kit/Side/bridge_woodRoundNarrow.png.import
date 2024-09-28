@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8cqrvqd0a0uk"
-path="res://.godot/imported/bridge_woodRoundNarrow.png-ff830107a55284c19c8ff8faa7322774.ctex"
+path="res://.godot/imported/bridge_woodRoundNarrow.png-155d3096bc177f647253133f427d8517.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/bridge_woodRoundNarrow.png"
-dest_files=["res://.godot/imported/bridge_woodRoundNarrow.png-ff830107a55284c19c8ff8faa7322774.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/bridge_woodRoundNarrow.png"
+dest_files=["res://.godot/imported/bridge_woodRoundNarrow.png-155d3096bc177f647253133f427d8517.ctex"]
 
 [params]
 

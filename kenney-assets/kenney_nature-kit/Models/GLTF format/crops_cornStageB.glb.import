@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cjae54majx8c5"
-path="res://.godot/imported/crops_cornStageB.glb-3610766df947b212e0161d9f5a6d8e00.scn"
+path="res://.godot/imported/crops_cornStageB.glb-116ac5f0aed0b8ae0a0f39d90fcfd678.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crops_cornStageB.glb"
-dest_files=["res://.godot/imported/crops_cornStageB.glb-3610766df947b212e0161d9f5a6d8e00.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/crops_cornStageB.glb"
+dest_files=["res://.godot/imported/crops_cornStageB.glb-116ac5f0aed0b8ae0a0f39d90fcfd678.scn"]
 
 [params]
 

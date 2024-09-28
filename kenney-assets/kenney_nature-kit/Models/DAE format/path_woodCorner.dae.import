@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://jc7uv17qwacs"
-path="res://.godot/imported/path_woodCorner.dae-8ed028b6b70de345aea56a90f3793510.scn"
+path="res://.godot/imported/path_woodCorner.dae-47fdcc61309a7d4804af54fa0a202a1b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/path_woodCorner.dae"
-dest_files=["res://.godot/imported/path_woodCorner.dae-8ed028b6b70de345aea56a90f3793510.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/path_woodCorner.dae"
+dest_files=["res://.godot/imported/path_woodCorner.dae-47fdcc61309a7d4804af54fa0a202a1b.scn"]
 
 [params]
 

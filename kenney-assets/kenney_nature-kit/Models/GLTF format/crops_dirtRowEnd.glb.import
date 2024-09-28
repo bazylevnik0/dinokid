@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://r32n1l15wuha"
-path="res://.godot/imported/crops_dirtRowEnd.glb-7902b621970a48a3743a6b41975935da.scn"
+path="res://.godot/imported/crops_dirtRowEnd.glb-b951f484c3211d164a18c706f75f6b4d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crops_dirtRowEnd.glb"
-dest_files=["res://.godot/imported/crops_dirtRowEnd.glb-7902b621970a48a3743a6b41975935da.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/crops_dirtRowEnd.glb"
+dest_files=["res://.godot/imported/crops_dirtRowEnd.glb-b951f484c3211d164a18c706f75f6b4d.scn"]
 
 [params]
 

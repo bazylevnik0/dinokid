@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c64boki4qplmc"
-path="res://.godot/imported/block-snow-overhang-large-slope-steep.obj-c53ddd1071461a395e833429107092e4.mesh"
+path="res://.godot/imported/block-snow-overhang-large-slope-steep.obj-c34eaba9bd5ed238c5c387f757602333.mesh"
 
 [deps]
 
-files=["res://.godot/imported/block-snow-overhang-large-slope-steep.obj-c53ddd1071461a395e833429107092e4.mesh"]
+files=["res://.godot/imported/block-snow-overhang-large-slope-steep.obj-c34eaba9bd5ed238c5c387f757602333.mesh"]
 
-source_file="res://assets/kenney_platformer-kit/Models/OBJ format/block-snow-overhang-large-slope-steep.obj"
-dest_files=["res://.godot/imported/block-snow-overhang-large-slope-steep.obj-c53ddd1071461a395e833429107092e4.mesh", "res://.godot/imported/block-snow-overhang-large-slope-steep.obj-c53ddd1071461a395e833429107092e4.mesh"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/block-snow-overhang-large-slope-steep.obj"
+dest_files=["res://.godot/imported/block-snow-overhang-large-slope-steep.obj-c34eaba9bd5ed238c5c387f757602333.mesh", "res://.godot/imported/block-snow-overhang-large-slope-steep.obj-c34eaba9bd5ed238c5c387f757602333.mesh"]
 
 [params]
 

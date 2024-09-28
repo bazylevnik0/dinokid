@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dp5ksfjwnk0ot"
-path="res://.godot/imported/stone-wall-column.obj-3cf352330baca1233af4e64f53a66165.mesh"
+path="res://.godot/imported/stone-wall-column.obj-bf02ff6a16702e4c4140c720334659ba.mesh"
 
 [deps]
 
-files=["res://.godot/imported/stone-wall-column.obj-3cf352330baca1233af4e64f53a66165.mesh"]
+files=["res://.godot/imported/stone-wall-column.obj-bf02ff6a16702e4c4140c720334659ba.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/stone-wall-column.obj"
-dest_files=["res://.godot/imported/stone-wall-column.obj-3cf352330baca1233af4e64f53a66165.mesh", "res://.godot/imported/stone-wall-column.obj-3cf352330baca1233af4e64f53a66165.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/stone-wall-column.obj"
+dest_files=["res://.godot/imported/stone-wall-column.obj-bf02ff6a16702e4c4140c720334659ba.mesh", "res://.godot/imported/stone-wall-column.obj-bf02ff6a16702e4c4140c720334659ba.mesh"]
 
 [params]
 

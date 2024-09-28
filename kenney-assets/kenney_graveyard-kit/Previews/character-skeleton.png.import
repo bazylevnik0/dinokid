@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qajjdnmwqach"
-path="res://.godot/imported/character-skeleton.png-b48ac3689dc4bf3490410f53b7d4cc3e.ctex"
+path="res://.godot/imported/character-skeleton.png-ed10d74a559c6c1593844cd758d9428a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/character-skeleton.png"
-dest_files=["res://.godot/imported/character-skeleton.png-b48ac3689dc4bf3490410f53b7d4cc3e.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/character-skeleton.png"
+dest_files=["res://.godot/imported/character-skeleton.png-ed10d74a559c6c1593844cd758d9428a.ctex"]
 
 [params]
 

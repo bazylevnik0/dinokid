@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xjlnse3lexxi"
-path="res://.godot/imported/block-snow-low-hexagon.glb-5202eceaeb6ff7c5be67cd0a8ee5b5ce.scn"
+path="res://.godot/imported/block-snow-low-hexagon.glb-9b9cefeede32b77105231527a7e378df.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-snow-low-hexagon.glb"
-dest_files=["res://.godot/imported/block-snow-low-hexagon.glb-5202eceaeb6ff7c5be67cd0a8ee5b5ce.scn"]
+source_file="res://kenney-assets/kenney_platformer-kit/Models/GLB format/block-snow-low-hexagon.glb"
+dest_files=["res://.godot/imported/block-snow-low-hexagon.glb-9b9cefeede32b77105231527a7e378df.scn"]
 
 [params]
 

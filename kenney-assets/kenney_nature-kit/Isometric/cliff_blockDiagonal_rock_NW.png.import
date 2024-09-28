@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccyftgb8be3e1"
-path="res://.godot/imported/cliff_blockDiagonal_rock_NW.png-31dfc9974e0109ee8d5e4d9e3a4e92ef.ctex"
+path="res://.godot/imported/cliff_blockDiagonal_rock_NW.png-dfffd09f1f87d4abf3864810aa80490a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/cliff_blockDiagonal_rock_NW.png"
-dest_files=["res://.godot/imported/cliff_blockDiagonal_rock_NW.png-31dfc9974e0109ee8d5e4d9e3a4e92ef.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/cliff_blockDiagonal_rock_NW.png"
+dest_files=["res://.godot/imported/cliff_blockDiagonal_rock_NW.png-dfffd09f1f87d4abf3864810aa80490a.ctex"]
 
 [params]
 

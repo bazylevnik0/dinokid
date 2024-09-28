@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://lr3eab662bm6"
-path="res://.godot/imported/ground_riverRocks.glb-c93ae7e74de3a38d7646fd088289960e.scn"
+path="res://.godot/imported/ground_riverRocks.glb-381729a0805c4e28a84eb22843afeff0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverRocks.glb"
-dest_files=["res://.godot/imported/ground_riverRocks.glb-c93ae7e74de3a38d7646fd088289960e.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/GLTF format/ground_riverRocks.glb"
+dest_files=["res://.godot/imported/ground_riverRocks.glb-381729a0805c4e28a84eb22843afeff0.scn"]
 
 [params]
 

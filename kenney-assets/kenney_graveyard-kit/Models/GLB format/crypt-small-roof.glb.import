@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://jmbpray6ju6k"
-path="res://.godot/imported/crypt-small-roof.glb-bf1bffd04113d7616e3f2d5c22083bb1.scn"
+path="res://.godot/imported/crypt-small-roof.glb-9915840ce2499728a4f4c3d3d915bd8c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/crypt-small-roof.glb"
-dest_files=["res://.godot/imported/crypt-small-roof.glb-bf1bffd04113d7616e3f2d5c22083bb1.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/crypt-small-roof.glb"
+dest_files=["res://.godot/imported/crypt-small-roof.glb-9915840ce2499728a4f4c3d3d915bd8c.scn"]
 
 [params]
 

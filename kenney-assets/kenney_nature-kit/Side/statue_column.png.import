@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vj8pordtfw6v"
-path="res://.godot/imported/statue_column.png-1ffccf586f542a4c5951af7e7f255819.ctex"
+path="res://.godot/imported/statue_column.png-220db3f4eaf90f5a79401344191e767b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Side/statue_column.png"
-dest_files=["res://.godot/imported/statue_column.png-1ffccf586f542a4c5951af7e7f255819.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Side/statue_column.png"
+dest_files=["res://.godot/imported/statue_column.png-220db3f4eaf90f5a79401344191e767b.ctex"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dp00grhbvyvhy"
-path="res://.godot/imported/ground_pathRocks.obj-446630f3f1e8876d365d105345fcbb7f.mesh"
+path="res://.godot/imported/ground_pathRocks.obj-50dfbb5a8b3c232f63b9549373fc1dc8.mesh"
 
 [deps]
 
-files=["res://.godot/imported/ground_pathRocks.obj-446630f3f1e8876d365d105345fcbb7f.mesh"]
+files=["res://.godot/imported/ground_pathRocks.obj-50dfbb5a8b3c232f63b9549373fc1dc8.mesh"]
 
-source_file="res://assets/kenney_nature-kit/Models/OBJ format/ground_pathRocks.obj"
-dest_files=["res://.godot/imported/ground_pathRocks.obj-446630f3f1e8876d365d105345fcbb7f.mesh", "res://.godot/imported/ground_pathRocks.obj-446630f3f1e8876d365d105345fcbb7f.mesh"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/ground_pathRocks.obj"
+dest_files=["res://.godot/imported/ground_pathRocks.obj-50dfbb5a8b3c232f63b9549373fc1dc8.mesh", "res://.godot/imported/ground_pathRocks.obj-50dfbb5a8b3c232f63b9549373fc1dc8.mesh"]
 
 [params]
 

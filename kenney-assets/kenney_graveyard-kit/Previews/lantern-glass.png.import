@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bplm7tqfgh0cn"
-path="res://.godot/imported/lantern-glass.png-b6879efb05e81ee2c97cd98f0c30d1f5.ctex"
+path="res://.godot/imported/lantern-glass.png-c1243e4f3c4fc4b28f8f6342cb717b6f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Previews/lantern-glass.png"
-dest_files=["res://.godot/imported/lantern-glass.png-b6879efb05e81ee2c97cd98f0c30d1f5.ctex"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Previews/lantern-glass.png"
+dest_files=["res://.godot/imported/lantern-glass.png-c1243e4f3c4fc4b28f8f6342cb717b6f.ctex"]
 
 [params]
 

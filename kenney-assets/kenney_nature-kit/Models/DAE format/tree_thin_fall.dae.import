@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://rtsp5cjm6o2h"
-path="res://.godot/imported/tree_thin_fall.dae-a2d6ab6b0ca46bad0e440fae0a1263e0.scn"
+path="res://.godot/imported/tree_thin_fall.dae-628f976e0b34e13002531fea4d7a411e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/DAE format/tree_thin_fall.dae"
-dest_files=["res://.godot/imported/tree_thin_fall.dae-a2d6ab6b0ca46bad0e440fae0a1263e0.scn"]
+source_file="res://kenney-assets/kenney_nature-kit/Models/DAE format/tree_thin_fall.dae"
+dest_files=["res://.godot/imported/tree_thin_fall.dae-628f976e0b34e13002531fea4d7a411e.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://l0ine05ucsth"
-path="res://.godot/imported/stone-wall-curve.glb-91added1e7e906b2acc28c0b20c4ae11.scn"
+path="res://.godot/imported/stone-wall-curve.glb-9cff9f1719b5e6277e06080415a4f42c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_graveyard-kit/Models/GLB format/stone-wall-curve.glb"
-dest_files=["res://.godot/imported/stone-wall-curve.glb-91added1e7e906b2acc28c0b20c4ae11.scn"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/GLB format/stone-wall-curve.glb"
+dest_files=["res://.godot/imported/stone-wall-curve.glb-9cff9f1719b5e6277e06080415a4f42c.scn"]
 
 [params]
 

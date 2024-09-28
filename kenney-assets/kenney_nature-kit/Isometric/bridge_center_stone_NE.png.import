@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c173j05y7skeg"
-path="res://.godot/imported/bridge_center_stone_NE.png-77b35c7f62b043128a66435820ef9763.ctex"
+path="res://.godot/imported/bridge_center_stone_NE.png-b2092382481208a5245ddc6e20066789.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/bridge_center_stone_NE.png"
-dest_files=["res://.godot/imported/bridge_center_stone_NE.png-77b35c7f62b043128a66435820ef9763.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/bridge_center_stone_NE.png"
+dest_files=["res://.godot/imported/bridge_center_stone_NE.png-b2092382481208a5245ddc6e20066789.ctex"]
 
 [params]
 

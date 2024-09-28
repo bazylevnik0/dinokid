@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg53hhpe2gfb2"
-path="res://.godot/imported/stone_largeE_SW.png-b9eb0f26300e89564ff8cb9dbc97ef33.ctex"
+path="res://.godot/imported/stone_largeE_SW.png-4074b8b9507749b84d828228da26ca62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/stone_largeE_SW.png"
-dest_files=["res://.godot/imported/stone_largeE_SW.png-b9eb0f26300e89564ff8cb9dbc97ef33.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/stone_largeE_SW.png"
+dest_files=["res://.godot/imported/stone_largeE_SW.png-4074b8b9507749b84d828228da26ca62.ctex"]
 
 [params]
 

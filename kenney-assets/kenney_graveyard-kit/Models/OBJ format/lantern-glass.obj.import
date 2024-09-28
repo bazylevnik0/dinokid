@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://csiw8aviee5v7"
-path="res://.godot/imported/lantern-glass.obj-6f33c48c314f39905fd6c660f47cdf74.mesh"
+path="res://.godot/imported/lantern-glass.obj-93b1ac43994e2e565c019e11ed7f5d5b.mesh"
 
 [deps]
 
-files=["res://.godot/imported/lantern-glass.obj-6f33c48c314f39905fd6c660f47cdf74.mesh"]
+files=["res://.godot/imported/lantern-glass.obj-93b1ac43994e2e565c019e11ed7f5d5b.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/lantern-glass.obj"
-dest_files=["res://.godot/imported/lantern-glass.obj-6f33c48c314f39905fd6c660f47cdf74.mesh", "res://.godot/imported/lantern-glass.obj-6f33c48c314f39905fd6c660f47cdf74.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/lantern-glass.obj"
+dest_files=["res://.godot/imported/lantern-glass.obj-93b1ac43994e2e565c019e11ed7f5d5b.mesh", "res://.godot/imported/lantern-glass.obj-93b1ac43994e2e565c019e11ed7f5d5b.mesh"]
 
 [params]
 

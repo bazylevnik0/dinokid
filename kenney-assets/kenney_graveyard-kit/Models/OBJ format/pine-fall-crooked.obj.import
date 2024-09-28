@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dh22wdtu8np2t"
-path="res://.godot/imported/pine-fall-crooked.obj-ecae9ee738ad5b276b52da5bdafad569.mesh"
+path="res://.godot/imported/pine-fall-crooked.obj-f02993b9ac7339f2f6e551cb5b24bea1.mesh"
 
 [deps]
 
-files=["res://.godot/imported/pine-fall-crooked.obj-ecae9ee738ad5b276b52da5bdafad569.mesh"]
+files=["res://.godot/imported/pine-fall-crooked.obj-f02993b9ac7339f2f6e551cb5b24bea1.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/pine-fall-crooked.obj"
-dest_files=["res://.godot/imported/pine-fall-crooked.obj-ecae9ee738ad5b276b52da5bdafad569.mesh", "res://.godot/imported/pine-fall-crooked.obj-ecae9ee738ad5b276b52da5bdafad569.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/pine-fall-crooked.obj"
+dest_files=["res://.godot/imported/pine-fall-crooked.obj-f02993b9ac7339f2f6e551cb5b24bea1.mesh", "res://.godot/imported/pine-fall-crooked.obj-f02993b9ac7339f2f6e551cb5b24bea1.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cugwk13f6xuw0"
-path="res://.godot/imported/tree_oak_dark_SW.png-42a2da4b9b01a4326fd083d3627c38fa.ctex"
+path="res://.godot/imported/tree_oak_dark_SW.png-5e0e97ea44bf43e3a346b0472ca2de0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Isometric/tree_oak_dark_SW.png"
-dest_files=["res://.godot/imported/tree_oak_dark_SW.png-42a2da4b9b01a4326fd083d3627c38fa.ctex"]
+source_file="res://kenney-assets/kenney_nature-kit/Isometric/tree_oak_dark_SW.png"
+dest_files=["res://.godot/imported/tree_oak_dark_SW.png-5e0e97ea44bf43e3a346b0472ca2de0b.ctex"]
 
 [params]
 

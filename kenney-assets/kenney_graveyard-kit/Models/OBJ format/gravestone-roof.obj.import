@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://bsoa0vqjppsgf"
-path="res://.godot/imported/gravestone-roof.obj-f9ad8dad46b49c738400fae83514200b.mesh"
+path="res://.godot/imported/gravestone-roof.obj-f0a2b04b5f967318898a04a0baf21678.mesh"
 
 [deps]
 
-files=["res://.godot/imported/gravestone-roof.obj-f9ad8dad46b49c738400fae83514200b.mesh"]
+files=["res://.godot/imported/gravestone-roof.obj-f0a2b04b5f967318898a04a0baf21678.mesh"]
 
-source_file="res://assets/kenney_graveyard-kit/Models/OBJ format/gravestone-roof.obj"
-dest_files=["res://.godot/imported/gravestone-roof.obj-f9ad8dad46b49c738400fae83514200b.mesh", "res://.godot/imported/gravestone-roof.obj-f9ad8dad46b49c738400fae83514200b.mesh"]
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/gravestone-roof.obj"
+dest_files=["res://.godot/imported/gravestone-roof.obj-f0a2b04b5f967318898a04a0baf21678.mesh", "res://.godot/imported/gravestone-roof.obj-f0a2b04b5f967318898a04a0baf21678.mesh"]
 
 [params]
 
