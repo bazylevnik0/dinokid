@@ -1,9 +1,9 @@
 extends CharacterBody3D
 
-@export var max_speed_forward  = 10
+@export var max_speed_forward  = 50
 @export var max_speed_backward = -1
-@export var max_jump_height = 30
-@export var fall_acceleration = 200
+@export var max_jump_height = 150
+@export var fall_acceleration = 1000
 
 var target_velocity = Vector3.ZERO
 var target_speed = 0
@@ -24,7 +24,7 @@ func _physics_process(delta):
 			$Dino/AnimationPlayer.play("Animation")
 			if not $SoundWalking.playing :
 				$SoundWalking.play()
-		target_speed -= 0.1;
+		target_speed -= 0.3;
 		if target_speed <= max_speed_backward :
 			target_speed = max_speed_backward;
 		direction.x += 1
@@ -36,7 +36,7 @@ func _physics_process(delta):
 			$Dino/AnimationPlayer.play("Animation")
 			if not $SoundWalking.playing :
 				$SoundWalking.play()
-		target_speed += 0.1;
+		target_speed += 0.3;
 		if target_speed >= max_speed_forward :
 			target_speed = max_speed_forward
 		direction.x -= 1
@@ -52,8 +52,8 @@ func _physics_process(delta):
 			jump_is_started = true
 			$SoundJumping.play()
 	if jump_is_started == true :
-		direction.y += 1
-		target_jump_height -= 1
+		direction.y += 5
+		target_jump_height -= 5
 		if target_jump_height <= 0 :
 			target_jump_height = 0
 			jump_is_started = false
