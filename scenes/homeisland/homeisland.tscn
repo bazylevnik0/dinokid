@@ -1,14 +1,44 @@
-[gd_scene load_steps=3 format=3 uid="uid://dx4lxm1r2jg7p"]
+[gd_scene load_steps=4 format=3 uid="uid://dx4lxm1r2jg7p"]
 
 [ext_resource type="PackedScene" uid="uid://xssqo1e5cb6j" path="res://scenes/homeisland/homeisland.glb" id="1_xpp0k"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://scenes/global/dino/dino.tscn" id="2_lywmn"]
+[ext_resource type="PackedScene" uid="uid://dn1826ljsp2di" path="res://scenes/homeisland/river_stone.tscn" id="3_susdb"]
 
 [node name="Node3D" type="Node3D"]
 
-[node name="StaticBody3D" type="StaticBody3D" parent="."]
-
-[node name="homeisland" parent="StaticBody3D" instance=ExtResource("1_xpp0k")]
-transform = Transform3D(-1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 0, 0, 0)
-
 [node name="Dino" parent="." instance=ExtResource("2_lywmn")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.65785, 0)
+
+[node name="Map" type="StaticBody3D" parent="."]
+
+[node name="homeisland" parent="Map" instance=ExtResource("1_xpp0k")]
+transform = Transform3D(-1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 0, 0, 0)
+
+[node name="RiverStones" type="StaticBody3D" parent="."]
+
+[node name="RiverStone9" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.5748, -26.5734, -192.899)
+
+[node name="RiverStone8" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.5748, -26.5734, -180.603)
+
+[node name="RiverStone7" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.4541, -26.5734, -168.044)
+
+[node name="RiverStone6" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.4504, -26.5597, -155.757)
+
+[node name="RiverStone5" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -26.4992, -155.689)
+
+[node name="RiverStone4" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.9352, -26.5885, -155.713)
+
+[node name="RiverStone3" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.012, -26.5732, -142.823)
+
+[node name="RiverStone2" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.9076, -26.6629, -129.588)
+
+[node name="RiverStone1" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.9631, -26.8733, -116.192)
