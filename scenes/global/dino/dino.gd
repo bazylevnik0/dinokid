@@ -2,7 +2,7 @@ extends CharacterBody3D
 
 @export var max_speed_forward  = 50
 @export var max_speed_backward = -1
-@export var max_jump_height = 150
+@export var max_jump_height = 400
 @export var fall_acceleration = 1000
 
 var target_velocity = Vector3.ZERO

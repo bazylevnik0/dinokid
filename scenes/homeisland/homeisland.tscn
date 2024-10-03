@@ -1,10 +1,11 @@
-[gd_scene load_steps=13 format=3 uid="uid://dx4lxm1r2jg7p"]
+[gd_scene load_steps=14 format=3 uid="uid://dx4lxm1r2jg7p"]
 
 [ext_resource type="Script" path="res://scenes/homeisland/homeisland.gd" id="1_8qmwn"]
 [ext_resource type="PackedScene" uid="uid://xssqo1e5cb6j" path="res://scenes/homeisland/homeisland.glb" id="1_xpp0k"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://scenes/global/dino/dino.tscn" id="2_lywmn"]
 [ext_resource type="PackedScene" uid="uid://dn1826ljsp2di" path="res://scenes/homeisland/river_stone.tscn" id="3_susdb"]
 [ext_resource type="PackedScene" uid="uid://bdjf4dyixbnfm" path="res://kenney-assets/kenney_platformer-kit/Models/GLB format/block-moving.glb" id="5_3yr24"]
+[ext_resource type="PackedScene" uid="uid://cis03rxvl6s1u" path="res://scenes/homeisland/ocean_stone.tscn" id="6_xh1xo"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_715jo"]
 size = Vector3(20.1808, 6.26833, 20.337)
@@ -111,6 +112,23 @@ libraries = {
 "": SubResource("AnimationLibrary_y3udp")
 }
 autoplay = "moving"
+
+[node name="OceanStones" type="Area3D" parent="."]
+
+[node name="OceanStone1" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -88, -526.681)
+
+[node name="OceanStone2" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -83.4478, -552.619)
+
+[node name="OceanStone3" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -79.0933, -578.445)
+
+[node name="OceanStone4" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -73.1999, -604.481)
+
+[node name="OceanStone5" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -67.6411, -630.599)
 
 [node name="ResetArea" type="Area3D" parent="."]
 
