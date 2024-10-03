@@ -4,8 +4,8 @@ var rng = RandomNumberGenerator.new()
 
 var direction
 var delta_move
-@export var delta_move_max = rng.randf_range(2.5, 4.5)
-@export var delta_move_speed = rng.randf_range(0.05, 0.15)
+@export var delta_move_max = rng.randf_range(2.5, 3.5)
+@export var delta_move_speed = rng.randf_range(0.05, 0.1)
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	var random_number = rng.randi_range(0, 1)

@@ -1,10 +1,18 @@
-[gd_scene load_steps=4 format=3 uid="uid://dx4lxm1r2jg7p"]
+[gd_scene load_steps=7 format=3 uid="uid://dx4lxm1r2jg7p"]
 
+[ext_resource type="Script" path="res://scenes/homeisland/homeisland.gd" id="1_8qmwn"]
 [ext_resource type="PackedScene" uid="uid://xssqo1e5cb6j" path="res://scenes/homeisland/homeisland.glb" id="1_xpp0k"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://scenes/global/dino/dino.tscn" id="2_lywmn"]
 [ext_resource type="PackedScene" uid="uid://dn1826ljsp2di" path="res://scenes/homeisland/river_stone.tscn" id="3_susdb"]
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_coxer"]
+size = Vector3(27.5924, 4.00208, 12.3622)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_vpcgt"]
+size = Vector3(89.3133, 1, 138.744)
+
 [node name="Node3D" type="Node3D"]
+script = ExtResource("1_8qmwn")
 
 [node name="Dino" parent="." instance=ExtResource("2_lywmn")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.65785, 0)
@@ -42,3 +50,15 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.9076, -26.6629, -129.588)
 
 [node name="RiverStone1" parent="RiverStones" instance=ExtResource("3_susdb")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.9631, -26.8733, -116.192)
+
+[node name="ResetArea" type="Area3D" parent="."]
+
+[node name="MountainTrap" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.295273, -20.737, -70.725)
+shape = SubResource("BoxShape3D_coxer")
+
+[node name="RiverWater" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0701141, -36.1452, -148.373)
+shape = SubResource("BoxShape3D_vpcgt")
+
+[connection signal="body_entered" from="ResetArea" to="." method="_on_reset_area_body_entered"]
