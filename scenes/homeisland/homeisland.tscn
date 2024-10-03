@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=3 uid="uid://dx4lxm1r2jg7p"]
+[gd_scene load_steps=8 format=3 uid="uid://dx4lxm1r2jg7p"]
 
 [ext_resource type="Script" path="res://scenes/homeisland/homeisland.gd" id="1_8qmwn"]
 [ext_resource type="PackedScene" uid="uid://xssqo1e5cb6j" path="res://scenes/homeisland/homeisland.glb" id="1_xpp0k"]
@@ -10,6 +10,9 @@ size = Vector3(27.5924, 4.00208, 12.3622)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_vpcgt"]
 size = Vector3(89.3133, 1, 138.744)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_lexrg"]
+size = Vector3(46.8854, 1, 56.8051)
 
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_8qmwn")
@@ -60,5 +63,9 @@ shape = SubResource("BoxShape3D_coxer")
 [node name="RiverWater" type="CollisionShape3D" parent="ResetArea"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0701141, -36.1452, -148.373)
 shape = SubResource("BoxShape3D_vpcgt")
+
+[node name="ForrestTrap" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 0.660067, 0.751207, 0, -0.751207, 0.660067, -0.100204, -50.2572, -294.415)
+shape = SubResource("BoxShape3D_lexrg")
 
 [connection signal="body_entered" from="ResetArea" to="." method="_on_reset_area_body_entered"]
