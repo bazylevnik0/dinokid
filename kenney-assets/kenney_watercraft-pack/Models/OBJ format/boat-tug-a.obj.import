@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhy5g7q0nsvf1"
+path="res://.godot/imported/boat-tug-a.obj-7092814f556254749bedfed2cc37fd75.mesh"
+
+[deps]
+
+files=["res://.godot/imported/boat-tug-a.obj-7092814f556254749bedfed2cc37fd75.mesh"]
+
+source_file="res://kenney-assets/kenney_watercraft-pack/Models/OBJ format/boat-tug-a.obj"
+dest_files=["res://.godot/imported/boat-tug-a.obj-7092814f556254749bedfed2cc37fd75.mesh", "res://.godot/imported/boat-tug-a.obj-7092814f556254749bedfed2cc37fd75.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

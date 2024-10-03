@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cscko4c8r0p6l"
+path="res://.godot/imported/gate.obj-f23abaa36354b6b83de583f918d9179c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/gate.obj-f23abaa36354b6b83de583f918d9179c.mesh"]
+
+source_file="res://kenney-assets/kenney_watercraft-pack/Models/OBJ format/gate.obj"
+dest_files=["res://.godot/imported/gate.obj-f23abaa36354b6b83de583f918d9179c.mesh", "res://.godot/imported/gate.obj-f23abaa36354b6b83de583f918d9179c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bkh3m12a2p1nn"
+path="res://.godot/imported/ship-small-ghost.obj-9647503000789c7b23b432abc9bd0656.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ship-small-ghost.obj-9647503000789c7b23b432abc9bd0656.mesh"]
+
+source_file="res://kenney-assets/kenney_watercraft-pack/Models/OBJ format/ship-small-ghost.obj"
+dest_files=["res://.godot/imported/ship-small-ghost.obj-9647503000789c7b23b432abc9bd0656.mesh", "res://.godot/imported/ship-small-ghost.obj-9647503000789c7b23b432abc9bd0656.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bbxgd5ddfwklg"
+path="res://.godot/imported/gate-finish.obj-0e2c3b8c6bb6d296e332c2cc097735ca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/gate-finish.obj-0e2c3b8c6bb6d296e332c2cc097735ca.mesh"]
+
+source_file="res://kenney-assets/kenney_watercraft-pack/Models/OBJ format/gate-finish.obj"
+dest_files=["res://.godot/imported/gate-finish.obj-0e2c3b8c6bb6d296e332c2cc097735ca.mesh", "res://.godot/imported/gate-finish.obj-0e2c3b8c6bb6d296e332c2cc097735ca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
