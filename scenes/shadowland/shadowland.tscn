@@ -6,6 +6,6 @@
 [node name="Node3D" type="Node3D"]
 
 [node name="Dino" parent="." instance=ExtResource("2_li4o7")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.81851, -30.6898)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.81851, -388.338)
 
 [node name="shadowland" parent="." instance=ExtResource("1_nbbjc")]
