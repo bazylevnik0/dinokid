@@ -2,8 +2,8 @@ extends CharacterBody3D
 
 @export var max_speed_forward  = 50
 @export var max_speed_backward = -1
-@export var max_jump_height = 400
-@export var fall_acceleration = 1000
+@export var max_jump_height = 600
+@export var fall_acceleration = 2000
 
 var target_velocity = Vector3.ZERO
 var target_speed = 0
@@ -15,9 +15,9 @@ func _physics_process(delta):
 	var direction = Vector3.ZERO
 
 	if Input.is_action_pressed("move_right"):
-		rotation.y -= PI/180
+		rotation.y -= PI/120
 	if Input.is_action_pressed("move_left"):
-		rotation.y += PI/180
+		rotation.y += PI/120
 	
 	if Input.is_action_pressed("move_backward"):
 		if is_on_floor():
@@ -52,8 +52,8 @@ func _physics_process(delta):
 			jump_is_started = true
 			$SoundJumping.play()
 	if jump_is_started == true :
-		direction.y += 5
-		target_jump_height -= 5
+		direction.y += 25
+		target_jump_height -= 25
 		if target_jump_height <= 0 :
 			target_jump_height = 0
 			jump_is_started = false

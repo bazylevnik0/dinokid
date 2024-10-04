@@ -1,0 +1,27 @@
+[gd_scene load_steps=4 format=3 uid="uid://dxkluhf78373e"]
+
+[ext_resource type="PackedScene" uid="uid://cup72f0bffjeu" path="res://kenney-assets/kenney_platformer-kit/Models/GLB format/platform.glb" id="1_qeeiw"]
+[ext_resource type="Script" path="res://scenes/shadowland/bridge_platform.gd" id="1_vdjut"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_nxrol"]
+size = Vector3(8.5834, 2.20302, 8.75834)
+
+[node name="Node3D" type="Node3D"]
+script = ExtResource("1_vdjut")
+
+[node name="AnimatableBody3D" type="AnimatableBody3D" parent="."]
+
+[node name="platform2" parent="AnimatableBody3D" instance=ExtResource("1_qeeiw")]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="AnimatableBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0263062, 0.132858, 0.0264206)
+shape = SubResource("BoxShape3D_nxrol")
+
+[node name="AreaOnPlatform" type="Area3D" parent="AnimatableBody3D"]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="AnimatableBody3D/AreaOnPlatform"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.49437, 1.07137, 0.174715)
+shape = SubResource("BoxShape3D_nxrol")
+
+[connection signal="body_entered" from="AnimatableBody3D/AreaOnPlatform" to="." method="_on_area_on_platform_body_entered"]

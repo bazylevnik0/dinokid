@@ -67,7 +67,7 @@ size = Vector3(896.36, 1, 1653.5)
 script = ExtResource("1_8qmwn")
 
 [node name="Dino" parent="." instance=ExtResource("2_lywmn")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.65785, -352.384)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.65785, 24.8973)
 
 [node name="Map" type="StaticBody3D" parent="."]
 
