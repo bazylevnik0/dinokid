@@ -10,6 +10,21 @@
 [sub_resource type="BoxShape3D" id="BoxShape3D_715jo"]
 size = Vector3(20.1808, 6.26833, 20.337)
 
+[sub_resource type="Animation" id="Animation_3feo2"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, -77.682, -397.562)]
+}
+
 [sub_resource type="Animation" id="Animation_cadpm"]
 resource_name = "moving"
 length = 8.0
@@ -25,21 +40,6 @@ tracks/0/keys = {
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
 "values": [Vector3(0, -77.682, -397.562), Vector3(0, -77.682, -469.465)]
-}
-
-[sub_resource type="Animation" id="Animation_3feo2"]
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath(".:position")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 0,
-"values": [Vector3(0, -77.682, -397.562)]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_y3udp"]

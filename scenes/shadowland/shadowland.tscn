@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://btwdmvdj2dewj"]
+
+[ext_resource type="PackedScene" uid="uid://b20s540qhst7a" path="res://scenes/shadowland/shadowland.glb" id="1_nbbjc"]
+[ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://scenes/global/dino/dino.tscn" id="2_li4o7"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Dino" parent="." instance=ExtResource("2_li4o7")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.81851, -30.6898)
+
+[node name="shadowland" parent="." instance=ExtResource("1_nbbjc")]
