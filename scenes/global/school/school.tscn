@@ -8,5 +8,6 @@
 [node name="Dino" parent="." instance=ExtResource("1_vw5f2")]
 
 [node name="StaticBody3D-school" type="StaticBody3D" parent="."]
+transform = Transform3D(100, 0, 0, 0, 100, 0, 0, 0, 100, 0, 0, 0)
 
 [node name="school" parent="StaticBody3D-school" instance=ExtResource("1_akq62")]
