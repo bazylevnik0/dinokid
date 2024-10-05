@@ -1,4 +1,4 @@
-[gd_scene load_steps=8 format=3 uid="uid://b4wudneakgx1g"]
+[gd_scene load_steps=7 format=3 uid="uid://b4wudneakgx1g"]
 
 [ext_resource type="PackedScene" uid="uid://c4twjgra3i8dp" path="res://scenes/global/dino/dino.glb" id="1_abwe3"]
 [ext_resource type="Script" path="res://scenes/global/dino/dino.gd" id="1_igx1c"]
@@ -8,9 +8,6 @@
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_eftsy"]
 size = Vector3(5, 10, 5)
-
-[sub_resource type="Environment" id="Environment_jly0n"]
-background_mode = 1
 
 [node name="Dino" type="Node3D"]
 
@@ -51,7 +48,6 @@ transform = Transform3D(-1, 0, -2.98023e-08, 0, 1, 0, 2.98023e-08, 0, -1, -0.086
 
 [node name="Camera3D" type="Camera3D" parent="Player"]
 transform = Transform3D(-3.78552e-08, -0.5, 0.866025, -2.18557e-08, 0.866025, 0.5, -1, 0, -4.37114e-08, 12.495, 11.6736, 0)
-environment = SubResource("Environment_jly0n")
 
 [node name="SoundWalking" type="AudioStreamPlayer3D" parent="Player"]
 stream = ExtResource("4_0hx34")

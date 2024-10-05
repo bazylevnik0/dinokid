@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://btwdmvdj2dewj"]
+[gd_scene load_steps=13 format=3 uid="uid://btwdmvdj2dewj"]
 
 [ext_resource type="Script" path="res://scenes/shadowland/shadowland.gd" id="1_fiver"]
 [ext_resource type="PackedScene" uid="uid://b20s540qhst7a" path="res://scenes/shadowland/shadowland.glb" id="1_nbbjc"]
@@ -52,6 +52,12 @@ size = Vector3(100.543, 1, 129.845)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_0crce"]
 size = Vector3(698.594, 1, 1303.63)
+
+[sub_resource type="Environment" id="Environment_l6hfs"]
+background_mode = 1
+background_color = Color(1, 0.511693, 0.501327, 1)
+ambient_light_color = Color(1, 1, 1, 1)
+ambient_light_energy = 0.5
 
 [node name="Node3D" type="Node3D"]
 script = ExtResource("1_fiver")
@@ -120,6 +126,9 @@ shape = SubResource("BoxShape3D_tab37")
 [node name="AreaOff" type="CollisionShape3D" parent="ResetArea"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.66137, -39.1661, -301.494)
 shape = SubResource("BoxShape3D_0crce")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_l6hfs")
 
 [connection signal="body_entered" from="ArcTraps/arc-trap/NearTrap" to="." method="_on_near_trap_body_entered"]
 [connection signal="body_entered" from="ArcTraps/arc-trap2/NearTrap" to="." method="_on_near_trap_body_entered"]
