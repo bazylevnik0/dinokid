@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://cb425s7wfe5q5"]
+
+[ext_resource type="VideoStream" path="res://movies/shadowland_intro/out/shadowland_intro.ogv" id="1_ebm43"]
+[ext_resource type="Script" path="res://movies/shadowland_intro/shadowland_intro.gd" id="2_ecmxg"]
+
+[node name="VideoStreamPlayer" type="VideoStreamPlayer"]
+offset_right = 40.0
+offset_bottom = 40.0
+stream = ExtResource("1_ebm43")
+autoplay = true
+script = ExtResource("2_ecmxg")

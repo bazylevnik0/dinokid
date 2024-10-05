@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dddq32aqhy62c"
-path="res://.godot/imported/voice.wav-5030f29592ca5a0bdffd024b839fbda4.sample"
+path="res://.godot/imported/voice.wav-8bcd808487ab60c4c448ef288ed12bb1.sample"
 
 [deps]
 
-source_file="res://scenes/movies/homeisland_intro/voice.wav"
-dest_files=["res://.godot/imported/voice.wav-5030f29592ca5a0bdffd024b839fbda4.sample"]
+source_file="res://movies/homeisland_intro/voice.wav"
+dest_files=["res://.godot/imported/voice.wav-8bcd808487ab60c4c448ef288ed12bb1.sample"]
 
 [params]
 
