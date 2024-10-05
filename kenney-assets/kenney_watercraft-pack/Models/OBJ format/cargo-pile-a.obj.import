@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://h3rggst5s7v6"
+path="res://.godot/imported/cargo-pile-a.obj-17f3bebc3424fd7283006025ff733cff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cargo-pile-a.obj-17f3bebc3424fd7283006025ff733cff.mesh"]
+
+source_file="res://kenney-assets/kenney_watercraft-pack/Models/OBJ format/cargo-pile-a.obj"
+dest_files=["res://.godot/imported/cargo-pile-a.obj-17f3bebc3424fd7283006025ff733cff.mesh", "res://.godot/imported/cargo-pile-a.obj-17f3bebc3424fd7283006025ff733cff.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

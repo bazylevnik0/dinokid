@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://cvh1ti5pd3eac"]
+
+[ext_resource type="PackedScene" uid="uid://dvisj0vqukv3h" path="res://scenes/global/school/school.glb" id="1_akq62"]
+[ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://scenes/global/dino/dino.tscn" id="1_vw5f2"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Dino" parent="." instance=ExtResource("1_vw5f2")]
+
+[node name="StaticBody3D-school" type="StaticBody3D" parent="."]
+transform = Transform3D(100, 0, 0, 0, 100, 0, 0, 0, 100, 0, 0, 0)
+
+[node name="school" parent="StaticBody3D-school" instance=ExtResource("1_akq62")]

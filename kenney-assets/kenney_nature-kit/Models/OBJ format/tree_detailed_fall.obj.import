@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://m0lhh82c0h1k"
+path="res://.godot/imported/tree_detailed_fall.obj-4b929cc9a60d18bc0d466c5e41d0759c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_detailed_fall.obj-4b929cc9a60d18bc0d466c5e41d0759c.mesh"]
+
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/tree_detailed_fall.obj"
+dest_files=["res://.godot/imported/tree_detailed_fall.obj-4b929cc9a60d18bc0d466c5e41d0759c.mesh", "res://.godot/imported/tree_detailed_fall.obj-4b929cc9a60d18bc0d466c5e41d0759c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

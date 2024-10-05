@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dpisw57g7ca3v"
+path="res://.godot/imported/coin-silver.obj-cbfac622f089bd7444ccfda66c0a54ec.mesh"
+
+[deps]
+
+files=["res://.godot/imported/coin-silver.obj-cbfac622f089bd7444ccfda66c0a54ec.mesh"]
+
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/coin-silver.obj"
+dest_files=["res://.godot/imported/coin-silver.obj-cbfac622f089bd7444ccfda66c0a54ec.mesh", "res://.godot/imported/coin-silver.obj-cbfac622f089bd7444ccfda66c0a54ec.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

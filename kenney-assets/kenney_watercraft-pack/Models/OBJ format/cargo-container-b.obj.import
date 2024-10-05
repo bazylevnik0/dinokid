@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://pwqpt8jfhveu"
+path="res://.godot/imported/cargo-container-b.obj-4a2703855ff79326e6700661f6144c68.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cargo-container-b.obj-4a2703855ff79326e6700661f6144c68.mesh"]
+
+source_file="res://kenney-assets/kenney_watercraft-pack/Models/OBJ format/cargo-container-b.obj"
+dest_files=["res://.godot/imported/cargo-container-b.obj-4a2703855ff79326e6700661f6144c68.mesh", "res://.godot/imported/cargo-container-b.obj-4a2703855ff79326e6700661f6144c68.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

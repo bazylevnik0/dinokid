@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cegaknkby2ku0"
+path="res://.godot/imported/block-snow-curve-half.obj-4d40d9cd5996a4fb478ab57493f3cb5e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-snow-curve-half.obj-4d40d9cd5996a4fb478ab57493f3cb5e.mesh"]
+
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/block-snow-curve-half.obj"
+dest_files=["res://.godot/imported/block-snow-curve-half.obj-4d40d9cd5996a4fb478ab57493f3cb5e.mesh", "res://.godot/imported/block-snow-curve-half.obj-4d40d9cd5996a4fb478ab57493f3cb5e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

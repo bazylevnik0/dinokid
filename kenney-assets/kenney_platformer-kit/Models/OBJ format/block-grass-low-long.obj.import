@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bb0iuhc5ugyor"
+path="res://.godot/imported/block-grass-low-long.obj-28d39b241e4495b3bb4b5718dbb77c75.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-grass-low-long.obj-28d39b241e4495b3bb4b5718dbb77c75.mesh"]
+
+source_file="res://kenney-assets/kenney_platformer-kit/Models/OBJ format/block-grass-low-long.obj"
+dest_files=["res://.godot/imported/block-grass-low-long.obj-28d39b241e4495b3bb4b5718dbb77c75.mesh", "res://.godot/imported/block-grass-low-long.obj-28d39b241e4495b3bb4b5718dbb77c75.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

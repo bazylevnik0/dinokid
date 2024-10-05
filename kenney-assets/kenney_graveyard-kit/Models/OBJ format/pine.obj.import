@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ch4h1wb3h0fdi"
+path="res://.godot/imported/pine.obj-c3740b8c32b7a13b1f2fedb858bfaeba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pine.obj-c3740b8c32b7a13b1f2fedb858bfaeba.mesh"]
+
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/pine.obj"
+dest_files=["res://.godot/imported/pine.obj-c3740b8c32b7a13b1f2fedb858bfaeba.mesh", "res://.godot/imported/pine.obj-c3740b8c32b7a13b1f2fedb858bfaeba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

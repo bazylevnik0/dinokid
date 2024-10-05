@@ -1,0 +1,155 @@
+[gd_scene load_steps=16 format=3 uid="uid://btwdmvdj2dewj"]
+
+[ext_resource type="Script" path="res://scenes/shadowland/shadowland.gd" id="1_fiver"]
+[ext_resource type="PackedScene" uid="uid://b20s540qhst7a" path="res://scenes/shadowland/shadowland.glb" id="1_nbbjc"]
+[ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://scenes/global/dino/dino.tscn" id="2_li4o7"]
+[ext_resource type="PackedScene" uid="uid://dorhxqexd60o7" path="res://scenes/shadowland/arc-trap.glb" id="3_04v57"]
+[ext_resource type="PackedScene" uid="uid://dxkluhf78373e" path="res://scenes/shadowland/bridge_platform.tscn" id="5_84t50"]
+[ext_resource type="AudioStream" uid="uid://cr6f528ve65v0" path="res://16-Bit Starter Pack/Overworld/Long Road Ahead.ogg" id="6_8bq1i"]
+[ext_resource type="AudioStream" uid="uid://df3701c5mx3q0" path="res://scenes/global/dino/restarting.wav" id="6_h16il"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ou2vp"]
+size = Vector3(0.661011, 0.980469, 0.258789)
+
+[sub_resource type="Animation" id="Animation_trmr0"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:rotation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_epfrj"]
+resource_name = "new_animation"
+length = 4.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:rotation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 4),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 0), Vector3(0, 6.28319, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_h4744"]
+_data = {
+"RESET": SubResource("Animation_trmr0"),
+"new_animation": SubResource("Animation_epfrj")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_tab37"]
+size = Vector3(100.543, 1, 129.845)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0crce"]
+size = Vector3(698.594, 1, 1303.63)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_hb27v"]
+size = Vector3(22.4319, 21.98, 25.6684)
+
+[sub_resource type="Environment" id="Environment_l6hfs"]
+background_mode = 1
+background_color = Color(1, 0.511693, 0.501327, 1)
+ambient_light_color = Color(1, 1, 1, 1)
+ambient_light_energy = 0.5
+
+[node name="Node3D" type="Node3D"]
+script = ExtResource("1_fiver")
+
+[node name="Dino" parent="." instance=ExtResource("2_li4o7")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.69323, -15.4414)
+
+[node name="shadowland" parent="." instance=ExtResource("1_nbbjc")]
+
+[node name="ArcTraps" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -76.5976)
+
+[node name="arc-trap" parent="ArcTraps" instance=ExtResource("3_04v57")]
+transform = Transform3D(15, 0, 0, 0, 15, 0, 0, 0, 15, 0.14004, -0.366657, 7.48924)
+
+[node name="NearTrap" type="Area3D" parent="ArcTraps/arc-trap"]
+transform = Transform3D(0.0666667, 0, 0, 0, 0.0666667, 0, 0, 0, 0.0666667, -0.00541019, -0.128331, -0.309857)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="ArcTraps/arc-trap/NearTrap"]
+transform = Transform3D(15, 0, 0, 0, 15, 0, 0, 0, 15, 4.67983, 7.96798, 4.56729)
+shape = SubResource("BoxShape3D_ou2vp")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ArcTraps/arc-trap"]
+libraries = {
+"": SubResource("AnimationLibrary_h4744")
+}
+autoplay = "new_animation"
+
+[node name="arc-trap2" parent="ArcTraps" instance=ExtResource("3_04v57")]
+transform = Transform3D(15, 0, 0, 0, 15, 0, 0, 0, 15, 0.14004, -0.366657, -34.1216)
+
+[node name="NearTrap" type="Area3D" parent="ArcTraps/arc-trap2"]
+transform = Transform3D(0.0666667, 0, 0, 0, 0.0666667, 0, 0, 0, 0.0666667, -0.00541019, -0.128331, -0.309857)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="ArcTraps/arc-trap2/NearTrap"]
+transform = Transform3D(15, 0, 0, 0, 15, 0, 0, 0, 15, 4.67983, 7.96798, 4.56729)
+shape = SubResource("BoxShape3D_ou2vp")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ArcTraps/arc-trap2"]
+libraries = {
+"": SubResource("AnimationLibrary_h4744")
+}
+autoplay = "new_animation"
+
+[node name="BridgePlatforms" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -76.5976)
+
+[node name="BridgePlatform1" parent="BridgePlatforms" instance=ExtResource("5_84t50")]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, -0.984844, 28.2752, -134.476)
+
+[node name="BridgePlatform2" parent="BridgePlatforms" instance=ExtResource("5_84t50")]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 27.9648, -160.321)
+
+[node name="BridgePlatform3" parent="BridgePlatforms" instance=ExtResource("5_84t50")]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 27.9648, -186.97)
+
+[node name="BridgePlatform4" parent="BridgePlatforms" instance=ExtResource("5_84t50")]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 27.9648, -212.615)
+
+[node name="ResetArea" type="Area3D" parent="."]
+
+[node name="BridgeLiquid" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.572411, -10.0821, -247.773)
+shape = SubResource("BoxShape3D_tab37")
+
+[node name="AreaOff" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.66137, -39.1661, -301.494)
+shape = SubResource("BoxShape3D_0crce")
+
+[node name="ExitArea" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="ExitArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.733124, 8.83083, -615.897)
+shape = SubResource("BoxShape3D_hb27v")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_l6hfs")
+
+[node name="SoundRestart" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("6_h16il")
+volume_db = 15.0
+
+[node name="Music" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("6_8bq1i")
+autoplay = true
+
+[connection signal="body_entered" from="ArcTraps/arc-trap/NearTrap" to="." method="_on_near_trap_body_entered"]
+[connection signal="body_entered" from="ArcTraps/arc-trap2/NearTrap" to="." method="_on_near_trap_body_entered"]
+[connection signal="body_entered" from="ResetArea" to="." method="_on_reset_area_body_entered"]
+[connection signal="body_entered" from="ExitArea" to="." method="_on_exit_area_body_entered"]

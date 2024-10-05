@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://cis03rxvl6s1u"]
+
+[ext_resource type="PackedScene" uid="uid://bdjf4dyixbnfm" path="res://kenney-assets/kenney_platformer-kit/Models/GLB format/block-moving.glb" id="1_4gpa6"]
+[ext_resource type="Script" path="res://scenes/homeisland/ocean_stone.gd" id="1_lriae"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_xyhn5"]
+size = Vector3(20.1886, 6.10944, 20.0559)
+
+[node name="Node3D" type="Node3D"]
+script = ExtResource("1_lriae")
+
+[node name="AnimatableBody3D" type="AnimatableBody3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="AnimatableBody3D"]
+shape = SubResource("BoxShape3D_xyhn5")
+
+[node name="block-moving2" parent="AnimatableBody3D" instance=ExtResource("1_4gpa6")]
+transform = Transform3D(20, 0, 0, 0, 20, 0, 0, 0, 20, -0.000175476, -2.98837, 9.91821e-05)

@@ -1,0 +1,191 @@
+[gd_scene load_steps=20 format=3 uid="uid://dx4lxm1r2jg7p"]
+
+[ext_resource type="Script" path="res://scenes/homeisland/homeisland.gd" id="1_8qmwn"]
+[ext_resource type="PackedScene" uid="uid://xssqo1e5cb6j" path="res://scenes/homeisland/homeisland.glb" id="1_xpp0k"]
+[ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://scenes/global/dino/dino.tscn" id="2_lywmn"]
+[ext_resource type="PackedScene" uid="uid://dn1826ljsp2di" path="res://scenes/homeisland/river_stone.tscn" id="3_susdb"]
+[ext_resource type="PackedScene" uid="uid://bdjf4dyixbnfm" path="res://kenney-assets/kenney_platformer-kit/Models/GLB format/block-moving.glb" id="5_3yr24"]
+[ext_resource type="PackedScene" uid="uid://cis03rxvl6s1u" path="res://scenes/homeisland/ocean_stone.tscn" id="6_xh1xo"]
+[ext_resource type="AudioStream" uid="uid://4dhw0diysbyx" path="res://16-Bit Starter Pack/Overworld/Journey Across the Blue.ogg" id="7_ohhf1"]
+[ext_resource type="AudioStream" uid="uid://df3701c5mx3q0" path="res://scenes/global/dino/restarting.wav" id="8_ouabf"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_715jo"]
+size = Vector3(20.1808, 6.26833, 20.337)
+
+[sub_resource type="Animation" id="Animation_3feo2"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, -77.682, -397.562)]
+}
+
+[sub_resource type="Animation" id="Animation_cadpm"]
+resource_name = "moving"
+length = 8.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 4),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, -77.682, -397.562), Vector3(0, -77.682, -469.465)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_y3udp"]
+_data = {
+"RESET": SubResource("Animation_3feo2"),
+"moving": SubResource("Animation_cadpm")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_coxer"]
+size = Vector3(27.5924, 4.00208, 12.3622)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_vpcgt"]
+size = Vector3(89.3133, 1, 138.744)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_lexrg"]
+size = Vector3(46.8854, 1, 56.8051)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_umedf"]
+size = Vector3(89.1392, 2.36511, 401.126)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_dsvot"]
+size = Vector3(896.36, 1, 1653.5)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_tlxav"]
+size = Vector3(34.5292, 22.614, 20.2758)
+
+[sub_resource type="Environment" id="Environment_7ghn8"]
+background_mode = 1
+background_color = Color(0.318418, 0.52379, 0.991379, 1)
+ambient_light_source = 3
+ambient_light_color = Color(1, 1, 1, 1)
+ambient_light_energy = 0.5
+
+[node name="Node3D" type="Node3D"]
+script = ExtResource("1_8qmwn")
+
+[node name="Dino" parent="." instance=ExtResource("2_lywmn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.65785, 24.8973)
+
+[node name="Map" type="StaticBody3D" parent="."]
+
+[node name="homeisland" parent="Map" instance=ExtResource("1_xpp0k")]
+transform = Transform3D(-1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 0, 0, 0)
+
+[node name="RiverStones" type="StaticBody3D" parent="."]
+
+[node name="RiverStone9" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.5748, -26.5734, -192.899)
+
+[node name="RiverStone8" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.5748, -26.5734, -180.603)
+
+[node name="RiverStone7" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.4541, -26.5734, -168.044)
+
+[node name="RiverStone6" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.4504, -26.5597, -155.757)
+
+[node name="RiverStone5" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -26.4992, -155.689)
+
+[node name="RiverStone4" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.9352, -26.5885, -155.713)
+
+[node name="RiverStone3" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.012, -26.5732, -142.823)
+
+[node name="RiverStone2" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.9076, -26.6629, -129.588)
+
+[node name="RiverStone1" parent="RiverStones" instance=ExtResource("3_susdb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.9631, -26.8733, -116.192)
+
+[node name="BridgeStone" type="AnimatableBody3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -77.682, -397.562)
+
+[node name="block-moving2" parent="BridgeStone" instance=ExtResource("5_3yr24")]
+transform = Transform3D(20, 0, 0, 0, 20, 0, 0, 0, 20, 0, -6.10539, 6.58301)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="BridgeStone"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00162125, -3.04973, 6.5936)
+shape = SubResource("BoxShape3D_715jo")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="BridgeStone"]
+libraries = {
+"": SubResource("AnimationLibrary_y3udp")
+}
+autoplay = "moving"
+
+[node name="OceanStones" type="AnimatableBody3D" parent="."]
+
+[node name="OceanStone1" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -88, -526.681)
+
+[node name="OceanStone2" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -83.4478, -552.619)
+
+[node name="OceanStone3" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -79.0933, -578.445)
+
+[node name="OceanStone4" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -73.1999, -604.481)
+
+[node name="OceanStone5" parent="OceanStones" instance=ExtResource("6_xh1xo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -67.6411, -630.599)
+
+[node name="ResetArea" type="Area3D" parent="."]
+
+[node name="MountainTrap" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.295273, -20.737, -70.725)
+shape = SubResource("BoxShape3D_coxer")
+
+[node name="RiverWater" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0701141, -36.1452, -148.373)
+shape = SubResource("BoxShape3D_vpcgt")
+
+[node name="ForrestTrap" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 0.660067, 0.751207, 0, -0.751207, 0.660067, -0.100204, -50.2572, -294.415)
+shape = SubResource("BoxShape3D_lexrg")
+
+[node name="OceanWater" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.310349, -89.1589, -551.112)
+shape = SubResource("BoxShape3D_umedf")
+
+[node name="OffArea" type="CollisionShape3D" parent="ResetArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.840248, -114.301, -497.67)
+shape = SubResource("BoxShape3D_dsvot")
+
+[node name="ExitArea" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="ExitArea"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.317825, -76.4836, -722.717)
+shape = SubResource("BoxShape3D_tlxav")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_7ghn8")
+
+[node name="Music" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("7_ohhf1")
+autoplay = true
+
+[node name="SoundRestart" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("8_ouabf")
+volume_db = 15.0
+
+[connection signal="body_entered" from="ResetArea" to="." method="_on_reset_area_body_entered"]
+[connection signal="body_entered" from="ExitArea" to="." method="_on_exit_area_body_entered"]

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://co80njwy5wnne"
+path="res://.godot/imported/crypt-small-roof.obj-e992e0ad1e1adba60ce7ab8d8ae7ca8b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crypt-small-roof.obj-e992e0ad1e1adba60ce7ab8d8ae7ca8b.mesh"]
+
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/crypt-small-roof.obj"
+dest_files=["res://.godot/imported/crypt-small-roof.obj-e992e0ad1e1adba60ce7ab8d8ae7ca8b.mesh", "res://.godot/imported/crypt-small-roof.obj-e992e0ad1e1adba60ce7ab8d8ae7ca8b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

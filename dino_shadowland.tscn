@@ -1,9 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://qs4hg66fdu5l"]
-
-[ext_resource type="VideoStream" path="res://dino_shadowland.ogv" id="1_6gty8"]
-
-[node name="VideoStreamPlayer" type="VideoStreamPlayer"]
-offset_right = 40.0
-offset_bottom = 40.0
-stream = ExtResource("1_6gty8")
-autoplay = true

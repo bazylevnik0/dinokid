@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bnatcn2ow5pvm"
+path="res://.godot/imported/fence-damaged.obj-2bb63daf4e6be5b431bdf7aa976b9ace.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fence-damaged.obj-2bb63daf4e6be5b431bdf7aa976b9ace.mesh"]
+
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/fence-damaged.obj"
+dest_files=["res://.godot/imported/fence-damaged.obj-2bb63daf4e6be5b431bdf7aa976b9ace.mesh", "res://.godot/imported/fence-damaged.obj-2bb63daf4e6be5b431bdf7aa976b9ace.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

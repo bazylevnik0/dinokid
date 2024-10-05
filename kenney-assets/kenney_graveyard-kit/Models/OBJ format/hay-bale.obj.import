@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://u6lftakvagna"
+path="res://.godot/imported/hay-bale.obj-726a7fa6ce63e9a262d1caf5e3f5b328.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hay-bale.obj-726a7fa6ce63e9a262d1caf5e3f5b328.mesh"]
+
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/hay-bale.obj"
+dest_files=["res://.godot/imported/hay-bale.obj-726a7fa6ce63e9a262d1caf5e3f5b328.mesh", "res://.godot/imported/hay-bale.obj-726a7fa6ce63e9a262d1caf5e3f5b328.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

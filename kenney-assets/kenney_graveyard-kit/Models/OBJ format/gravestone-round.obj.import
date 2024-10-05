@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chvhmpb303iox"
+path="res://.godot/imported/gravestone-round.obj-9783b74bd3bc00506153b682084d9820.mesh"
+
+[deps]
+
+files=["res://.godot/imported/gravestone-round.obj-9783b74bd3bc00506153b682084d9820.mesh"]
+
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/gravestone-round.obj"
+dest_files=["res://.godot/imported/gravestone-round.obj-9783b74bd3bc00506153b682084d9820.mesh", "res://.godot/imported/gravestone-round.obj-9783b74bd3bc00506153b682084d9820.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

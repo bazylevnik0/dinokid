@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://nakt5d4vr2on"
+path="res://.godot/imported/crops_bambooStageA.obj-a0d5f1f06b70f04ef8f7008884d77582.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crops_bambooStageA.obj-a0d5f1f06b70f04ef8f7008884d77582.mesh"]
+
+source_file="res://kenney-assets/kenney_nature-kit/Models/OBJ format/crops_bambooStageA.obj"
+dest_files=["res://.godot/imported/crops_bambooStageA.obj-a0d5f1f06b70f04ef8f7008884d77582.mesh", "res://.godot/imported/crops_bambooStageA.obj-a0d5f1f06b70f04ef8f7008884d77582.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://v8lmta0v3aep"
+path="res://.godot/imported/pine-fall.obj-d820665efe2d1894b10d360e3ac3d5bd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pine-fall.obj-d820665efe2d1894b10d360e3ac3d5bd.mesh"]
+
+source_file="res://kenney-assets/kenney_graveyard-kit/Models/OBJ format/pine-fall.obj"
+dest_files=["res://.godot/imported/pine-fall.obj-d820665efe2d1894b10d360e3ac3d5bd.mesh", "res://.godot/imported/pine-fall.obj-d820665efe2d1894b10d360e3ac3d5bd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
