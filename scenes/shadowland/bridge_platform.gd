@@ -16,5 +16,4 @@ func _process(delta: float) -> void:
 func _on_area_on_platform_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :
 		on_platform = true
-		print("hehe")
 	pass # Replace with function body.

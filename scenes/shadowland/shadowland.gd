@@ -8,6 +8,8 @@ func _ready() -> void:
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
+	if not $Music.playing :
+		$Music.play()
 	pass
 	
 func return_to_start():
@@ -22,6 +24,7 @@ func return_to_start():
 	$BridgePlatforms/BridgePlatform3.on_platform = false
 	$BridgePlatforms/BridgePlatform4.on_platform = false
 	$Dino/Player.position = Vector3(0, 2.693, -15.441) # starting position
+	$SoundRestart.play()
 	pass
 func _on_near_trap_body_entered(body: Node3D) -> void:
 	if body.name == "Player" :

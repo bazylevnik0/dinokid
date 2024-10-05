@@ -1,4 +1,4 @@
-[gd_scene load_steps=17 format=3 uid="uid://dx4lxm1r2jg7p"]
+[gd_scene load_steps=18 format=3 uid="uid://dx4lxm1r2jg7p"]
 
 [ext_resource type="Script" path="res://scenes/homeisland/homeisland.gd" id="1_8qmwn"]
 [ext_resource type="PackedScene" uid="uid://xssqo1e5cb6j" path="res://scenes/homeisland/homeisland.glb" id="1_xpp0k"]
@@ -6,6 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://dn1826ljsp2di" path="res://scenes/homeisland/river_stone.tscn" id="3_susdb"]
 [ext_resource type="PackedScene" uid="uid://bdjf4dyixbnfm" path="res://kenney-assets/kenney_platformer-kit/Models/GLB format/block-moving.glb" id="5_3yr24"]
 [ext_resource type="PackedScene" uid="uid://cis03rxvl6s1u" path="res://scenes/homeisland/ocean_stone.tscn" id="6_xh1xo"]
+[ext_resource type="AudioStream" uid="uid://4dhw0diysbyx" path="res://16-Bit Starter Pack/Overworld/Journey Across the Blue.ogg" id="7_ohhf1"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_715jo"]
 size = Vector3(20.1808, 6.26833, 20.337)
@@ -167,5 +168,9 @@ shape = SubResource("BoxShape3D_dsvot")
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource("Environment_7ghn8")
+
+[node name="Music" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("7_ohhf1")
+autoplay = true
 
 [connection signal="body_entered" from="ResetArea" to="." method="_on_reset_area_body_entered"]

@@ -1,10 +1,12 @@
-[gd_scene load_steps=13 format=3 uid="uid://btwdmvdj2dewj"]
+[gd_scene load_steps=15 format=3 uid="uid://btwdmvdj2dewj"]
 
 [ext_resource type="Script" path="res://scenes/shadowland/shadowland.gd" id="1_fiver"]
 [ext_resource type="PackedScene" uid="uid://b20s540qhst7a" path="res://scenes/shadowland/shadowland.glb" id="1_nbbjc"]
 [ext_resource type="PackedScene" uid="uid://b4wudneakgx1g" path="res://scenes/global/dino/dino.tscn" id="2_li4o7"]
 [ext_resource type="PackedScene" uid="uid://dorhxqexd60o7" path="res://scenes/shadowland/arc-trap.glb" id="3_04v57"]
 [ext_resource type="PackedScene" uid="uid://dxkluhf78373e" path="res://scenes/shadowland/bridge_platform.tscn" id="5_84t50"]
+[ext_resource type="AudioStream" uid="uid://cr6f528ve65v0" path="res://16-Bit Starter Pack/Overworld/Long Road Ahead.ogg" id="6_8bq1i"]
+[ext_resource type="AudioStream" uid="uid://df3701c5mx3q0" path="res://scenes/global/dino/restarting.wav" id="6_h16il"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ou2vp"]
 size = Vector3(0.661011, 0.980469, 0.258789)
@@ -129,6 +131,14 @@ shape = SubResource("BoxShape3D_0crce")
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource("Environment_l6hfs")
+
+[node name="SoundRestart" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("6_h16il")
+volume_db = 15.0
+
+[node name="Music" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("6_8bq1i")
+autoplay = true
 
 [connection signal="body_entered" from="ArcTraps/arc-trap/NearTrap" to="." method="_on_near_trap_body_entered"]
 [connection signal="body_entered" from="ArcTraps/arc-trap2/NearTrap" to="." method="_on_near_trap_body_entered"]
