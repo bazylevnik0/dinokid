@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://bpl5ej46463mq"]
+
+[ext_resource type="Texture2D" uid="uid://cavj0c55gw38p" path="res://movies/shadowland_outro/shadowland_outro_end.png" id="1_cyqmm"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_left = -39.0
+offset_top = -26.0
+offset_right = 851.0
+offset_bottom = 632.0
+texture = ExtResource("1_cyqmm")

@@ -13,8 +13,7 @@ config_version=5
 config/name="Dinokid"
 run/main_scene="res://movies/homeisland_intro/homeisland_intro.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
-boot_splash/image="res://icon.png"
-boot_splash/fullsize=false
+boot_splash/image="res://banner.png"
 config/icon="res://icon.svg"
 
 [display]
